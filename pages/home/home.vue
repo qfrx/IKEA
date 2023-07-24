@@ -1,6 +1,6 @@
 <template>
-	<view class="">
-		<button @click="onLogin">测试</button>
+	<view class="home-logo">
+       <image class="logo" src="https://static.web.ikea.cn/static/images/h5/h5-logo.svg" mode=""></image>		
 	</view>
 </template>
 
@@ -22,4 +22,13 @@ export default {
 	}
 }
 </script>
+
+<style lang="scss">
+	.home-logo{
+		.logo{
+			height: 48rpx;
+		}
+	}
+	
+</style>
 

@@ -1,5 +1,7 @@
 <template>
-	<button @click="onLogin">测试</button>
+	<view class="">
+		<button @click="onLogin">测试</button>
+	</view>
 </template>
 
 <script>

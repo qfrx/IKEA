@@ -1,0 +1,12 @@
+
+// 变量可自行添加修改
+export default { // 存放变量的容器
+	appid: '****',
+	// baseUrl: 'http://**.***.***.***',
+	baseUrl: 'https://www.fastmock.site/mock/e541fecefa807f3bb99b28a4e4277f24/ikea',
+};
+
+
+// appid :小程序appid
+// baseUrl : 服务端域名
+

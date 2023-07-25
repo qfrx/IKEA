@@ -13,6 +13,12 @@
 			"app-plus": {
 				"titleView": false //清除头部标题
 			}
+		},
+		{
+			"path": "pages/classPages/classPages",
+			"style": {
+				"navigationBarTitleText": "uni-app"
+			}
 		}
 	],
 	"globalStyle": {

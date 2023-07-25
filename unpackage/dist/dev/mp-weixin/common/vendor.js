@@ -19256,7 +19256,9 @@ var _interopRequireDefault = __webpack_require__(/*! @babel/runtime/helpers/inte
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
+exports.getEankingEasy = getEankingEasy;
 exports.getHomeBanner = getHomeBanner;
+exports.getRecommendationsCard = getRecommendationsCard;
 exports.getRecommendationsScroll = getRecommendationsScroll;
 var _request = _interopRequireDefault(__webpack_require__(/*! @/utils/request */ 166));
 // 引用网络请求中间件
@@ -19269,9 +19271,29 @@ function getHomeBanner(data) {
     data: data
   });
 }
+
+// 近期推荐横向滚动数据
 function getRecommendationsScroll(data) {
   return (0, _request.default)({
     url: '/recommendations/scroll',
+    method: 'GET',
+    data: data
+  });
+}
+
+// 近期推荐卡片数据
+function getRecommendationsCard(data) {
+  return (0, _request.default)({
+    url: '/recommendations/card',
+    method: 'GET',
+    data: data
+  });
+}
+// 
+// 简易版热销排行数据
+function getEankingEasy(data) {
+  return (0, _request.default)({
+    url: '/ranking/easy',
     method: 'GET',
     data: data
   });

@@ -199,15 +199,62 @@ var _home = __webpack_require__(/*! @/api/home */ 165);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 var _default = {
   data: function data() {
     return {
       bannerList: [],
       //轮播图数据
-      recommendationsScrollList: [] //近期推荐数据
+      recommendationsScrollList: [],
+      //近期推荐数据--滚动
+      recommendationsCardList: [],
+      //近期推荐数据--卡片
+      rankingEasyList: [],
+      //热销排行榜数据
+      numBgColor: ['#ffdf01', '#bfbfbf', '#fd9d40']
     };
   },
-
   methods: {
     //获取轮播图数据
     getHomeBannerFun: function getHomeBannerFun() {
@@ -242,6 +289,7 @@ var _default = {
         }, _callee, null, [[0, 7]]);
       }))();
     },
+    //获取近期推荐横向滚动数据
     getRecommendationsScrollFun: function getRecommendationsScrollFun() {
       var _this2 = this;
       return (0, _asyncToGenerator2.default)( /*#__PURE__*/_regenerator.default.mark(function _callee2() {
@@ -271,11 +319,75 @@ var _default = {
           }
         }, _callee2, null, [[0, 7]]);
       }))();
+    },
+    // 获取近期推荐卡片数据
+    getRecommendationsCardFun: function getRecommendationsCardFun() {
+      var _this3 = this;
+      return (0, _asyncToGenerator2.default)( /*#__PURE__*/_regenerator.default.mark(function _callee3() {
+        var res;
+        return _regenerator.default.wrap(function _callee3$(_context3) {
+          while (1) {
+            switch (_context3.prev = _context3.next) {
+              case 0:
+                _context3.prev = 0;
+                _context3.next = 3;
+                return (0, _home.getRecommendationsCard)();
+              case 3:
+                res = _context3.sent;
+                _this3.recommendationsCardList = res.list;
+                _context3.next = 10;
+                break;
+              case 7:
+                _context3.prev = 7;
+                _context3.t0 = _context3["catch"](0);
+                uni.showModal({
+                  title: "\u5931\u8D25222"
+                });
+              case 10:
+              case "end":
+                return _context3.stop();
+            }
+          }
+        }, _callee3, null, [[0, 7]]);
+      }))();
+    },
+    // 获取热销榜（简易）数据
+    getEankingEasyFun: function getEankingEasyFun() {
+      var _this4 = this;
+      return (0, _asyncToGenerator2.default)( /*#__PURE__*/_regenerator.default.mark(function _callee4() {
+        var res;
+        return _regenerator.default.wrap(function _callee4$(_context4) {
+          while (1) {
+            switch (_context4.prev = _context4.next) {
+              case 0:
+                _context4.prev = 0;
+                _context4.next = 3;
+                return (0, _home.getEankingEasy)();
+              case 3:
+                res = _context4.sent;
+                _this4.rankingEasyList = res.list;
+                _context4.next = 10;
+                break;
+              case 7:
+                _context4.prev = 7;
+                _context4.t0 = _context4["catch"](0);
+                uni.showModal({
+                  title: "\u5931\u8D25222"
+                });
+              case 10:
+              case "end":
+                return _context4.stop();
+            }
+          }
+        }, _callee4, null, [[0, 7]]);
+      }))();
     }
   },
   onLoad: function onLoad() {
     this.getHomeBannerFun();
     this.getRecommendationsScrollFun();
+    this.getRecommendationsCardFun();
+    this.getEankingEasyFun();
   }
 };
 exports.default = _default;

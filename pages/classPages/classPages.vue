@@ -222,17 +222,17 @@
 			top: 326rpx;
 			display: flex;
 			width: 100%;
-			height: 1008rpx;
+			height: calc(100vh - 360rpx);
 			border-top-left-radius: 20px;
 			border-top-right-radius: 20px;
 			overflow: hidden;
-			background-color: pink;
+			background-color: #fff;
 			.classPages-box-left {
 				width: 160rpx;
-				height: 1008rpx;
+				height: 100%;
 				.scroll-box {
 					width: 100%;
-					height: 1008rpx;
+					height: 100%;
 					.scroll-list {
 						display: flex;
 						justify-content: center;
@@ -255,11 +255,11 @@
 			}
 			.classPages-box-right {
 				width: calc(100% - 160rpx);
-				height: 1008rpx;
+				height: 100%;
 				background-color: #fff;
 				.scrollY-box {
 					width: 100%;
-					height: 1008rpx;
+					height: 100%;
 					.scrollY-box-title {
 						width: 100%;
 						height: 160rpx;
@@ -280,7 +280,7 @@
 							flex-direction: column;
 							align-items: center;
 							width: 200rpx;
-							padding: 20rpx;
+							padding: 24rpx;
 							.scrollY-box-li-img {
 								width: 100rpx;
 								height: 110rpx;

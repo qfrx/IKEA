@@ -7,7 +7,11 @@
 		{
 			"path": "pages/home/home",
 			"style": {
-				"navigationBarTitleText": "uni-app"
+				"navigationBarTitleText": "uni-app",
+				"navigationStyle": "custom" //清除头部标题
+			},
+			"app-plus": {
+				"titleView": false //清除头部标题
 			}
 		},
 		{

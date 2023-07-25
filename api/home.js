@@ -3,10 +3,18 @@ import request from '@/utils/request';
 
 
 // 首页轮播图
-
 export function getHomeBanner(data) {
 	return request({
 		url: '/homeBanner',
+		method: 'GET',
+		data,
+	});
+}
+
+
+export function getRecommendationsScroll(data) {
+	return request({
+		url: '/recommendations/scroll',
 		method: 'GET',
 		data,
 	});

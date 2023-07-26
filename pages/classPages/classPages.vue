@@ -245,12 +245,11 @@
 						text-align: center;
 						color: #676767;
 						background-color: #fff;
-						
+						&.active {
+							color: #055ca5;
+							
+						}
 					}	
-					.active {
-						color: #055ca5;
-						
-					}
 				}
 			}
 			.classPages-box-right {

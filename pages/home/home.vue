@@ -10,11 +10,11 @@
 				你在找什么?
 			</view>
 		</view>
-		<view class="recent-recommendations">
+		<view class="recent-recommendations" v-if="recommendationsScrollList">
 			<view class="title">
 				近期推荐
 			</view>
-			<u-scroll-list :indicator="true" indicatorColor="#fff0f0" indicatorActiveColor="#f56c6c">
+			<u-scroll-list :indicator="true">
 				<view v-for="(item, index) in recommendationsScrollList" :key="item.id" class="scroll-item">
 					<image class="img-recommend-scroll" :src="item.url"></image>
 					<view class="text-content" :style="{backgroundColor:item.bgColor}">
@@ -30,7 +30,7 @@
 			</u-scroll-list>
 			<view class="recommendations-card">
 				<view class="recommendations-card-item" v-for="(item,index) in recommendationsCardList" :key="item.id">
-					<image class="card-image" :src="item.url" mode=""></image>
+					<image class="card-image" :src="item.url" mode="widthFix"></image>
 					<view class="text">
 						{{item.title}}
 					</view>
@@ -54,16 +54,86 @@
 					</view>
 					<view class="item-body">
 						<view class="body-list" v-for="(i,n) in item.list" :key="n">
-					        <view class="ranking-logo">
-					        	<i class="iconfont icon-yangshi_icon_tongyong_shield" :style="{'color':numBgColor[n]}"></i>
+							<view class="ranking-logo">
+								<i class="iconfont icon-yangshi_icon_tongyong_shield"
+									:style="{'color':numBgColor[n]}"></i>
 								<text class="num">{{n + 1}}</text>
-					        </view>
+							</view>
 							<image class="img-goods" :src="i.imgUrl" mode=""></image>
 							<text class="name">{{i.name}}</text>
 						</view>
 					</view>
 				</view>
 			</u-scroll-list>
+		</view>
+		<view class="more-details">
+			<view class="title">
+				为家添加更多精致细节
+				<view class="title-des">
+					用丰富的材质、色彩、纹样，打造你的夏日新家。
+				</view>
+			</view>
+			<image class="img-big"
+				src="https://res.app.ikea.cn/content/u/20230628/6ce98d83499e41e89fd8b0ade8616089.jpg?x-oss-process=image/quality,q_75/interlace,1/resize,w_700"
+				mode="widthFix"></image>
+			<view class="img-content">
+				<view class="img-box" style="width: calc(50% - 5px);">
+					<image class="img-small"
+						src="https://file.app.ikea.cn/cms/u/20230706/979244622db34306b51136c209ad58db.jpg?x-oss-process=image/quality,q_75/interlace,1/resize,w_400"
+						mode="widthFix"></image>
+					<image class="img-small-long"
+						src="https://res.app.ikea.cn/content/u/20230628/e2ea6275967c451e820badae64b61b66.jpg?x-oss-process=image/quality,q_75/interlace,1/resize,w_400"
+						mode="widthFix"></image>
+				</view>
+				<view class="img-box" style="width: calc(50% - 5px);">
+					<image class="img-small-long"
+						src="https://res.app.ikea.cn/content/u/20230628/7de832b71abe430bb34b71761e7dfab7.jpg?x-oss-process=image/quality,q_75/interlace,1/resize,w_400"
+						mode="widthFix"></image>
+					<image class="img-small"
+						src="https://res.app.ikea.cn/content/u/20230628/91906f287f7b4dfaa4ae0ca9f59ccd8f.jpg?x-oss-process=image/quality,q_75/interlace,1/resize,w_400"
+						mode="widthFix"></image>
+				</view>
+			</view>
+			<view class="show-more">
+				发现更多新品
+				<i class="iconfont icon-jiantou1"></i>
+			</view>
+		</view>
+		<view class="room-explore">
+			<view class="title">
+				从房间开始探索
+			</view>
+			<u-scroll-list indicatorActiveColor="#f56c6c">
+				<view class="card" v-for="(item, index) in romExploreList" :key="index">
+					<image class="img-bg" :src="item.url"></image>
+					<view class="name-box">
+						<view class="name">
+							{{item.name}}
+						</view>
+					</view>
+				</view>
+			</u-scroll-list>
+		</view>
+		<view class="discovering-inspiration">
+			<view class="title">
+				发现更多家居灵感
+			</view>
+			<u-tabs :list="InspirationTypes" :current="num" lineWidth="0" lineColor="#f56c6c" :activeStyle="{
+                          color: '#f00',
+                          fontWeight: 'bold',
+                          transform: 'scale(1.05)'
+                      }" :inactiveStyle="{
+                          color: '#606266',
+                          transform: 'scale(1)'
+                      }" itemStyle="padding-left: 15px; padding-right: 15px; height: 34px;"
+				@change="choseInspirationType">
+			</u-tabs>
+		</view>
+		<!-- 回到顶部 -->
+		<view class="back-top">
+			<view class="wrap">
+				<u-back-top :scroll-top="scrollTop" icon="arrow-up" top="100vh"   :customStyle="{backgroundColor:'#fff'}"></u-back-top>
+			</view>
 		</view>
 	</view>
 </template>
@@ -73,17 +143,49 @@
 		getHomeBanner,
 		getRecommendationsScroll,
 		getRecommendationsCard,
-		getEankingEasy
+		getEankingEasy,
+		getRoomExplore,
+		getdiscoveringInspiration
 	} from "@/api/home";
 
 	export default {
 		data() {
 			return {
+				indicator: false,
 				bannerList: [], //轮播图数据
 				recommendationsScrollList: [], //近期推荐数据--滚动
 				recommendationsCardList: [], //近期推荐数据--卡片
 				rankingEasyList: [], //热销排行榜数据
-				numBgColor:['#ffdf01','#bfbfbf','#fd9d40']
+				numBgColor: ['#ffdf01', '#bfbfbf', '#fd9d40'], //排名颜色
+				romExploreList: [], // 从房间开始探索数据
+				scrollTop: 0, //滚动条位置
+				InspirationTypes: [{
+					"name": "全部"
+				}, {
+					"name": "卧室"
+				}, {
+					"name": "客厅"
+				}, {
+					"name": "书房"
+				}, {
+					"name": "儿童房"
+				}, {
+					"name": "户外"
+				}, {
+					"name": "餐厅"
+				}, {
+					"name": "门厅"
+				}, {
+					"name": "电竞"
+				}, {
+					"name": "新品"
+				}, {
+					"name": "厨房"
+				}, {
+					"name": "浴室"
+				}], // 发现灵感tab选项
+				num: 0, //选择InspirationTypes的值
+				discoverList:[], // 发现更多灵感数据
 			}
 		},
 		methods: {
@@ -91,7 +193,7 @@
 			async getHomeBannerFun() {
 				try {
 					let res = await getHomeBanner()
-					res.banner.forEach((n, i) => {
+					res.data.banner.forEach((n, i) => {
 						this.bannerList.push(n.url)
 					})
 				} catch (err) {
@@ -104,7 +206,7 @@
 			async getRecommendationsScrollFun() {
 				try {
 					let res = await getRecommendationsScroll()
-					this.recommendationsScrollList = res.list
+					this.recommendationsScrollList = res.data.list
 				} catch (err) {
 					uni.showModal({
 						title: `失败222`,
@@ -115,7 +217,7 @@
 			async getRecommendationsCardFun() {
 				try {
 					let res = await getRecommendationsCard()
-					this.recommendationsCardList = res.list
+					this.recommendationsCardList = res.data.list
 				} catch (err) {
 					uni.showModal({
 						title: `失败222`,
@@ -126,12 +228,39 @@
 			async getEankingEasyFun() {
 				try {
 					let res = await getEankingEasy()
-					this.rankingEasyList = res.list
+					this.rankingEasyList = res.data.list
 				} catch (err) {
 					uni.showModal({
 						title: `失败222`,
 					})
 				}
+			},
+			// 获取首页从房间开始探索数据
+			async getRoomExploreFun() {
+				try {
+					let res = await getRoomExplore()
+					this.romExploreList = res.data.list
+				} catch (err) {
+					uni.showModal({
+						title: `失败222`,
+					})
+				}
+			},
+			// 获取发现更多灵感数据
+			async getdiscoveringInspirationFun() {
+				try {
+					let res = await getdiscoveringInspiration({type:"全部",pageNum:1})
+					console.log(res);
+					// this.discoverList = res.list
+					
+				} catch (err) {
+					uni.showModal({
+						title: `失败222`,
+					})
+				}
+			},
+			choseInspirationType(mes) {
+				console.log(mes);
 			}
 
 		},
@@ -140,7 +269,12 @@
 			this.getRecommendationsScrollFun()
 			this.getRecommendationsCardFun()
 			this.getEankingEasyFun()
+			this.getRoomExploreFun()
+			this.getdiscoveringInspirationFun()
 		},
+		onPageScroll(e) {
+			this.scrollTop = e.scrollTop;
+		}
 	}
 </script>
 
@@ -164,7 +298,7 @@
 		height: 80rpx;
 		width: 90vw;
 		margin-left: 5vw;
-		transform: translateY(-40rpx);   
+		transform: translateY(-40rpx);
 		background-color: #fff;
 		border-radius: 999px;
 		display: flex;
@@ -191,7 +325,7 @@
 		margin: 0 20px 30px;
 
 		.title {
-			font-size: 30rpx;
+			font-size: 32rpx;
 			color: #111;
 			font-weight: bolder;
 			margin-bottom: 30rpx;
@@ -330,16 +464,19 @@
 
 	.top-selling {
 		margin: 0 20px 30px;
+
 		.title {
-			font-size: 30rpx;
+			font-size: 32rpx;
 			color: #111;
 			font-weight: bolder;
 			margin-bottom: 30rpx;
 
 		}
-        .card{
+
+		.card {
 			margin-right: 10px;
 		}
+
 		.item-head {
 			padding: 12px 15px;
 			width: 400rpx;
@@ -348,25 +485,29 @@
 			display: flex;
 			align-items: center;
 			justify-content: space-between;
-			
+
 		}
-		.text-content{
+
+		.text-content {
 			display: flex;
 			flex-direction: column;
 			justify-content: center;
 			color: #fff;
-			.name{
+
+			.name {
 				font-size: 20rpx;
 				opacity: 8;
-				
+
 			}
-			.name-type{
+
+			.name-type {
 				font-weight: bold;
 				font-size: 34rpx;
-				
+
 			}
 		}
-		.icon{
+
+		.icon {
 			background-color: #fff;
 			display: flex;
 			align-items: center;
@@ -374,55 +515,174 @@
 			border-radius: 50%;
 			width: 30px;
 			height: 30px;
-			
+
 		}
-		.icon-arrowRight1{
-		  font-size: 28rpx;
-		  
+
+		.icon-arrowRight1 {
+			font-size: 28rpx;
+
 		}
-		.item-body{
+
+		.item-body {
 			padding: 20px 15px 5px;
-			.body-list{
+
+			.body-list {
 				display: flex;
 				align-items: center;
 				justify-content: space-between;
 				margin-bottom: 15px;
-				
+
 			}
-			.img-goods{
+
+			.img-goods {
 				width: 44px;
 				height: 44px;
-				
+
 			}
-			.name{
+
+			.name {
 				display: block;
 				width: 200rpx;
 				font-size: 12px;
 				color: #111;
-				
+
 			}
 		}
-		.ranking-logo{
+
+		.ranking-logo {
 			width: 20px;
 			height: 20px;
 			position: relative;
 			display: flex;
 			align-items: center;
 			justify-content: center;
-			.num{
+
+			.num {
 				color: #fff;
 				font-size: 12px;
-				
+
 			}
-			.iconfont{
+
+			.iconfont {
 				font-size: 20px;
 				position: absolute;
 				top: 0;
 				left: 0;
 				z-index: -1;
-				
+
 			}
-			
+		}
+	}
+
+	.more-details {
+		margin: 0 20px 30px;
+
+		.title {
+			font-size: 32rpx;
+			color: #111;
+			font-weight: bolder;
+			margin-bottom: 30rpx;
+
+			.title-des {
+				margin-top: 8px;
+				font-size: 26rpx;
+				color: #111;
+				font-weight: normal;
+			}
+		}
+
+		.img-content {
+			display: flex;
+			justify-content: space-between;
+
+		}
+
+		.img-box {
+			width: calc(100% - 10px);
+			display: flex;
+			flex-direction: column;
+
+		}
+
+		.img-big {
+			width: 100%;
+			display: block;
+			margin-bottom: 10px;
+
+		}
+
+		.img-small {
+			width: 100%;
+			margin-bottom: 10px;
+
+		}
+
+		.img-small-long {
+			width: 100%;
+			margin-bottom: 10px;
+
+		}
+
+		.show-more {
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			padding: 20px 0;
+		}
+	}
+
+	.room-explore {
+		margin: 0 20px 30px;
+
+		.title {
+			font-size: 32rpx;
+			color: #111;
+			font-weight: bolder;
+			margin-bottom: 30rpx;
+
+		}
+
+		.card {
+			position: relative;
+			margin-right: 10px;
+		}
+
+		.img-bg {
+			width: 140px;
+			height: 190px;
+			display: block;
+		}
+
+		.name-box {
+			left: 0;
+			bottom: 2rem;
+			width: 100%;
+			position: absolute;
+			display: flex;
+			justify-content: center;
+		}
+
+		.name {
+			background-color: #fff;
+			padding: 5px 12px;
+			border-radius: 999px;
+			display: flex;
+			justify-content: center;
+			color: #111;
+			font-size: 24rpx;
+
+		}
+	}
+
+	.discovering-inspiration {
+		margin: 0 20px 30px;
+
+		.title {
+			font-size: 32rpx;
+			color: #111;
+			font-weight: bolder;
+			margin-bottom: 30rpx;
+
 		}
 	}
 </style>

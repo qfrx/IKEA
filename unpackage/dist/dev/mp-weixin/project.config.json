@@ -22,7 +22,17 @@
   "libVersion": "3.0.0",
   "appid": "touristappid",
   "projectname": "shop",
-  "condition": {},
+  "condition": {
+    "miniprogram": {
+      "list": [
+        {
+          "name": "",
+          "pathName": "pages/classPages/classPages",
+          "query": ""
+        }
+      ]
+    }
+  },
   "editorSetting": {
     "tabIndent": "insertSpaces",
     "tabSize": 2

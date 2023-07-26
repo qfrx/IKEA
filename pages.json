@@ -17,7 +17,11 @@
 		{
 			"path": "pages/classPages/classPages",
 			"style": {
-				"navigationBarTitleText": "uni-app"
+				"navigationBarTitleText": "uni-app",
+				"navigationStyle": "custom" //清除头部标题
+			},
+			"app-plus": {
+				"titleView": false //清除头部标题
 			}
 		}
 	],
@@ -33,7 +37,7 @@
 		"list": [
 			{
 				"name": "", //模式名称
-				"path": "", //启动页面，必选
+				"path": "pages/classPages/classPages", //启动页面，必选
 				"query": "" //启动参数，在页面的onLoad函数里面得到
 			}
 		]

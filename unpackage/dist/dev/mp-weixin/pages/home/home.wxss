@@ -24,6 +24,9 @@
 /* 垂直间距 */
 /* 透明度 */
 /* 文章场景相关 */
+.container {
+  padding-bottom: 100px;
+}
 .logo {
   display: block;
   height: 24px;
@@ -35,10 +38,10 @@
 }
 .search-input {
   height: 80rpx;
-  width: 600rpx;
-  position: relative;
-  top: -40rpx;
-  left: 60rpx;
+  width: 90vw;
+  margin-left: 5vw;
+  -webkit-transform: translateY(-40rpx);
+          transform: translateY(-40rpx);
   background-color: #fff;
   border-radius: 999px;
   display: flex;
@@ -46,6 +49,7 @@
   box-sizing: border-box;
   padding: 0 13px;
   font-weight: bold;
+  box-shadow: 0 2px 2px 1px #0000000d;
 }
 .search-input .icon-sousuo {
   font-size: 26rpx;
@@ -56,7 +60,7 @@
   color: #929292;
 }
 .recent-recommendations {
-  margin: 0  20px 30px;
+  margin: 0 20px 30px;
 }
 .recent-recommendations .title {
   font-size: 30rpx;
@@ -155,5 +159,90 @@
   margin-top: 5px;
   color: #848484;
   font-size: 26rpx;
+}
+.top-selling {
+  margin: 0 20px 30px;
+}
+.top-selling .title {
+  font-size: 30rpx;
+  color: #111;
+  font-weight: bolder;
+  margin-bottom: 30rpx;
+}
+.top-selling .card {
+  margin-right: 10px;
+}
+.top-selling .item-head {
+  padding: 12px 15px;
+  width: 400rpx;
+  height: 80px;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.top-selling .text-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #fff;
+}
+.top-selling .text-content .name {
+  font-size: 20rpx;
+  opacity: 8;
+}
+.top-selling .text-content .name-type {
+  font-weight: bold;
+  font-size: 34rpx;
+}
+.top-selling .icon {
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+}
+.top-selling .icon-arrowRight1 {
+  font-size: 28rpx;
+}
+.top-selling .item-body {
+  padding: 20px 15px 5px;
+}
+.top-selling .item-body .body-list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+.top-selling .item-body .img-goods {
+  width: 44px;
+  height: 44px;
+}
+.top-selling .item-body .name {
+  display: block;
+  width: 200rpx;
+  font-size: 12px;
+  color: #111;
+}
+.top-selling .ranking-logo {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.top-selling .ranking-logo .num {
+  color: #fff;
+  font-size: 12px;
+}
+.top-selling .ranking-logo .iconfont {
+  font-size: 20px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
 }
 

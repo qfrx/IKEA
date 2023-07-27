@@ -1,7 +1,9 @@
 {
   "pages": [
     "pages/home/home",
-    "pages/classPages/classPages"
+    "pages/classPages/classPages",
+    "pages/indexFind/indexFind",
+    "pages/shopCar/shopCar"
   ],
   "subPackages": [],
   "window": {

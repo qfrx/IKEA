@@ -47,7 +47,20 @@
 				"titleView": false //清除头部标题
 			}
 		}
-	],
+	    ,{
+            "path" : "pages/classificationAnkings/classificationAnkings",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+				"navigationStyle": "custom" //清除头部标题
+            },
+			"app-plus": {
+				"titleView": false //清除头部标题
+			}
+            
+        }
+    ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
 		"navigationBarTitleText": "uni-app",

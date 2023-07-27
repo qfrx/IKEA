@@ -1,0 +1,54 @@
+{
+    "data": {
+        "list": [
+            {
+                "id": "0019",
+                "url": "https://file.app.ikea.cn/u/28810D99-DD92-11e8-9C86-005056931D59/20210511/d4e3fc075bf84344ab3ad37c89bb220b.jpeg?x-oss-process=style/medium"
+            },
+            {
+                "id": "0020",
+                "url": "https://res.app.ikea.cn/content/u/20230223/8c859d89af2e48279551b77041632c99.jpg?x-oss-process=image/quality,q_75/interlace,1/resize,w_600"
+            },
+            {
+                "id": "0021",
+                "url": "https://res.app.ikea.cn/content/u/20230725/d6e67e55c27b4d64baff56425886285e.png?x-oss-process=image/quality,q_75/interlace,1/resize,w_600"
+            },
+            {
+                "id": "0022",
+                "url": "https://res.app.ikea.cn/content/u/20230725/6762b9daede94101b6c13b1ed01d3de0.png?x-oss-process=image/quality,q_75/interlace,1/resize,w_600"
+            },
+            {
+                "id": "0023",
+                "url": "https://res.app.ikea.cn/content/u/20230725/285d49bf3884491ca55320e5189059a9.png?x-oss-process=image/quality,q_75/interlace,1/resize,w_600"
+            },
+            {
+                "id": "0024",
+                "url": "https://res.app.ikea.cn/content/u/20230725/bdc057e5fa0b475493e189fb2bb95d81.png?x-oss-process=image/quality,q_75/interlace,1/resize,w_600"
+            },
+            {
+                "id": "0025",
+                "url": "https://res.app.ikea.cn/content/u/20230720/ab1c177ddc6d482f8e489c6e4a03da37.jpg?x-oss-process=image/quality,q_75/interlace,1/resize,w_600"
+            },
+            {
+                "id": "0026",
+                "url": "https://res.app.ikea.cn/content/u/20230717/edcac259efd44f6197f0aafa255bd91c.png?x-oss-process=image/quality,q_75/interlace,1/resize,w_600"
+            },
+            {
+                "id": "0027",
+                "url": "https://res.app.ikea.cn/content/u/20230720/ab1c177ddc6d482f8e489c6e4a03da37.jpg?x-oss-process=image/quality,q_75/interlace,1/resize,w_600"
+            },
+            {
+                "id": "0028",
+                "url": "https://res.app.ikea.cn/content/u/20230717/085eec21fdd54006978a56a90675a073.png?x-oss-process=image/quality,q_75/interlace,1/resize,w_600"
+            },
+            {
+                "id": "0029",
+                "url": "https://res.app.ikea.cn/content/u/20230712/557df70a0adb4e168652b90523c46caf.jpg?x-oss-process=image/quality,q_75/interlace,1/resize,w_600"
+            },
+            {
+                "id": "0030",
+                "url": "https://res.app.ikea.cn/content/u/20230711/66d9ca6ef5da41b7a5bef7c84cf2299b.png?x-oss-process=image/quality,q_75/interlace,1/resize,w_600"
+            }
+        ]
+    }
+}

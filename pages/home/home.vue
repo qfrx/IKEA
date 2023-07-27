@@ -1,15 +1,19 @@
 <template>
 	<view class="container">
+		<!-- logo -->
 		<image class="logo" src="https://static.web.ikea.cn/static/images/h5/h5-logo.svg" mode=""></image>
+		<!-- 轮播图 -->
 		<view class="banner">
 			<u-swiper :list="bannerList" :circular="true" height="1000rpx" interval="4000" duration="1000"></u-swiper>
 		</view>
+		<!-- 搜索框 -->
 		<view class="search-input">
 			<i class="iconfont icon-sousuo"></i>
 			<view class="input-box">
 				你在找什么?
 			</view>
 		</view>
+		<!-- 近期推荐 -->
 		<view class="recent-recommendations" v-if="recommendationsScrollList">
 			<view class="title">
 				近期推荐
@@ -37,6 +41,7 @@
 				</view>
 			</view>
 		</view>
+		<!-- 热销排行 -->
 		<view class="top-selling">
 			<view class="title">
 				热销排行
@@ -66,6 +71,7 @@
 				</view>
 			</u-scroll-list>
 		</view>
+		<!-- 为家添加更多细节 -->
 		<view class="more-details">
 			<view class="title">
 				为家添加更多精致细节
@@ -99,6 +105,7 @@
 				<i class="iconfont icon-jiantou1"></i>
 			</view>
 		</view>
+		<!-- 从房间开始探索 -->
 		<view class="room-explore">
 			<view class="title">
 				从房间开始探索
@@ -114,6 +121,7 @@
 				</view>
 			</u-scroll-list>
 		</view>
+		<!-- 法案现更多家居灵感 -->
 		<view class="discovering-inspiration">
 			<view class="title">
 				发现更多家居灵感
@@ -128,13 +136,79 @@
                       }" itemStyle="padding-left: 15px; padding-right: 15px; height: 34px;"
 				@change="choseInspirationType">
 			</u-tabs>
+			<view class="tab-conter">
+				<view class="tab-left-conter" style="width: calc(50% - 5px);">
+					<view class="tab-item" v-for="(item,index) in discoverLeftList" :key="item.id">
+						<image class="img" :src="item.url" mode="widthFix"></image>
+						<view class="icon" v-if="item.url">
+							<i class="iconfont icon-xihuan"></i>
+						</view>
+					</view>
+				</view>
+				<view class="tab-right-conter" style="width: calc(50% - 5px);">
+					<view class="tab-item" v-for="(item,index) in discoverRightList" :key="item.id">
+						<image class="img" :src="item.url" mode="widthFix"></image>
+						<view class="icon" v-if="item.url">
+							<i class="iconfont icon-xihuan"></i>
+						</view>
+					</view>
+				</view>
+			</view>
+			<view class="showMore">
+				<view class="text" @click="getMoreRationType">
+					加载更多内容
+				</view>
+			</view>
 		</view>
+		<!-- 产品信息通知 -->
+		<view class="information-notice">
+			<view class="title">
+				产品信息通知
+			</view>
+			<view class="notic-item">
+				宜家在中国大陆市场对两款商品开展产品信息标签修改行动，以符合本地市场对最高使用温度提示的要求
+				<i class="iconfont icon-jiantou1"></i>
+			</view>
+			<view class="notic-item">
+				因有造成呼吸困难的潜在风险，宜家宣布召回BLÅVINGAD 布洛凡格 钓鱼游戏
+				<i class="iconfont icon-jiantou1"></i>
+			</view>
+			<view class="notic-item">
+				由于墙壁安装配件破裂风险，宜家宣布召回维修部分LETTAN 莱唐镜子
+				<i class="iconfont icon-jiantou1"></i>
+			</view>
+			<view class="notic-item">
+				由于潜在跌坐和受伤风险，宜家正在召回日期戳为2221及之前的煤黑色ODGER 奥德格转椅
+				<i class="iconfont icon-jiantou1"></i>
+			</view>
+			<view class="notic-item">
+				宜家在中国大陆市场召回维修TRIPPEVALS 特普弗斯蜂窝状遮光卷帘和HOPPVALS 霍普沃六边形百叶帘
+				<i class="iconfont icon-jiantou1"></i>
+			</view>
+			<view class="notic-item">
+				钢化玻璃杯说明
+				<i class="iconfont icon-jiantou1"></i>
+			</view>
+			<view class="notic-item">
+				牢牢固定——防止家具倾倒
+				<i class="iconfont icon-jiantou1"></i>
+			</view>
+		</view>
+		<!-- 为你推荐 -->
+		<view class="recommended-more">
+			<div class="title">
+				为你推荐
+			</div>
+		</view>
+		
 		<!-- 回到顶部 -->
 		<view class="back-top">
 			<view class="wrap">
-				<u-back-top :scroll-top="scrollTop" icon="arrow-up" top="100vh"   :customStyle="{backgroundColor:'#fff'}"></u-back-top>
+				<u-back-top :scroll-top="scrollTop" icon="arrow-up" top="100vh"
+					:customStyle="{backgroundColor:'#fff'}"></u-back-top>
 			</view>
 		</view>
+
 	</view>
 </template>
 
@@ -185,7 +259,11 @@
 					"name": "浴室"
 				}], // 发现灵感tab选项
 				num: 0, //选择InspirationTypes的值
-				discoverList:[], // 发现更多灵感数据
+				discoverLeftList: [], // 发现更多灵感数据-左边
+				discoverRightList: [], // 发现更多灵感数据-右边
+				discoverPageNum: 1, // 发现更多灵感页数
+				discoverType: "全部", // 发现更多灵感分类
+
 			}
 		},
 		methods: {
@@ -249,18 +327,38 @@
 			// 获取发现更多灵感数据
 			async getdiscoveringInspirationFun() {
 				try {
-					let res = await getdiscoveringInspiration({type:"全部",pageNum:1})
-					console.log(res);
-					// this.discoverList = res.list
-					
+					let res = await getdiscoveringInspiration({
+						type: this.discoverType,
+						pageNum: this.discoverPageNum
+					})
+					res.msg.data.list.forEach((item, index) => {
+						if (index % 2 == 0) {
+							this.discoverLeftList.push(item)
+						} else {
+							this.discoverRightList.push(item)
+						}
+					})
 				} catch (err) {
 					uni.showModal({
-						title: `失败222`,
+						title: `没有找到更多相关数据~`,
 					})
 				}
 			},
+			// 发现灵感--选择分类
 			choseInspirationType(mes) {
+				this.discoverPageNum = 1
+				this.discoverType = mes.name
+				this.discoverLeftList = []
+				this.discoverRightList = []
+				this.getdiscoveringInspirationFun()
 				console.log(mes);
+			},
+			// 发现灵感--加载更多
+			getMoreRationType() {
+				this.discoverPageNum += 1
+				this.getdiscoveringInspirationFun()
+				console.log(this.discoverPageNum, this.discoverType);
+
 			}
 
 		},
@@ -683,6 +781,109 @@
 			font-weight: bolder;
 			margin-bottom: 30rpx;
 
+		}
+
+		.tab-conter {
+			min-height: 100vh;
+			display: flex;
+			justify-content: space-between;
+		}
+
+		.tab-left-conter {
+			display: flex;
+			flex-direction: column;
+		}
+
+		.tab-right-conter {
+			display: flex;
+			flex-direction: column;
+		}
+
+		.tab-item {
+			width: 100%;
+			float: left;
+			margin-top: 10px;
+			position: relative;
+			background-color: #eee;
+		}
+
+		.img {
+			display: block;
+			width: 100%;
+		}
+
+		.icon {
+			background-color: #00000080;
+			width: 80rpx;
+			height: 80rpx;
+			border-radius: 50%;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			position: absolute;
+			right: 20rpx;
+			bottom: 20rpx;
+		}
+
+		.icon-xihuan {
+			color: #fff;
+			font-weight: bold;
+			font-size: 30rpx;
+		}
+
+		.showMore {
+			width: 100%;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			margin-top: 30px;
+		}
+
+		.text {
+			background-color: #111;
+			color: #fff;
+			padding: 15px 25px;
+			border-radius: 999px;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			font-size: 12px;
+		}
+	}
+
+	.information-notice {
+		margin: 0 20px 30px;
+
+		.title {
+			font-size: 32rpx;
+			color: #111;
+			font-weight: bolder;
+			margin-bottom: 30rpx;
+
+		}
+		.notic-item {
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			padding: 20px 0;
+			font-size: 12px;
+			font-weight: bold;
+			color: #666;
+			.iconfont{
+				margin: 0 20px 0 40px;
+			}
+		}
+	}
+	
+	.recommended-more{
+		.title{
+			width: 100%;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			font-size: 26rpx;
+			color: #111;
+			font-weight: bold;
 		}
 	}
 </style>

@@ -1,0 +1,46 @@
+{
+    "data": {
+        "list": [
+            {
+                "name": "客厅",
+                "url": "https://file.app.ikea.cn/cms/u/20230628/51167998222242ae8a9be903881b737c.jpg?x-oss-process=image/quality,q_75/interlace,1/resize,w_400"
+            },
+            {
+                "name": "卧室",
+                "url": "https://file.app.ikea.cn/cms/u/20230628/43f80c7ff5224418930b6174b1bad37d.jpg?x-oss-process=image/quality,q_75/interlace,1/resize,w_400"
+            },
+            {
+                "name": "餐厅",
+                "url": "https://file.app.ikea.cn/cms/u/20230628/85f9f20f8fa7443fa35a8fc45502c6be.jpg?x-oss-process=image/quality,q_75/interlace,1/resize,w_400"
+            },
+            {
+                "name": "厨房",
+                "url": "https://file.app.ikea.cn/cms/u/20230628/3d7ca20ed70d448e8907dc676a427724.jpg?x-oss-process=image/quality,q_75/interlace,1/resize,w_400"
+            },
+            {
+                "name": "浴室",
+                "url": "https://file.app.ikea.cn/cms/u/20230628/46bced917d6b4cf5b6f22001de186455.jpg?x-oss-process=image/quality,q_75/interlace,1/resize,w_400"
+            },
+            {
+                "name": "家居用品",
+                "url": "https://file.app.ikea.cn/cms/u/20230628/d75ffb5850834dcf850dd410d37f87ba.jpg?x-oss-process=image/quality,q_75/interlace,1/resize,w_400"
+            },
+            {
+                "name": "儿童",
+                "url": "https://file.app.ikea.cn/cms/u/20230628/8705612c7bea4b84b0687e7c7ce9319c.jpg?x-oss-process=image/quality,q_75/interlace,1/resize,w_400"
+            },
+            {
+                "name": "户外",
+                "url": "https://file.app.ikea.cn/cms/u/20230628/ddb6fab8deff40baaf577f0d9fdb91b1.jpg?x-oss-process=image/quality,q_75/interlace,1/resize,w_400"
+            },
+            {
+                "name": "书房和办公",
+                "url": "https://file.app.ikea.cn/cms/u/20230628/f435751541524684a0e318ce4af0f7df.jpg?x-oss-process=image/quality,q_75/interlace,1/resize,w_400"
+            },
+            {
+                "name": "门厅",
+                "url": "https://file.app.ikea.cn/cms/u/20221115/1c47253ea6e4410baa0ea25aac036ff4.jpg?x-oss-process=image/quality,q_75/interlace,1/resize,w_400"
+            }
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "data": {
+        "list": [
+            {
+                "id":"001",
+                "url": "https://file.app.ikea.cn/cms/u/20230717/954aee62b2624997bfd4442c462a6572.jpg?x-oss-process=image/quality,q_75/interlace,1/resize,w_600",
+                "title":"探索当季新品",
+                "text":"全新产品，为你带来夏日新灵感",
+                "bgColor":"#dd5008"
+            },
+            {
+                "id":"002",
+                "url": "https://file.app.ikea.cn/cms/u/20230414/385ab5be37384a7e980f5450babaf52c.jpg?x-oss-process=image/quality,q_75/interlace,1/resize,w_600",
+                "title":"低价优选",
+                "text":"精选低于30元好物, 满足你的日常所需",
+                "bgColor":"#ffdb00"
+            },
+            {
+                "id":"003",
+                "url": "https://file.app.ikea.cn/cms/u/20230704/d3cfdaae71884619a6203fd44cbe250e.jpg?x-oss-process=image/quality,q_75/interlace,1/resize,w_600",
+                "title":"限时特惠",
+                "text":"2023.6.30-2023.8.14数量有限，售完即止",
+                "bgColor":"#017dc7"
+            },
+            {
+                "id":"004",
+                "url": "https://file.app.ikea.cn/cms/u/20230606/2bdcc7d864a84d5087e298f2c80ce0df.jpg?x-oss-process=image/quality,q_75/interlace,1/resize,w_600",
+                "title":"欢迎加入宜家企业会员 ",
+                "text":"企业会员专属权益，助你更好地开展业务",
+                "bgColor":"#001c3c"
+            },
+            {
+                "id":"005",
+                "url": "https://file.app.ikea.cn/cms/u/20230713/8626a89b36774ae581497640b1454524.jpg?x-oss-process=image/quality,q_75/interlace,1/resize,w_600",
+                "title":"更低价格，更多值得",
+                "text":"用更低的价格，打造更美好的日常生活",
+                "bgColor":"#ca0008"
+            },
+            {
+                "id":"006",
+                "url": "https://file.app.ikea.cn/cms/u/20230613/011ad3529a344ea4a736364a35bc19e3.jpg?x-oss-process=image/quality,q_75/interlace,1/resize,w_600",
+                "title":"每日仪式感",
+                "text":"成就美好日常生活的小习惯",
+                "bgColor":"#81cdff"
+            },
+            {
+                "id":"007",
+                "url": "https://file.app.ikea.cn/cms/u/20230609/ed70bb50e9be402c85f51fcefde0e2ab.jpg?x-oss-process=image/quality,q_75/interlace,1/resize,w_600",
+                "title":"收纳每一份热爱",
+                "text":"认识独具个性的屋主和它们的收纳方案",
+                "bgColor":"#9c2c41"
+            }
+        ]
+    }
+}

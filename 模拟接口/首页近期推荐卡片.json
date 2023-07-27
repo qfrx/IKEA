@@ -1,0 +1,22 @@
+{
+    "data": {
+        "list": [
+            {
+                "id": "001",
+                "url": "https://file.app.ikea.cn/cms/u/20230630/a6780b87f3cf434ebc595f4290bad5e1.jpg?x-oss-process=image/quality,q_75/interlace,1/resize,w_600",
+                "title": "宜家全屋设计 | 1对1专业服务，打造理想的家，会员可享最高12期免息分期"
+            },
+            {
+                "id": "002",
+                "url": "https://file.app.ikea.cn/cms/u/20230630/efb17669bae34789987fb3000f807750.jpg?x-oss-process=image/quality,q_75/interlace,1/resize,w_600",
+                "title": "宜家对公业务 | 专业设计，便捷采购，成为企业会员可享更多专属福利"
+            },
+            {
+                "id": "003",
+                "url": "https://file.app.ikea.cn/cms/u/20230630/09d4694c15694379abefb41487d7fc8e.jpg?x-oss-process=image/quality,q_75/interlace,1/resize,w_600",
+                "title": "宜家厨房 | 专业品质，打造梦想厨房，会员可享最高12期免息分期"
+            }
+         
+        ]
+    }
+}

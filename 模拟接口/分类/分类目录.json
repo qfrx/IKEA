@@ -1,0 +1,1736 @@
+[
+    {
+        "id": "st001",
+        "name": "储物和收纳",
+        "icon": "https://www.ikea.cn/cn/zh/images/products/billy-bi-li-oxberg-ao-ke-bo-shu-ju-dai-jia-gao-jian-ju-men-bai-se__0668658_pe714623_s3.jpg",
+        "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/storage-organisation-st001.jpeg",
+        "iconImg": "https://res.app.ikea.cn/static/public/catalog/st001/icon.svg?v=16",
+        "children": [
+            {
+                "id": "st002",
+                "name": "书柜和置物架",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/baggebo-ba-ge-bu-shu-jia-bai-se__0981552_pe815388_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/bookcases-shelving-units-st002.jpeg",
+                "children": [],
+                "fullPath": "st001/st002"
+            },
+            {
+                "id": "46052",
+                "name": "储物收纳方案",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/elvarli-ai-er-wa-li-chang-kai-shi-chu-wu-zu-he-bai-se__0440392_pe592436_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/storage-solution-systems-46052.jpeg",
+                "children": [],
+                "fullPath": "st001/46052"
+            },
+            {
+                "id": "st003",
+                "name": "橱柜和展示柜",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/baggebo-ba-ge-bu-bo-li-men-chu-ju-jin-shu-bai-se__0981557_pe815393_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/cabinets-cupboards-st003.jpeg",
+                "children": [],
+                "fullPath": "st001/st003"
+            },
+            {
+                "id": "10475",
+                "name": "电视和多媒体家具",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/besta-bei-da-shi-ting-chu-wu-zu-he-bo-li-men-bai-se-la-wei-ken-bai-se-tou-ming-bo-li__0719213_pe731930_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/tv-media-furniture-10475.jpeg",
+                "children": [],
+                "fullPath": "st001/10475"
+            },
+            {
+                "id": "st004",
+                "name": "抽屉柜和抽屉框架",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/koppang-ku-peng-6ti-ju-bai-se__0651639_pe706984_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/chests-of-drawers-drawer-units-st004.jpeg",
+                "children": [],
+                "fullPath": "st001/st004"
+            },
+            {
+                "id": "19053",
+                "name": "衣柜",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/kleppstad-ke-le-pu-si-ta-san-men-yi-ju-bai-se__0753594_pe748782_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/wardrobes-19053.jpeg",
+                "children": [],
+                "fullPath": "st001/19053"
+            },
+            {
+                "id": "st007",
+                "name": "储物收纳用品",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/nojig-nuo-yi-ge-shou-na-he-su-liao-mi-huang-se__0954157_pe804499_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/small-storage-organisers-st007.jpeg",
+                "children": [],
+                "fullPath": "st001/st007"
+            },
+            {
+                "id": "30454",
+                "name": "餐边柜和长几",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/kallax-qia-lai-ke-ge-jia-dan-yuan-dai-4ge-cha-jian-fang-bai-se-xiang-mu-wen__0480295_pe618865_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/sideboards-buffets-console-tables-30454.jpeg",
+                "children": [],
+                "fullPath": "st001/30454"
+            },
+            {
+                "id": "st006",
+                "name": "挂钩和墙面收纳件",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/enudden-an-nu-deng-fang-men-shi-gua-yi-gou-bai-se__0710492_pe727593_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/hooks-wall-organisation-st006.jpeg",
+                "children": [],
+                "fullPath": "st001/st006"
+            },
+            {
+                "id": "st005",
+                "name": "鞋柜和衣帽架",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/staell-si-duo-er-si-men-xie-ju-bai-se__0710726_pe727747_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/clothes-stands-shoe-racks-st005.jpeg",
+                "children": [],
+                "fullPath": "st001/st005"
+            },
+            {
+                "id": "fu005",
+                "name": "推车",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/hornavan-huo-na-wen-tui-che-bai-se__0169887_pe325984_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/trolleys-fu005.jpeg",
+                "children": [],
+                "fullPath": "st001/fu005"
+            },
+            {
+                "id": "16248",
+                "name": "包袋",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/kungsfors-kang-fu-si-wang-dai-liang-jian-tao-zi-ran-se__0712561_pe728918_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/bags-16248.jpeg",
+                "children": [],
+                "fullPath": "st001/16248"
+            },
+            {
+                "id": "46078",
+                "name": "搬家用品",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/frakta-fu-la-ta-bian-zhi-dai-da-lan-se__0711230_pe728075_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/moving-supplies-46078.jpeg",
+                "children": [],
+                "fullPath": "st001/46078"
+            },
+            {
+                "id": "10398",
+                "name": "连壁搁板",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/svenshult-si-wan-hu-er-te-qiang-ge-ban-bai-se__0670177_pe715349_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/wall-shelves-10398.jpeg",
+                "children": [],
+                "fullPath": "st001/10398"
+            },
+            {
+                "id": "55984",
+                "name": "SKYTTA 斯基塔滑门系统",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/hokksund-huo-ke-song-hua-men-kuang-mian-ban-4-jian-gao-guang-dan-hui-se__0749100_pe745477_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/skytta-sliding-door-system-55984.jpeg",
+                "children": [],
+                "fullPath": "st001/55984"
+            },
+            {
+                "id": "18706",
+                "name": "儿童储物和收纳件",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/trofast-shu-fa-te-chu-wu-zu-he-dai-he-bai-se-bai-se-cheng-se__0808586_pe770788_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/childrens-storage-organisation-18706.jpeg",
+                "children": [],
+                "fullPath": "st001/18706"
+            },
+            {
+                "id": "21958",
+                "name": "户外储物",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/kolbjoern-ke-bi-yue-en-ju-zi-shi-nei-hu-wai-mi-huang-se__0664606_pe718444_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/outdoor-storage-21958.jpeg",
+                "children": [],
+                "fullPath": "st001/21958"
+            }
+        ],
+        "fullPath": "st001"
+    },
+    {
+        "id": "fu001",
+        "name": "家具",
+        "icon": "https://www.ikea.cn/cn/zh/images/products/galant-jia-lan-te-tui-la-men-ju-zi-hei-se-bai-zha-mu-tie-mian__0613080_pe686151_s3.jpg",
+        "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/furniture-fu001.jpeg",
+        "iconImg": "https://res.app.ikea.cn/static/public/catalog/fu001/icon.svg?v=16",
+        "children": [
+            {
+                "id": "55002",
+                "name": "电竞家具",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/fredde-fu-lei-de-dian-jing-zhuo-hei-se__0736008_pe740351_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/gaming-furniture-55002.jpeg",
+                "children": [],
+                "fullPath": "fu001/55002"
+            },
+            {
+                "id": "fu003",
+                "name": "沙发",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/glostad-lu-si-da-shuang-ren-sha-fa-ji-ni-sa-zhong-lan__0950900_pe800740_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/sofas-fu003.jpeg",
+                "children": [],
+                "fullPath": "fu001/fu003"
+            },
+            {
+                "id": "55036",
+                "name": "家具组合",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/gursken-gu-xi-ken-wo-shi-jia-ju-5jian-tao-dan-mi-se__0970603_pe811129_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/furniture-sets-55036.jpeg",
+                "children": [],
+                "fullPath": "fu001/55036"
+            },
+            {
+                "id": "bm003",
+                "name": "床",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/slattum-si-la-tu-ruan-bao-chuang-jia-bang-si-ta-hei-se__0764836_pe753364_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/beds-bm003.jpeg",
+                "children": [],
+                "fullPath": "fu001/bm003"
+            },
+            {
+                "id": "st002",
+                "name": "书柜和置物架",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/baggebo-ba-ge-bu-shu-jia-bai-se__0981552_pe815388_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/bookcases-shelving-units-st002.jpeg",
+                "children": [],
+                "fullPath": "fu001/st002"
+            },
+            {
+                "id": "fu004",
+                "name": "桌子-书桌和餐桌",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/linnmon-li-meng-adils-a-di-si-zhuo-zi-bai-se-hei-se__0737166_pe740909_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/tables-desks-fu004.jpeg",
+                "children": [],
+                "fullPath": "fu001/fu004"
+            },
+            {
+                "id": "st003",
+                "name": "橱柜和展示柜",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/baggebo-ba-ge-bu-bo-li-men-chu-ju-jin-shu-bai-se__0981557_pe815393_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/cabinets-cupboards-st003.jpeg",
+                "children": [],
+                "fullPath": "fu001/st003"
+            },
+            {
+                "id": "10475",
+                "name": "电视和多媒体家具",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/besta-bei-da-shi-ting-chu-wu-zu-he-bo-li-men-bai-se-la-wei-ken-bai-se-tou-ming-bo-li__0719213_pe731930_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/tv-media-furniture-10475.jpeg",
+                "children": [],
+                "fullPath": "fu001/10475"
+            },
+            {
+                "id": "st004",
+                "name": "抽屉柜和抽屉框架",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/koppang-ku-peng-6ti-ju-bai-se__0651639_pe706984_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/chests-of-drawers-drawer-units-st004.jpeg",
+                "children": [],
+                "fullPath": "fu001/st004"
+            },
+            {
+                "id": "19053",
+                "name": "衣柜",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/kleppstad-ke-le-pu-si-ta-san-men-yi-ju-bai-se__0753594_pe748782_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/wardrobes-19053.jpeg",
+                "children": [],
+                "fullPath": "fu001/19053"
+            },
+            {
+                "id": "fu002",
+                "name": "椅子",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/huvudspelare-hu-fu-si-pei-dian-jing-yi-hei-se__1039672_pe840417_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/chairs-fu002.jpeg",
+                "children": [],
+                "fullPath": "fu001/fu002"
+            },
+            {
+                "id": "od003",
+                "name": "户外家具",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/taernoe-ta-er-nuo-zhuo-zi-2-yi-zi-hu-wai-hong-se-zhao-qian-he-se-qi__0776099_pe757709_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/outdoor-furniture-od003.jpeg",
+                "children": [],
+                "fullPath": "fu001/od003"
+            },
+            {
+                "id": "30454",
+                "name": "餐边柜和长几",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/kallax-qia-lai-ke-ge-jia-dan-yuan-dai-4ge-cha-jian-fang-bai-se-xiang-mu-wen__0480295_pe618865_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/sideboards-buffets-console-tables-30454.jpeg",
+                "children": [],
+                "fullPath": "fu001/30454"
+            },
+            {
+                "id": "18767",
+                "name": "儿童家具",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/smastad-si-ma-si-ta-dai-wan-ju-chu-fang-kong-jian-de-chang-deng-bai-se-qian-fen-se__0918196_pe786136_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/childrens-furniture-18767.jpeg",
+                "children": [],
+                "fullPath": "fu001/18767"
+            },
+            {
+                "id": "46080",
+                "name": "房间隔断",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/tolkning-tuo-ke-ning-fang-jian-ge-ban-shou-gong-zhi-zuo-teng-tiao__1098698_pe865491_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/room-dividers-46080.jpeg",
+                "children": [],
+                "fullPath": "fu001/46080"
+            },
+            {
+                "id": "fu005",
+                "name": "推车",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/hornavan-huo-na-wen-tui-che-bai-se__0169887_pe325984_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/trolleys-fu005.jpeg",
+                "children": [],
+                "fullPath": "fu001/fu005"
+            },
+            {
+                "id": "16244",
+                "name": "吧台家具",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/tommaryd-tuo-ma-rui-de-zhuo-zi-dan-hui-se__0740545_pe742054_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/bar-furniture-16244.jpeg",
+                "children": [],
+                "fullPath": "fu001/16244"
+            },
+            {
+                "id": "fu006",
+                "name": "扶手椅和贵妃椅",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/pello-pei-luo-dan-ren-sha-fa-fu-shou-yi-he-mu-bei-zi-ran-se__38296_pe130209_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/armchairs-chaise-longues-fu006.jpeg",
+                "children": [],
+                "fullPath": "fu001/fu006"
+            },
+            {
+                "id": "19141",
+                "name": "咖啡馆家具",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/stensele-si-dan-sai-norraryd-nuo-le-li-ba-zhuo-2ba-deng-mei-hei-se-mei-hei-se-hei-se__0680383_pe719836_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/cafe-furniture-19141.jpeg",
+                "children": [],
+                "fullPath": "fu001/19141"
+            },
+            {
+                "id": "45780",
+                "name": "婴儿家具",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/myllra-mu-er-la-dai-chou-ti-ying-er-chuang-qian-fen-se__0812394_pe783220_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/nursery-furniture-45780.jpeg",
+                "children": [],
+                "fullPath": "fu001/45780"
+            },
+            {
+                "id": "700417",
+                "name": "餐厅家具",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/ingolf-ying-ge-fu-yi-dian-ai-er-wen-si-ma-er-shen-lan-se-bai-se__36233_pe127305_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/dining-furniture-700417.jpeg",
+                "children": [],
+                "fullPath": "fu001/700417"
+            }
+        ],
+        "fullPath": "fu001"
+    },
+    {
+        "id": "tl001",
+        "name": "纺织品",
+        "icon": "https://www.ikea.cn/cn/zh/images/products/varkrage-wo-ke-luo-ge-xiu-xian-tan-hong-he-se__0723978_pe734321_s3.jpg",
+        "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/textiles-tl001.jpeg",
+        "iconImg": "https://res.app.ikea.cn/static/public/catalog/tl001/icon.svg?v=16",
+        "children": [
+            {
+                "id": "tl004",
+                "name": "卧室纺织品",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/tovsippa-tuo-xi-pa-bei-tao-he-2ge-zhen-tao-bai-se-hua-hui-tu-an__0684366_pe721123_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/bedding-tl004.jpeg",
+                "children": [],
+                "fullPath": "tl001/tl004"
+            },
+            {
+                "id": "tl002",
+                "name": "窗帘和卷帘",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/bengta-ben-ge-ta-zhe-guang-chuang-lian-lan-se__0805437_pe769558_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/curtains-blinds-tl002.jpeg",
+                "children": [],
+                "fullPath": "tl001/tl002"
+            },
+            {
+                "id": "10659",
+                "name": "靠垫和靠垫套",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/turill-tu-li-er-kao-dian-bai-se-hei-se__0545087_pe655316_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/cushions-cushion-covers-10659.jpeg",
+                "children": [],
+                "fullPath": "tl001/10659"
+            },
+            {
+                "id": "18730",
+                "name": "儿童纺织品",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/kaepphaest-xie-pu-hai-si-te-bei-tao-he-zhen-tao-wan-ju-tu-an-huang-se__0751324_pe747013_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/childrens-textiles-18730.jpeg",
+                "children": [],
+                "fullPath": "tl001/18730"
+            },
+            {
+                "id": "17893",
+                "name": "户外靠垫",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/froesoen-duvholmen-fu-luo-song-du-huo-meng-yi-bei-kao-dian-hu-wai-shen-hui-se__0685034_pe721319_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/outdoor-cushions-17893.jpeg",
+                "children": [],
+                "fullPath": "tl001/17893"
+            },
+            {
+                "id": "20528",
+                "name": "毯子和休闲毯",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/vitmossa-wei-te-mo-sa-xiu-xian-tan-hui-se__0603361_pe680780_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/blankets-throws-20528.jpeg",
+                "children": [],
+                "fullPath": "tl001/20528"
+            },
+            {
+                "id": "20538",
+                "name": "餐桌用纺织品",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/anledning-ang-lai-ning-zhuo-bu-bai-se-hong-se__1036698_pe838489_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/table-linen-20538.jpeg",
+                "children": [],
+                "fullPath": "tl001/20538"
+            },
+            {
+                "id": "tl003",
+                "name": "浴室纺织品",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/naersen-nai-er-sen-yu-jin-bai-se__0688237_pe722380_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/bath-textiles-tl003.jpeg",
+                "children": [],
+                "fullPath": "tl001/tl003"
+            },
+            {
+                "id": "10655",
+                "name": "布料和缝纫用品",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/sy-qian-ya-yun-tang-shi-bu-yi-feng-bian-tiao__40957_pe135151_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/fabrics-sewing-10655.jpeg",
+                "children": [],
+                "fullPath": "tl001/10655"
+            },
+            {
+                "id": "18850",
+                "name": "厨房纺织品",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/hildegun-xi-de-gen-wei-qun__0930017_pe790573_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/kitchen-textiles-18850.jpeg",
+                "children": [],
+                "fullPath": "tl001/18850"
+            },
+            {
+                "id": "18690",
+                "name": "婴儿纺织品",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/roerande-lue-lang-de-ying-er-chuang-shang-yong-pin-san-jian-tao-duo-se__0774670_pe756729_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/baby-textiles-18690.jpeg",
+                "children": [],
+                "fullPath": "tl001/18690"
+            },
+            {
+                "id": "42925",
+                "name": "衣服/配件",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/rockan-luo-ke-weng-yu-yi-bai-se__1135537_pe879096_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/clothing-accessories-42925.jpeg",
+                "children": [],
+                "fullPath": "tl001/42925"
+            },
+            {
+                "id": "20542",
+                "name": "椅垫",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/justina-jia-si-di-na-yi-dian-tao-hong-se__0110993_pe261628_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/chair-pads-20542.jpeg",
+                "children": [],
+                "fullPath": "tl001/20542"
+            },
+            {
+                "id": "10653",
+                "name": "地毯",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/tiphede-ti-pu-he-de-ping-zhi-di-tan-zi-ran-se-hei-se__0772066_pe755879_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/rugs-10653.jpeg",
+                "children": [],
+                "fullPath": "tl001/10653"
+            }
+        ],
+        "fullPath": "tl001"
+    },
+    {
+        "id": "de001",
+        "name": "装饰品",
+        "icon": "https://www.ikea.cn/cn/zh/images/products/padrag-pu-de-la-ge-hua-ping-tou-ming-bo-li__0969056_pe810681_s3.jpg",
+        "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/decoration-de001.jpeg",
+        "iconImg": "https://res.app.ikea.cn/static/public/catalog/de001/icon.svg?v=16",
+        "children": [
+            {
+                "id": "10757",
+                "name": "图片和框架",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/yllevad-yi-le-wa-hua-kuang-bai-se__0790075_pe767448_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/wall-decor-10757.jpeg",
+                "children": [],
+                "fullPath": "de001/10757"
+            },
+            {
+                "id": "pp003",
+                "name": "植物和花",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/philodendron-jin-zuan-pen-zai-zhi-wu__1026737_pe834497_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/plants-flowers-pp003.jpeg",
+                "children": [],
+                "fullPath": "de001/pp003"
+            },
+            {
+                "id": "10550",
+                "name": "储物盒和储物篮",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/kuggis-ku-ji-si-fu-gai-chu-wu-he-bai-se__0713062_pe729166_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/storage-boxes-baskets-10550.jpeg",
+                "children": [],
+                "fullPath": "de001/10550"
+            },
+            {
+                "id": "pp004",
+                "name": "花盆",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/brunbaer-bu-lun-bai-zhuang-shi-yong-hua-pen-he-pen-tuo-hu-wai-chan-pin-chi-tao__1033767_pe840266_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/flower-pots-planters-pp004.jpeg",
+                "children": [],
+                "fullPath": "de001/pp004"
+            },
+            {
+                "id": "20489",
+                "name": "镜子",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/toftbyn-tuo-fu-bi-en-jing-zi-bai-se__0833075_pe777944_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/mirrors-20489.jpeg",
+                "children": [],
+                "fullPath": "de001/20489"
+            },
+            {
+                "id": "10760",
+                "name": "蜡烛和蜡台",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/lugnare-lu-na-le-xiang-wei-zhu-he-bo-li-bei-mo-li-hua-fen-hong-se__1060608_pe850076_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/candle-holders-candles-10760.jpeg",
+                "children": [],
+                "fullPath": "de001/10760"
+            },
+            {
+                "id": "10769",
+                "name": "花瓶和碗",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/fatalig-fu-ta-li-hua-ping-gou-hui-bai__0990323_pe818856_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/vases-bowls-10769.jpeg",
+                "children": [],
+                "fullPath": "de001/10769"
+            },
+            {
+                "id": "10574",
+                "name": "布告板",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/vaeggis-wa-ji-si-liu-yan-ban-dai-da-tou-zhen-bai-se__0240400_pe380053_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/noticeboards-10574.jpeg",
+                "children": [],
+                "fullPath": "de001/10574"
+            },
+            {
+                "id": "24924",
+                "name": "装饰配件",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/gestalta-ji-te-da-mu-ren-ben-se__24799_pe109573_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/decorative-accessories-24924.jpeg",
+                "children": [],
+                "fullPath": "de001/24924"
+            },
+            {
+                "id": "25227",
+                "name": "包装纸和礼品袋",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/aromatisk-a-lu-ma-ti-ke-li-wu-xin-feng-mi-se-huang-se-zhi-zhi__1112613_pe871229_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/paper-shop-25227.jpeg",
+                "children": [],
+                "fullPath": "de001/25227"
+            },
+            {
+                "id": "10759",
+                "name": "时钟",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/tromma-tu-luo-ma-gua-zhong-bai-se__0836082_pe778497_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/clocks-10759.jpeg",
+                "children": [],
+                "fullPath": "de001/10759"
+            },
+            {
+                "id": "42926",
+                "name": "家用香氛",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/adlad-a-la-de-xiang-xun-gua-jian-si-kan-de-na-wei-ya-sen-lin-bai-se__1060355_pe849977_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/home-fragrance-42926.jpeg",
+                "children": [],
+                "fullPath": "de001/42926"
+            },
+            {
+                "id": "49149",
+                "name": "节日装饰",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/enrum-en-lu-mu-diao-gua-zhu-tai-shi-nei-hu-wai-hong-se__0888812_pe782189_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/christmas-decoration-49149.jpeg",
+                "children": [],
+                "fullPath": "de001/49149"
+            }
+        ],
+        "fullPath": "de001"
+    },
+    {
+        "id": "li001",
+        "name": "灯具照明",
+        "icon": "https://www.ikea.cn/cn/zh/images/products/saxhyttan-sa-ke-si-xi-ta-en-tai-deng-mi-huang-se-hei-se__0984125_pe816201_s3.jpg",
+        "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/lighting-li001.jpeg",
+        "iconImg": "https://res.app.ikea.cn/static/public/catalog/li001/icon.svg?v=16",
+        "children": [
+            {
+                "id": "li002",
+                "name": "灯具",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/tagarp-te-jia-pu-luo-di-deng-hei-se-bai-se__0810840_pe771436_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/lamps-li002.jpeg",
+                "children": [],
+                "fullPath": "li001/li002"
+            },
+            {
+                "id": "14971",
+                "name": "装饰性灯具",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/solvinden-suo-wen-dun-leddeng-chuan-12ge-deng-pao-dian-chi-cao-zuo-hu-wai-chan-pin-bai-se__1032373_pe836880_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/decorative-lighting-14971.jpeg",
+                "children": [],
+                "fullPath": "li001/14971"
+            },
+            {
+                "id": "16280",
+                "name": "内置灯具",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/ledberg-lai-bo-ke-wan-qu-ledzhao-ming-tiao-bai-se__0594202_pe675567_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/integrated-lighting-16280.jpeg",
+                "children": [],
+                "fullPath": "li001/16280"
+            },
+            {
+                "id": "36812",
+                "name": "智能照明",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/tradfri-te-lu-fei-wu-xian-dong-tai-gan-ying-qi-bai-se__0725849_pe735071_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/smart-lighting-36812.jpeg",
+                "children": [],
+                "fullPath": "li001/36812"
+            },
+            {
+                "id": "17897",
+                "name": "户外照明",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/solarvet-suo-la-wan-leddeng-chuan-24tou-hu-wai-chan-pin-tai-yang-neng-qiu-xing-bai-se__0634551_pe696569_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/outdoor-lighting-17897.jpeg",
+                "children": [],
+                "fullPath": "li001/17897"
+            },
+            {
+                "id": "10736",
+                "name": "浴室照明",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/godmorgon-gu-de-mo-ledchu-ju-qiang-bi-zhao-ming-bai-se__0663981_pe712576_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/bathroom-lighting-10736.jpeg",
+                "children": [],
+                "fullPath": "li001/10736"
+            },
+            {
+                "id": "20514",
+                "name": "LED灯泡",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/solhetta-suo-hai-ta-leddeng-pao-e27-806liu-ming-ke-diao-guang-de-qiu-xing-ru-bai-se__0988841_pe818257_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/led-bulbs-20514.jpeg",
+                "children": [],
+                "fullPath": "li001/20514"
+            }
+        ],
+        "fullPath": "li001"
+    },
+    {
+        "id": "ka001",
+        "name": "整体厨房和电器",
+        "icon": "https://www.ikea.cn/cn/zh/images/products/lysekil-lai-xi-ke-dang-shui-ban-shuang-mian-she-ji-huang-tong-se-bu-xiu-gang-se__0817928_pe774177_s3.jpg",
+        "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/kitchen-appliances-ka001.jpeg",
+        "iconImg": "https://res.app.ikea.cn/static/public/catalog/ka001/icon.svg?v=16",
+        "children": [
+            {
+                "id": "700293",
+                "name": "厨房门板",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/askersund-a-si-ke-song-ju-men-qian-bai-zha-mu-wen__0633755_pe696048_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/kitchen-doors-drawer-fronts-700293.jpeg",
+                "children": [],
+                "fullPath": "ka001/700293"
+            },
+            {
+                "id": "700292",
+                "name": "厨房柜体",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/metod-mi-duo-bi-ju-kuang-jia-bai-se__0640634_pe699954_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/kitchen-cabinets-700292.jpeg",
+                "children": [],
+                "fullPath": "ka001/700292"
+            },
+            {
+                "id": "ka003",
+                "name": "厨房厨柜系列",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/enhet-an-na-te-zhuan-jiao-chu-fang-mei-hei-se-fang-hun-ning-tu-xiao-guo-bai-se__0989434_pe818487_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/kitchens-ka003.jpeg",
+                "children": [],
+                "fullPath": "ka001/ka003"
+            },
+            {
+                "id": "24255",
+                "name": "厨柜内部收纳",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/smaecker-si-ma-ke-can-ju-pan-hui-se__0626862_pe693051_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/interior-fittings-24255.jpeg",
+                "children": [],
+                "fullPath": "ka001/24255"
+            },
+            {
+                "id": "16200",
+                "name": "置物架",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/omar-ao-ma-er-ge-jia-dan-yuan-dian-du__0650980_pe706616_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/pantry-16200.jpeg",
+                "children": [],
+                "fullPath": "ka001/16200"
+            },
+            {
+                "id": "20676",
+                "name": "厨房墙面收纳",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/kungsfors-kang-fu-si-ge-ban-bu-xiu-gang__0709887_pe727149_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/kitchen-wall-storage-20676.jpeg",
+                "children": [],
+                "fullPath": "ka001/20676"
+            },
+            {
+                "id": "24264",
+                "name": "厨房操作台面",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/lilltraesk-li-te-la-cao-zuo-tai-mian-bai-se-ceng-ya-ban__0315483_pe516146_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/kitchen-worktops-24264.jpeg",
+                "children": [],
+                "fullPath": "ka001/24264"
+            },
+            {
+                "id": "ka002",
+                "name": "厨房电器",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/tillreda-ti-rui-da-wei-bo-lu-bai-se__0912596_pe783444_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/appliances-ka002.jpeg",
+                "children": [],
+                "fullPath": "ka001/ka002"
+            },
+            {
+                "id": "10471",
+                "name": "推车和岛台",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/vesken-wei-hui-en-tui-che-bai-se__0832009_pe777548_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/kitchen-islands-trolleys-10471.jpeg",
+                "children": [],
+                "fullPath": "ka001/10471"
+            },
+            {
+                "id": "16298",
+                "name": "拉手和拉钮",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/gubbarp-gu-ba-pu-ba-shou-bai-se__0754252_pe747843_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/knobs-handles-16298.jpeg",
+                "children": [],
+                "fullPath": "ka001/16298"
+            },
+            {
+                "id": "16282",
+                "name": "厨房照明",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/styrbar-si-tu-er-ba-yao-kong-qi-bu-xiu-gang__0944238_pe797204_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/kitchen-lighting-16282.jpeg",
+                "children": [],
+                "fullPath": "ka001/16282"
+            },
+            {
+                "id": "24261",
+                "name": "厨房水龙头和水槽",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/kilsviken-ji-er-si-wei-ken-qian-ru-shi-shui-cao-dai-1ge-cao-shen-he-se-shi-ying-hun-he-wu__0831740_pe777337_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/kitchen-taps-sinks-24261.jpeg",
+                "children": [],
+                "fullPath": "ka001/24261"
+            },
+            {
+                "id": "19121",
+                "name": "厨房墙面挡水板",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/lysekil-lai-xi-ke-dang-shui-ban-shuang-mian-she-ji-la-si-tong-xiao-guo-bu-xiu-gang__1020010_pe831704_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/kitchen-splashbacks-wall-panels-19121.jpeg",
+                "children": [],
+                "fullPath": "ka001/19121"
+            },
+            {
+                "id": "22957",
+                "name": "独立式厨房",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/ravaror-luo-wa-lu-du-li-chu-ju-hei-se__0864974_pe781316_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/unit-kitchens-22957.jpeg",
+                "children": [],
+                "fullPath": "ka001/22957"
+            }
+        ],
+        "fullPath": "ka001"
+    },
+    {
+        "id": "hs001",
+        "name": "智能家居",
+        "icon": "https://www.ikea.cn/cn/zh/images/products/tradfri-te-lu-fei-wu-xian-kong-zhi-qu-dong-hui-se__0553358_pe659469_s3.jpg",
+        "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/home-smart-hs001.jpeg",
+        "iconImg": "https://res.app.ikea.cn/static/public/catalog/hs001/icon.svg?v=16",
+        "children": [
+            {
+                "id": "56472",
+                "name": "空气净化器",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/starkvind-si-da-wen-kong-qi-jing-hua-qi-hei-se__0978609_pe814182_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/smart-air-purifiers-filters-56472.jpeg",
+                "children": [],
+                "fullPath": "hs001/56472"
+            },
+            {
+                "id": "36812",
+                "name": "智能照明",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/tradfri-te-lu-fei-wu-xian-dong-tai-gan-ying-qi-bai-se__0725849_pe735071_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/smart-lighting-36812.jpeg",
+                "children": [],
+                "fullPath": "hs001/36812"
+            },
+            {
+                "id": "44531",
+                "name": "电动卷帘",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/kadrilj-qia-de-li-juan-lian-wu-xian-dian-chi-cao-zuo-hui-se__0595311_pe675962_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/smart-electric-blinds-44531.jpeg",
+                "children": [],
+                "fullPath": "hs001/44531"
+            },
+            {
+                "id": "46194",
+                "name": "无线音箱",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/symfonisk-xi-mu-fu-si-wifishu-jia-yin-xiang-hei-se__0707117_pe726114_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/wi-fi-speakers-46194.jpeg",
+                "children": [],
+                "fullPath": "hs001/46194"
+            }
+        ],
+        "fullPath": "hs001"
+    },
+    {
+        "id": "bm001",
+        "name": "床和床垫",
+        "icon": "https://www.ikea.cn/cn/zh/images/products/akrehamn-a-ke-luo-han-pao-mo-chuang-dian-ying-xing-bai-se__1015271_pe829965_s3.jpg",
+        "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/beds-mattresses-bm001.jpeg",
+        "iconImg": "https://res.app.ikea.cn/static/public/catalog/bm001/icon.svg?v=16",
+        "children": [
+            {
+                "id": "bm003",
+                "name": "床",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/slattum-si-la-tu-ruan-bao-chuang-jia-bang-si-ta-hei-se__0764836_pe753364_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/beds-bm003.jpeg",
+                "children": [],
+                "fullPath": "bm001/bm003"
+            },
+            {
+                "id": "tl004",
+                "name": "卧室纺织品",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/tovsippa-tuo-xi-pa-bei-tao-he-2ge-zhen-tao-bai-se-hua-hui-tu-an__0684366_pe721123_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/bedding-tl004.jpeg",
+                "children": [],
+                "fullPath": "bm001/tl004"
+            },
+            {
+                "id": "bm002",
+                "name": "床垫",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/hoevag-hai-wo-ge-dai-zhuang-dan-huang-chuang-dian-ying-xing-shen-hui-se__0210703_pe364285_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/mattresses-bm002.jpeg",
+                "children": [],
+                "fullPath": "bm001/bm002"
+            },
+            {
+                "id": "20656",
+                "name": "床头柜",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/hemnes-han-ni-si-chuang-tou-zhuo-bai-se-qi__0624424_pe691831_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/bedside-tables-20656.jpeg",
+                "children": [],
+                "fullPath": "bm001/20656"
+            },
+            {
+                "id": "19064",
+                "name": "床头板",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/nordli-nuo-de-li-chuang-tou-ban-bai-se__0595945_pe677836_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/headboards-19064.jpeg",
+                "children": [],
+                "fullPath": "bm001/19064"
+            },
+            {
+                "id": "19059",
+                "name": "床底收纳",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/paerkla-pai-ke-la-chu-wu-dai__0716331_pe730816_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/under-bed-storage-19059.jpeg",
+                "children": [],
+                "fullPath": "bm001/19059"
+            },
+            {
+                "id": "24827",
+                "name": "床板条",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/loenset-lang-sai-te-chuang-ban-jia__0243789_pe383074_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/bed-slats-24827.jpeg",
+                "children": [],
+                "fullPath": "bm001/24827"
+            }
+        ],
+        "fullPath": "bm001"
+    },
+    {
+        "id": "bc001",
+        "name": "婴儿和儿童",
+        "icon": "https://www.ikea.cn/cn/zh/images/products/lillabo-li-le-bao-wan-ju-huo-che-45jian-dai-gui-dao__0712397_pe728813_s3.jpg",
+        "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/baby-children-bc001.jpeg",
+        "iconImg": "https://res.app.ikea.cn/static/public/catalog/bc001/icon.svg?v=16",
+        "children": [
+            {
+                "id": "bc003",
+                "name": "儿童",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/mala-mo-la-shu-xie-ban-ruan-mu__0995590_pe821771_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/children-bc003.jpeg",
+                "children": [],
+                "fullPath": "bc001/bc003"
+            },
+            {
+                "id": "bc002",
+                "name": "婴儿",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/lockig-luo-qi-er-tong-bian-hu-bai-se-lu-se__0712339_pe728741_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/baby-bc002.jpeg",
+                "children": [],
+                "fullPath": "bc001/bc002"
+            }
+        ],
+        "fullPath": "bc001"
+    },
+    {
+        "id": "ba001",
+        "name": "浴室产品",
+        "icon": "https://www.ikea.cn/cn/zh/images/products/lillasjoen-li-la-xue-en-5gou-lian-bi-ge-jia__0947950_pe798780_s3.jpg",
+        "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/bathroom-products-ba001.jpeg",
+        "iconImg": "https://res.app.ikea.cn/static/public/catalog/ba001/icon.svg?v=16",
+        "children": [
+            {
+                "id": "20719",
+                "name": "洗脸池",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/godmorgon-gu-de-mo-odensvik-ao-deng-wei-shuang-ti-xi-lian-chi-ju-gao-guang-bai-se-dalskaer-da-si-qia-shui-long-tou__0382228_pe556628_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/bathroom-vanities-20719.jpeg",
+                "children": [],
+                "fullPath": "ba001/20719"
+            },
+            {
+                "id": "ba002",
+                "name": "浴室储物",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/vesken-wei-hui-en-zhuan-jiao-ge-ban-zhuang-zhi-bai-se__0831999_pe777543_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/bathroom-storage-ba002.jpeg",
+                "children": [],
+                "fullPath": "ba001/ba002"
+            },
+            {
+                "id": "20490",
+                "name": "浴室镜",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/enhet-an-na-te-shuang-men-jing-ju-bai-se-hui-se-kuang-jia__0816143_pe773290_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/bathroom-mirrors-20490.jpeg",
+                "children": [],
+                "fullPath": "ba001/20490"
+            },
+            {
+                "id": "10555",
+                "name": "浴室配件",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/tisken-ti-si-ke-en-dai-xi-pan-lan-kuang-bai-se__0749052_pe745413_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/bathroom-accessories-10555.jpeg",
+                "children": [],
+                "fullPath": "ba001/10555"
+            },
+            {
+                "id": "ba003",
+                "name": "浴室衣物洗涤及晾晒",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/slibb-si-li-bo-luo-di-shi-liang-yi-jia-hui-se__0974366_pe812403_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/bathroom-laundry-ba003.jpeg",
+                "children": [],
+                "fullPath": "ba001/ba003"
+            },
+            {
+                "id": "tl003",
+                "name": "浴室纺织品",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/naersen-nai-er-sen-yu-jin-bai-se__0688237_pe722380_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/bath-textiles-tl003.jpeg",
+                "children": [],
+                "fullPath": "ba001/tl003"
+            },
+            {
+                "id": "10736",
+                "name": "浴室照明",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/godmorgon-gu-de-mo-ledchu-ju-qiang-bi-zhao-ming-bai-se__0663981_pe712576_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/bathroom-lighting-10736.jpeg",
+                "children": [],
+                "fullPath": "ba001/10736"
+            },
+            {
+                "id": "46079",
+                "name": "浴室家具",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/nysjoen-ni-xun-bjoerkan-bi-yue-ke-ang-yu-shi-jia-ju-5jian-tao-bai-se-saljen-sa-li-en-shui-long-tou__0968966_pe810656_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/bathroom-furniture-sets-46079.jpeg",
+                "children": [],
+                "fullPath": "ba001/46079"
+            },
+            {
+                "id": "20859",
+                "name": "浴室脚凳和长凳",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/bolmen-bo-meng-deng-bai-se__0099008_pe240453_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/bathroom-stools-benches-20859.jpeg",
+                "children": [],
+                "fullPath": "ba001/20859"
+            },
+            {
+                "id": "20723",
+                "name": "浴室水槽",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/odensvik-ao-deng-wei-dan-cao-xi-lian-chi__0756214_pe748825_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/bathroom-sinks-20723.jpeg",
+                "children": [],
+                "fullPath": "ba001/20723"
+            },
+            {
+                "id": "40690",
+                "name": "浴室花洒",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/ljusoega-ji-suo-jia-yu-lian-hua__0503378_pe632620_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/showers-40690.jpeg",
+                "children": [],
+                "fullPath": "ba001/40690"
+            },
+            {
+                "id": "20724",
+                "name": "浴室水龙头",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/pilkan-pi-le-kong-xi-lian-chi-shui-long-tou-dai-guo-lu-qi-du-ge__0644803_pe702977_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/bathroom-taps-20724.jpeg",
+                "children": [],
+                "fullPath": "ba001/20724"
+            },
+            {
+                "id": "700339",
+                "name": "SPA配件",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/praktportlak-pu-la-bo-na-cuo-zao-shou-tao-zi-ran-se__1127403_pe876203_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/spa-accessories-700339.jpeg",
+                "children": [],
+                "fullPath": "ba001/700339"
+            }
+        ],
+        "fullPath": "ba001"
+    },
+    {
+        "id": "od001",
+        "name": "户外产品",
+        "icon": "https://www.ikea.cn/cn/zh/images/products/aepplaroe-a-pu-lai-nuo-deng-hu-wai-ke-zhe-die-zhao-he-se-qi__0728395_pe736229_s3.jpg",
+        "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/outdoor-products-od001.jpeg",
+        "iconImg": "https://res.app.ikea.cn/static/public/catalog/od001/icon.svg?v=16",
+        "children": [
+            {
+                "id": "od003",
+                "name": "户外家具",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/taernoe-ta-er-nuo-zhuo-zi-2-yi-zi-hu-wai-hong-se-zhao-qian-he-se-qi__0776099_pe757709_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/outdoor-furniture-od003.jpeg",
+                "children": [],
+                "fullPath": "od001/od003"
+            },
+            {
+                "id": "21958",
+                "name": "户外储物",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/kolbjoern-ke-bi-yue-en-ju-zi-shi-nei-hu-wai-mi-huang-se__0664606_pe718444_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/outdoor-storage-21958.jpeg",
+                "children": [],
+                "fullPath": "od001/21958"
+            },
+            {
+                "id": "17887",
+                "name": "遮阳伞和凉亭",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/tvetoe-te-wei-tie-yang-san-mi-hui-se-bai-se-hu-wei-en-mi-hui-se__0961341_pe807495_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/parasols-gazebos-17887.jpeg",
+                "children": [],
+                "fullPath": "od001/17887"
+            },
+            {
+                "id": "700349",
+                "name": "户外厨房和配件",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/grilltider-ge-li-ti-de-tuo-pan-bu-xiu-gang__1062708_pe850945_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/outdoor-kitchen-accessories-700349.jpeg",
+                "children": [],
+                "fullPath": "od001/700349"
+            },
+            {
+                "id": "31787",
+                "name": "户外花盆和植物",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/askholmen-a-huo-meng-zhi-wu-jia-zhao-qian-he-se-qi__0237654_pe376921_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/outdoor-pots-plants-31787.jpeg",
+                "children": [],
+                "fullPath": "od001/31787"
+            },
+            {
+                "id": "34203",
+                "name": "户外配件",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/laettuggad-lai-tu-jia-ling-shi-he-2jian-tao-bu-xiu-gang__1029698_pe836011_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/outdoor-accessories-34203.jpeg",
+                "children": [],
+                "fullPath": "od001/34203"
+            },
+            {
+                "id": "17897",
+                "name": "户外照明",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/solarvet-suo-la-wan-leddeng-chuan-24tou-hu-wai-chan-pin-tai-yang-neng-qiu-xing-bai-se__0634551_pe696569_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/outdoor-lighting-17897.jpeg",
+                "children": [],
+                "fullPath": "od001/17897"
+            },
+            {
+                "id": "34204",
+                "name": "户外地毯",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/rodelund-lu-de-long-de-ping-zhi-di-tan-shi-nei-hu-wai-mi-huang-se__0771925_pe755848_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/outdoor-rugs-34204.jpeg",
+                "children": [],
+                "fullPath": "od001/34204"
+            },
+            {
+                "id": "21957",
+                "name": "户外地板",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/runnen-lu-en-di-ban-shi-mian-hu-wai-zhao-he-se-qi__0709178_pe726855_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/outdoor-flooring-21957.jpeg",
+                "children": [],
+                "fullPath": "od001/21957"
+            }
+        ],
+        "fullPath": "od001"
+    },
+    {
+        "id": "700291",
+        "name": "居家办公",
+        "icon": "https://www.ikea.cn/cn/zh/images/products/sockerbit-suo-ke-bi-fu-gai-chu-wu-he-hui-lu-se__1029044_pe835633_s3.jpg",
+        "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/working-from-home-700291.jpeg",
+        "iconImg": "https://res.app.ikea.cn/static/public/catalog/700291/icon.svg?v=16",
+        "children": [
+            {
+                "id": "20652",
+                "name": "书桌椅和办公椅",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/renberget-lun-bei-te-zhuan-yi-bang-si-ta-hei-se__1020135_pe831794_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/desk-chairs-20652.jpeg",
+                "children": [],
+                "fullPath": "700291/20652"
+            },
+            {
+                "id": "20649",
+                "name": "书桌和办公桌",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/lagkapten-la-ge-kai-pu-adils-a-di-si-shu-zhuo-qian-lu-hei-se__1079052_pe857389_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/desks-computer-desks-20649.jpeg",
+                "children": [],
+                "fullPath": "700291/20649"
+            },
+            {
+                "id": "53249",
+                "name": "书桌椅组合",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/utespelare-wu-si-pei-helmer-hai-er-mo-zhuo-zi-yi-zi-he-chou-ti-dan-yuan-dan-hui-se-hui-se-bai-se__1004843_pe825225_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/desk-chair-sets-53249.jpeg",
+                "children": [],
+                "fullPath": "700291/53249"
+            },
+            {
+                "id": "57537",
+                "name": "多功能桌",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/ingatorp-ying-ge-tuo-fan-ban-zhuo-hei-he-se__0737121_pe740894_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/multifunctional-tables-57537.jpeg",
+                "children": [],
+                "fullPath": "700291/57537"
+            },
+            {
+                "id": "10711",
+                "name": "抽屉柜-书房和办公室",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/alex-a-lai-si-chou-ti-ju-dai-jiao-lun-hui-lan-se-hei-se__0993106_pe820413_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/drawer-units-10711.jpeg",
+                "children": [],
+                "fullPath": "700291/10711"
+            },
+            {
+                "id": "10385",
+                "name": "储物文件柜",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/trotten-te-luo-teng-chu-wu-ju-bai-se__1007247_pe825962_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/storage-units-cabinets-10385.jpeg",
+                "children": [],
+                "fullPath": "700291/10385"
+            },
+            {
+                "id": "46080",
+                "name": "房间隔断",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/tolkning-tuo-ke-ning-fang-jian-ge-ban-shou-gong-zhi-zuo-teng-tiao__1098698_pe865491_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/room-dividers-46080.jpeg",
+                "children": [],
+                "fullPath": "700291/46080"
+            },
+            {
+                "id": "700336",
+                "name": "书桌隔板",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/eilif-ai-li-fu-zhuo-mian-shi-ge-ban-lan-se__0929900_pe790515_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/desk-dividers-700336.jpeg",
+                "children": [],
+                "fullPath": "700291/700336"
+            },
+            {
+                "id": "20502",
+                "name": "工作灯",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/svallet-si-wa-lei-te-gong-zuo-deng-shen-hui-se-bai-se__0703502_pe724751_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/work-lamps-20502.jpeg",
+                "children": [],
+                "fullPath": "700291/20502"
+            },
+            {
+                "id": "40845",
+                "name": "电线和充电器",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/livboj-li-fu-bo-yi-wu-xian-chong-dian-qi-hei-se__0716064_pe730680_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/cables-chargers-40845.jpeg",
+                "children": [],
+                "fullPath": "700291/40845"
+            },
+            {
+                "id": "10551",
+                "name": "文件和多媒体储藏件",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/droenjoens-de-rui-yue-en-wen-jian-he-qian-hui-lu__1029015_pe835631_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/paper-media-organisers-10551.jpeg",
+                "children": [],
+                "fullPath": "700291/10551"
+            },
+            {
+                "id": "46077",
+                "name": "降噪用品",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/oddlaug-ao-de-lao-ge-shi-ban-hui-se__0737048_pe740868_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/acoustic-panels-46077.jpeg",
+                "children": [],
+                "fullPath": "700291/46077"
+            }
+        ],
+        "fullPath": "700291"
+    },
+    {
+        "id": "rm001",
+        "name": "地毯, 门垫和地板",
+        "icon": "https://www.ikea.cn/cn/zh/images/products/vindebaek-wen-de-bai-chang-rong-di-tan-dan-mi-se__0994153_pe820884_s3.jpg",
+        "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/rugs-mats-flooring-rm001.jpeg",
+        "iconImg": "https://res.app.ikea.cn/static/public/catalog/rm001/icon.svg?v=16",
+        "children": [
+            {
+                "id": "10653",
+                "name": "地毯",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/tiphede-ti-pu-he-de-ping-zhi-di-tan-zi-ran-se-hei-se__0772066_pe755879_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/rugs-10653.jpeg",
+                "children": [],
+                "fullPath": "rm001/10653"
+            },
+            {
+                "id": "21957",
+                "name": "户外地板",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/runnen-lu-en-di-ban-shi-mian-hu-wai-zhao-he-se-qi__0709178_pe726855_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/outdoor-flooring-21957.jpeg",
+                "children": [],
+                "fullPath": "rm001/21957"
+            },
+            {
+                "id": "10698",
+                "name": "门垫",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/klampenborg-ke-lang-peng-bei-shi-nei-men-dian-he-se__0972870_pe811785_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/door-mats-10698.jpeg",
+                "children": [],
+                "fullPath": "rm001/10698"
+            },
+            {
+                "id": "20519",
+                "name": "浴室垫子",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/fintsen-fen-te-sen-yu-shi-di-dian-hui-se__0974067_pe812273_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/bath-mats-20519.jpeg",
+                "children": [],
+                "fullPath": "rm001/20519"
+            }
+        ],
+        "fullPath": "rm001"
+    },
+    {
+        "id": "kt001",
+        "name": "餐具和厨具",
+        "icon": "https://www.ikea.cn/cn/zh/images/products/oftast-ao-fu-ta-can-pan-bai-se__0713530_pe729595_s3.jpg",
+        "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/kitchenware-tableware-kt001.jpeg",
+        "iconImg": "https://res.app.ikea.cn/static/public/catalog/kt001/icon.svg?v=16",
+        "children": [
+            {
+                "id": "15937",
+                "name": "食品收纳与储存罐",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/pruta-pu-ta-shi-pin-he-17jian-tao-tou-ming-lu-se__0711382_pe728174_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/food-storage-organising-15937.jpeg",
+                "children": [],
+                "fullPath": "kt001/15937"
+            },
+            {
+                "id": "18860",
+                "name": "餐具",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/oftast-ao-fu-ta-shen-pan-bai-se__0712360_pe728779_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/dinnerware-18860.jpeg",
+                "children": [],
+                "fullPath": "kt001/18860"
+            },
+            {
+                "id": "16043",
+                "name": "上菜用具",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/fascinera-fa-xin-la-zhen-ban-xiang-si-mu__0956508_pe804692_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/serveware-16043.jpeg",
+                "children": [],
+                "fullPath": "kt001/16043"
+            },
+            {
+                "id": "16044",
+                "name": "咖啡和茶",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/gladelig-ge-la-de-li-bei-lan-se__0986803_pe817327_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/coffee-tea-16044.jpeg",
+                "children": [],
+                "fullPath": "kt001/16044"
+            },
+            {
+                "id": "20538",
+                "name": "餐桌用纺织品",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/anledning-ang-lai-ning-zhuo-bu-bai-se-hong-se__1036698_pe838489_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/table-linen-20538.jpeg",
+                "children": [],
+                "fullPath": "kt001/20538"
+            },
+            {
+                "id": "kt003",
+                "name": "锅具",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/annons-a-na-si-chui-ju-5jian-tao-bo-li-bu-xiu-gang__43510_pe139263_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/cookware-kt003.jpeg",
+                "children": [],
+                "fullPath": "kt001/kt003"
+            },
+            {
+                "id": "18868",
+                "name": "玻璃器皿和水壶",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/karaff-qia-la-fu-can-yong-shui-ping-tou-ming-bo-li__0711268_pe728106_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/glassware-jugs-18868.jpeg",
+                "children": [],
+                "fullPath": "kt001/18868"
+            },
+            {
+                "id": "kt002",
+                "name": "烹饪用具和烘培工具",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/gnarp-ge-na-pu-chu-ju-3jian-tao-hei-se__0711742_pe728431_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/cooking-baking-utensils-kt002.jpeg",
+                "children": [],
+                "fullPath": "kt001/kt002"
+            },
+            {
+                "id": "15938",
+                "name": "洗碗用具",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/antagen-an-da-gen-xi-wan-shua-duo-se__0713128_pe729273_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/dishwashing-accessories-15938.jpeg",
+                "children": [],
+                "fullPath": "kt001/15938"
+            },
+            {
+                "id": "18865",
+                "name": "刀叉餐具",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/mopsig-mo-pu-si-ge-jin-shu-can-ju-16jian-tao__0578532_pe669393_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/cutlery-18865.jpeg",
+                "children": [],
+                "fullPath": "kt001/18865"
+            },
+            {
+                "id": "15934",
+                "name": "刀具和砧板",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/legitim-lai-ji-di-zhen-ban-bai-se__0712856_pe729106_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/knives-chopping-boards-15934.jpeg",
+                "children": [],
+                "fullPath": "kt001/15934"
+            },
+            {
+                "id": "20636",
+                "name": "烘焙器具",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/behoeva-bi-huo-wa-liang-hu-tou-ming-hui-se__0583499_pe671223_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/bakeware-20636.jpeg",
+                "children": [],
+                "fullPath": "kt001/20636"
+            },
+            {
+                "id": "18850",
+                "name": "厨房纺织品",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/hildegun-xi-de-gen-wei-qun__0930017_pe790573_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/kitchen-textiles-18850.jpeg",
+                "children": [],
+                "fullPath": "kt001/18850"
+            },
+            {
+                "id": "20560",
+                "name": "餐巾纸和纸巾架",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/varfest-wo-er-fei-si-can-jin-zhi-tu-an-dan-fen-hong-se-cheng-se__1028143_pe835253_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/napkins-napkin-holders-20560.jpeg",
+                "children": [],
+                "fullPath": "kt001/20560"
+            },
+            {
+                "id": "18714",
+                "name": "儿童厨具和餐具",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/kalas-qia-la-si-bei-duo-se__0998019_pe822917_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/childrens-kitchenware-tableware-18714.jpeg",
+                "children": [],
+                "fullPath": "kt001/18714"
+            },
+            {
+                "id": "42924",
+                "name": "户外野餐",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/fjaellmott-fu-ya-mo-ye-can-tan-shen-lu-se-hei-se__0933133_pe791755_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/picnic-on-the-go-42924.jpeg",
+                "children": [],
+                "fullPath": "kt001/42924"
+            }
+        ],
+        "fullPath": "kt001"
+    },
+    {
+        "id": "pp001",
+        "name": "花盆和植物",
+        "icon": "https://www.ikea.cn/cn/zh/images/products/socker-suo-ke-er-zhuang-shi-yong-hua-pen-shi-nei-hu-wai-dian-du__0638861_pe699217_s3.jpg",
+        "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/pots-plants-pp001.jpeg",
+        "iconImg": "https://res.app.ikea.cn/static/public/catalog/pp001/icon.svg?v=16",
+        "children": [
+            {
+                "id": "pp003",
+                "name": "植物和花",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/philodendron-jin-zuan-pen-zai-zhi-wu__1026737_pe834497_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/plants-flowers-pp003.jpeg",
+                "children": [],
+                "fullPath": "pp001/pp003"
+            },
+            {
+                "id": "pp004",
+                "name": "花盆",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/brunbaer-bu-lun-bai-zhuang-shi-yong-hua-pen-he-pen-tuo-hu-wai-chan-pin-chi-tao__1033767_pe840266_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/flower-pots-planters-pp004.jpeg",
+                "children": [],
+                "fullPath": "pp001/pp004"
+            },
+            {
+                "id": "20494",
+                "name": "植物支撑架和移动用具",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/olivblad-ou-li-bu-la-zhi-wu-jia-shi-nei-hu-wai-hei-se__1010784_pe828333_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/plant-stands-movers-20494.jpeg",
+                "children": [],
+                "fullPath": "pp001/20494"
+            },
+            {
+                "id": "24887",
+                "name": "园艺配件",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/chilipulver-qi-li-pu-wa-jiao-shui-gan-ying-qi-lu-se__0772315_pe755930_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/growing-accessories-24887.jpeg",
+                "children": [],
+                "fullPath": "pp001/24887"
+            },
+            {
+                "id": "20493",
+                "name": "浇水壶",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/bittergurka-bi-gu-qia-sa-shui-hu-bai-se__0635846_pe697468_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/watering-cans-20493.jpeg",
+                "children": [],
+                "fullPath": "pp001/20493"
+            }
+        ],
+        "fullPath": "pp001"
+    },
+    {
+        "id": "lc001",
+        "name": "清洁及晾晒用品",
+        "icon": "https://www.ikea.cn/cn/zh/images/products/fniss-fen-ni-si-la-ji-tong-bai-se__0711299_pe728137_s3.jpg",
+        "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/laundry-cleaning-lc001.jpeg",
+        "iconImg": "https://res.app.ikea.cn/static/public/catalog/lc001/icon.svg?v=16",
+        "children": [
+            {
+                "id": "700170",
+                "name": "清洁晾晒组合柜",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/enhet-an-na-te-xi-yi-lan-bai-se-hui-se-kuang-jia__1033090_pe837140_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/laundry-furniture-sets-700170.jpeg",
+                "children": [],
+                "fullPath": "lc001/700170"
+            },
+            {
+                "id": "16213",
+                "name": "废纸篓和储物袋",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/goerbra-yong-bu-la-ta-ban-shi-la-ji-tong__0936559_pe793304_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/waste-bins-bags-16213.jpeg",
+                "children": [],
+                "fullPath": "lc001/16213"
+            },
+            {
+                "id": "15938",
+                "name": "洗碗用具",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/antagen-an-da-gen-xi-wan-shua-duo-se__0713128_pe729273_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/dishwashing-accessories-15938.jpeg",
+                "children": [],
+                "fullPath": "lc001/15938"
+            },
+            {
+                "id": "48925",
+                "name": "清洁晾晒柜/搁架",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/enhet-an-na-te-xi-yi-lan-bai-se-fang-xiang-mu__1033004_pe837086_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/laundry-cabinets-shelves-48925.jpeg",
+                "children": [],
+                "fullPath": "lc001/48925"
+            },
+            {
+                "id": "20601",
+                "name": "洗衣篮",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/jaell-jia-er-dai-jia-xi-yi-yong-dai-bai-se__0711258_pe728096_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/laundry-baskets-20601.jpeg",
+                "children": [],
+                "fullPath": "lc001/20601"
+            },
+            {
+                "id": "55004",
+                "name": "洗衣配件",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/slibb-si-li-bo-ying-mao-shua-dai-qu-zi-ca__0989996_pe818711_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/laundry-accessories-55004.jpeg",
+                "children": [],
+                "fullPath": "lc001/55004"
+            },
+            {
+                "id": "20609",
+                "name": "清洁配件",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/pepprig-pei-pu-li-ge-wu-hen-tuo-ba-gua-gou__0967346_pe810101_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/cleaning-accessories-20609.jpeg",
+                "children": [],
+                "fullPath": "lc001/20609"
+            },
+            {
+                "id": "20602",
+                "name": "晾衣架",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/mulig-mu-li-ge-liang-yi-jia-shi-nei-hu-wai-bai-se__0710880_pe727820_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/drying-racks-20602.jpeg",
+                "children": [],
+                "fullPath": "lc001/20602"
+            },
+            {
+                "id": "20608",
+                "name": "烫衣板",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/daenka-dan-ke-tang-yi-ban__0710874_pe727814_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/ironing-boards-20608.jpeg",
+                "children": [],
+                "fullPath": "lc001/20608"
+            },
+            {
+                "id": "18741",
+                "name": "垃圾分类桶",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/hallbar-ha-er-ba-la-ji-fen-lei-jie-jue-fang-an-gua-yong-yu-metod-mi-duo-chu-fang-chou-ti-you-tong-feng-zhuang-zhi-dan-hui-se__0761377_pe751242_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/waste-sorting-18741.jpeg",
+                "children": [],
+                "fullPath": "lc001/18741"
+            }
+        ],
+        "fullPath": "lc001"
+    },
+    {
+        "id": "he001",
+        "name": "家用电子产品",
+        "icon": "https://www.ikea.cn/cn/zh/images/products/summera-sa-mo-la-chou-ti-cha-ru-jian-dai-6ge-mei-hei-se__0135809_pe292680_s3.jpg",
+        "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/home-electronics-he001.jpeg",
+        "iconImg": "https://res.app.ikea.cn/static/public/catalog/he001/icon.svg?v=16",
+        "children": [
+            {
+                "id": "ka002",
+                "name": "厨房电器",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/tillreda-ti-rui-da-wei-bo-lu-bai-se__0912596_pe783444_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/appliances-ka002.jpeg",
+                "children": [],
+                "fullPath": "he001/ka002"
+            },
+            {
+                "id": "36812",
+                "name": "智能照明",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/tradfri-te-lu-fei-wu-xian-dong-tai-gan-ying-qi-bai-se__0725849_pe735071_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/smart-lighting-36812.jpeg",
+                "children": [],
+                "fullPath": "he001/36812"
+            },
+            {
+                "id": "40845",
+                "name": "电线和充电器",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/livboj-li-fu-bo-yi-wu-xian-chong-dian-qi-hei-se__0716064_pe730680_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/cables-chargers-40845.jpeg",
+                "children": [],
+                "fullPath": "he001/40845"
+            },
+            {
+                "id": "44531",
+                "name": "电动卷帘",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/kadrilj-qia-de-li-juan-lian-wu-xian-dian-chi-cao-zuo-hui-se__0595311_pe675962_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/smart-electric-blinds-44531.jpeg",
+                "children": [],
+                "fullPath": "he001/44531"
+            },
+            {
+                "id": "40843",
+                "name": "手机/平板配件",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/yuppienalle-yu-pi-nai-shou-ji-zhi-jia-hui-se__1020769_pe831987_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/mobile-tablet-accessories-40843.jpeg",
+                "children": [],
+                "fullPath": "he001/40843"
+            },
+            {
+                "id": "40842",
+                "name": "扬声器",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/vappeby-bian-xi-lan-ya-yin-xiang-bai-se__0672711_pe716806_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/speakers-40842.jpeg",
+                "children": [],
+                "fullPath": "he001/40842"
+            },
+            {
+                "id": "49081",
+                "name": "空气净化器和过滤器",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/foernuftig-fei-nu-fu-ti-kong-qi-jing-hua-qi-hei-se__0832292_pe777643_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/air-purifiers-accessories-49081.jpeg",
+                "children": [],
+                "fullPath": "he001/49081"
+            },
+            {
+                "id": "16195",
+                "name": "电线整理和配件",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/romma-luo-ma-dai-gai-dian-xian-shou-na-he-bai-se__0312916_pe516646_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/cable-management-accessories-16195.jpeg",
+                "children": [],
+                "fullPath": "he001/16195"
+            },
+            {
+                "id": "36814",
+                "name": "控制装置和配件",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/tradfri-te-lu-fei-wang-guan-tao-jian-kuai-jie-an-niu-bai-se__1006825_pe825866_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/steering-devices-accessories-36814.jpeg",
+                "children": [],
+                "fullPath": "he001/36814"
+            }
+        ],
+        "fullPath": "he001"
+    },
+    {
+        "id": "hi001",
+        "name": "家居修缮",
+        "icon": "https://www.ikea.cn/cn/zh/images/products/fixa-fei-ke-sha-ji-guang-shui-ping-yi__0711974_pe728602_s3.jpg",
+        "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/home-improvement-hi001.jpeg",
+        "iconImg": "https://res.app.ikea.cn/static/public/catalog/hi001/icon.svg?v=16",
+        "children": [
+            {
+                "id": "55984",
+                "name": "SKYTTA 斯基塔滑门系统",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/hokksund-huo-ke-song-hua-men-kuang-mian-ban-4-jian-gao-guang-dan-hui-se__0749100_pe745477_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/skytta-sliding-door-system-55984.jpeg",
+                "children": [],
+                "fullPath": "hi001/55984"
+            },
+            {
+                "id": "16298",
+                "name": "拉手和拉钮",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/gubbarp-gu-ba-pu-ba-shou-bai-se__0754252_pe747843_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/knobs-handles-16298.jpeg",
+                "children": [],
+                "fullPath": "hi001/16298"
+            },
+            {
+                "id": "21957",
+                "name": "户外地板",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/runnen-lu-en-di-ban-shi-mian-hu-wai-zhao-he-se-qi__0709178_pe726855_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/outdoor-flooring-21957.jpeg",
+                "children": [],
+                "fullPath": "hi001/21957"
+            },
+            {
+                "id": "16292",
+                "name": "工具和安装件",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/fixa-fei-ke-sha-dian-dong-luo-si-dao-dai-li-chi-zi-dian-chi__0711972_pe728600_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/tools-fittings-16292.jpeg",
+                "children": [],
+                "fullPath": "hi001/16292"
+            },
+            {
+                "id": "46078",
+                "name": "搬家用品",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/frakta-fu-la-ta-bian-zhi-dai-da-lan-se__0711230_pe728075_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/moving-supplies-46078.jpeg",
+                "children": [],
+                "fullPath": "hi001/46078"
+            },
+            {
+                "id": "19121",
+                "name": "厨房墙面挡水板",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/lysekil-lai-xi-ke-dang-shui-ban-shuang-mian-she-ji-la-si-tong-xiao-guo-bu-xiu-gang__1020010_pe831704_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/kitchen-splashbacks-wall-panels-19121.jpeg",
+                "children": [],
+                "fullPath": "hi001/19121"
+            },
+            {
+                "id": "42948",
+                "name": "护理油/着色剂/产品保养",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/absorb-ai-bo-pi-liao-hu-li-ji__0371547_pe551106_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/oils-stains-product-care-42948.jpeg",
+                "children": [],
+                "fullPath": "hi001/42948"
+            },
+            {
+                "id": "46077",
+                "name": "降噪用品",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/oddlaug-ao-de-lao-ge-shi-ban-hui-se__0737048_pe740868_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/acoustic-panels-46077.jpeg",
+                "children": [],
+                "fullPath": "hi001/46077"
+            },
+            {
+                "id": "sp001",
+                "name": "安全产品",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/doppa-duo-pa-yu-gang-fang-hua-dian-dan-hui-se__0372006_pe553646_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/safety-products-sp001.jpeg",
+                "children": [],
+                "fullPath": "hi001/sp001"
+            }
+        ],
+        "fullPath": "hi001"
+    },
+    {
+        "id": "ss001",
+        "name": "夏季灵感",
+        "icon": "https://www.ikea.cn/cn/zh/images/products/efterfragad-yi-te-fu-jia-zhen-kong-shi-wu-guan-bu-xiu-gang__0712766_pe729003_s3.jpg",
+        "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/summer-ss001.jpeg",
+        "iconImg": "https://res.app.ikea.cn/static/public/catalog/ss001/icon.svg?v=16",
+        "children": [
+            {
+                "id": "47430",
+                "name": "园艺",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/satsumas-sha-tu-ma-si-wu-wei-hua-jia-zhu-bai-se__0635813_pe697395_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/gardening-47430.jpeg",
+                "children": [],
+                "fullPath": "ss001/47430"
+            },
+            {
+                "id": "14971",
+                "name": "装饰性灯具",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/solvinden-suo-wen-dun-leddeng-chuan-12ge-deng-pao-dian-chi-cao-zuo-hu-wai-chan-pin-bai-se__1032373_pe836880_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/decorative-lighting-14971.jpeg",
+                "children": [],
+                "fullPath": "ss001/14971"
+            },
+            {
+                "id": "42924",
+                "name": "户外野餐",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/fjaellmott-fu-ya-mo-ye-can-tan-shen-lu-se-hei-se__0933133_pe791755_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/picnic-on-the-go-42924.jpeg",
+                "children": [],
+                "fullPath": "ss001/42924"
+            },
+            {
+                "id": "47432",
+                "name": "夏季装饰",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/oemsesidig-ou-sai-si-di-ren-zao-hua-teng-duo-se__1127250_pe876130_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/summer-decoration-47432.jpeg",
+                "children": [],
+                "fullPath": "ss001/47432"
+            },
+            {
+                "id": "47429",
+                "name": "夏日派对",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/storsint-si-tu-xin-te-hong-jiu-jiu-bei-tou-ming-bo-li__0640896_pe700140_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/summer-party-47429.jpeg",
+                "children": [],
+                "fullPath": "ss001/47429"
+            },
+            {
+                "id": "47431",
+                "name": "夏季纺织品",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/knapstad-si-na-pu-chuang-ru-bai-se__0481508_pe619664_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/summer-textiles-47431.jpeg",
+                "children": [],
+                "fullPath": "ss001/47431"
+            },
+            {
+                "id": "24898",
+                "name": "烧烤用品",
+                "icon": "https://www.ikea.cn/cn/zh/images/products/korpoen-ku-peng-bian-xi-shi-shao-kao-lu-hei-se__0755921_pe748668_s3.jpg",
+                "bannerImg": "https://www.ikea.cn/global/assets/navigation/images/bbqs-24898.jpeg",
+                "children": [],
+                "fullPath": "ss001/24898"
+            }
+        ],
+        "fullPath": "ss001"
+    }
+]

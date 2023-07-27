@@ -1,0 +1,96 @@
+{
+    "id": "7F4200",
+    "type": "ad-image-waterfall",
+    "contents": [
+        {
+            "link": "ikea://content/all-ranking?roomId=living-room",
+            "image": {
+                "url": "https://file.app.ikea.cn/cms/u/20210811/96ddc0f9a3db4ae59965badbcd9a2b63.png?x-oss-process=style/medium",
+                "width": 640,
+                "height": 480
+            },
+            "gioTraces": "{\"objectId_var\":\"living-room\",\"objectType_var\":\"all_ranking\"}"
+        },
+        {
+            "link": "ikea://content/all-ranking?roomId=bedroom",
+            "image": {
+                "url": "https://file.app.ikea.cn/cms/u/20210811/8b8268c818d047c3a36298b86c108dd0.png?x-oss-process=style/medium",
+                "width": 640,
+                "height": 480
+            },
+            "gioTraces": "{\"objectId_var\":\"bedroom\",\"objectType_var\":\"all_ranking\"}"
+        },
+        {
+            "link": "ikea://content/all-ranking?roomId=kitchen",
+            "image": {
+                "url": "https://file.app.ikea.cn/cms/u/20210811/e87d298f356b4d98aa16b987e8077a0c.png?x-oss-process=style/medium",
+                "width": 640,
+                "height": 480
+            },
+            "gioTraces": "{\"objectId_var\":\"kitchen\",\"objectType_var\":\"all_ranking\"}"
+        },
+        {
+            "link": "ikea://content/all-ranking?roomId=dining-room",
+            "image": {
+                "url": "https://file.app.ikea.cn/cms/u/20210811/597e4d51454048569d7b8e951414467b.png?x-oss-process=style/medium",
+                "width": 640,
+                "height": 480
+            },
+            "gioTraces": "{\"objectId_var\":\"dining-room\",\"objectType_var\":\"all_ranking\"}"
+        },
+        {
+            "link": "ikea://content/all-ranking?roomId=childrens-room",
+            "image": {
+                "url": "https://file.app.ikea.cn/cms/u/20210811/17d15aaaed9d4a16aa6fe0f53dc68c3a.png?x-oss-process=style/medium",
+                "width": 640,
+                "height": 480
+            },
+            "gioTraces": "{\"objectId_var\":\"childrens-room\",\"objectType_var\":\"all_ranking\"}"
+        },
+        {
+            "link": "ikea://content/all-ranking?roomId=bathroom",
+            "image": {
+                "url": "https://file.app.ikea.cn/cms/u/20210811/95b26ebb02454d9e82db7724e26f7e0d.png?x-oss-process=style/medium",
+                "width": 640,
+                "height": 480
+            },
+            "gioTraces": "{\"objectId_var\":\"bathroom\",\"objectType_var\":\"all_ranking\"}"
+        },
+        {
+            "link": "ikea://content/all-ranking?roomId=home-office",
+            "image": {
+                "url": "https://file.app.ikea.cn/cms/u/20210811/2b0282e4d13441bdbb52c1f5b46897a1.png?x-oss-process=style/medium",
+                "width": 640,
+                "height": 480
+            },
+            "gioTraces": "{\"objectId_var\":\"home-office\",\"objectType_var\":\"all_ranking\"}"
+        },
+        {
+            "link": "ikea://content/all-ranking?roomId=balcony",
+            "image": {
+                "url": "https://file.app.ikea.cn/cms/u/20210811/b782a0bb6a6946f3a9740c822f820cfd.png?x-oss-process=style/medium",
+                "width": 640,
+                "height": 480
+            },
+            "gioTraces": "{\"objectId_var\":\"balcony\",\"objectType_var\":\"all_ranking\"}"
+        },
+        {
+            "link": "ikea://content/all-ranking?roomId=hallway",
+            "image": {
+                "url": "https://file.app.ikea.cn/cms/u/20210811/12b7b4c97e8c4564b77c1484c5613b9f.png?x-oss-process=style/medium",
+                "width": 640,
+                "height": 480
+            },
+            "gioTraces": "{\"objectId_var\":\"hallway\",\"objectType_var\":\"all_ranking\"}"
+        },
+        {
+            "link": "ikea://content/all-ranking?roomId=outdoor",
+            "image": {
+                "url": "https://file.app.ikea.cn/cms/u/20210811/1b43e5fa75644125b7143e21cbff127f.png?x-oss-process=style/medium",
+                "width": 640,
+                "height": 480
+            },
+            "gioTraces": "{\"objectId_var\":\"outdoor\",\"objectType_var\":\"all_ranking\"}"
+        }
+    ]
+}

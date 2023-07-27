@@ -1,0 +1,215 @@
+{
+	"data": {
+		"list": [{
+				"id": "001",
+				"title": "衣柜储物盒",
+				"bgColor": "#7f8060",
+				"list": [{
+						"rankingNum": 1,
+						"imgUrl": "https://www.ikea.cn/cn/zh/images/products/paerkla-pai-ke-la-chu-wu-dai__0716331_pe730816_s4.jpg",
+						"name": "PÄRKLA 派克拉"
+					},
+					{
+						"rankingNum": 2,
+						"imgUrl": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-dai-bai-se__0711176_pe728045_s4.jpg",
+						"name": "SKUBB 思库布"
+					},
+					{
+						"rankingNum": 3,
+						"imgUrl": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-dai-shen-hui-se__0573442_pe667780_s4.jpg",
+						"name": "SKUBB 思库布"
+					}
+				]
+			},
+			{
+				"id": "002",
+				"title": "墙面收纳件",
+				"bgColor": "#7f8071",
+				"list": [{
+						"rankingNum": 1,
+						"imgUrl": "https://www.ikea.cn/cn/zh/images/products/sunnersta-su-na-si-sheng-ju-bai-se__0409165_pe601916_s4.jpg",
+						"name": "SUNNERSTA 苏纳思"
+					},
+					{
+						"rankingNum": 2,
+						"imgUrl": "https://www.ikea.cn/cn/zh/images/products/tisken-ti-si-ke-en-dai-xi-pan-lan-kuang-bai-se__0749052_pe745413_s4.jpg",
+						"name": "TISKEN 提斯科恩"
+					},
+					{
+						"rankingNum": 3,
+						"imgUrl": "https://www.ikea.cn/cn/zh/images/products/palycke-bo-li-ke-fang-bian-chu-wu-lan__1094044_pe863299_s4.jpg",
+						"name": "PÅLYCKE 伯利克"
+					}
+				]
+			},
+			{
+				"id": "003",
+				"title": "书柜",
+				"bgColor": "#807870",
+				"list": [{
+						"rankingNum": 1,
+						"imgUrl": "https://www.ikea.cn/cn/zh/images/products/billy-bi-li-shu-jia-bai-se__0625599_pe692385_s4.jpg",
+						"name": "BILLY 毕利"
+					},
+					{
+						"rankingNum": 2,
+						"imgUrl": "https://www.ikea.cn/cn/zh/images/products/baggebo-ba-ge-bu-shu-jia-bai-se__0981552_pe815388_s4.jpg",
+						"name": "BAGGEBO 巴格布"
+					},
+					{
+						"rankingNum": 3,
+						"imgUrl": "https://www.ikea.cn/cn/zh/images/products/billy-bi-li-ge-ban-bai-se__0748786_pe745202_s4.jpg",
+						"name": "BILLY 毕利"
+					}
+				]
+			},
+			{
+				"id": "004",
+				"title": "碗",
+				"bgColor": "#556080",
+				"list": [{
+						"rankingNum": 1,
+						"imgUrl": "https://www.ikea.cn/cn/zh/images/products/vardagen-wa-da-en-wan-tou-ming-bo-li__0712928_pe729140_s4.jpg",
+						"name": "VARDAGEN 瓦达恩"
+					},
+					{
+						"rankingNum": 2,
+						"imgUrl": "https://www.ikea.cn/cn/zh/images/products/vardagen-wa-da-en-wan-tou-ming-bo-li__0712937_pe729149_s4.jpg",
+						"name": "VARDAGEN 瓦达恩"
+					},
+					{
+						"rankingNum": 3,
+						"imgUrl": "https://www.ikea.cn/cn/zh/images/products/kejserlig-xie-xi-li-wan-duo-se__1062720_pe850954_s4.jpg",
+						"name": "KEJSERLIG 歇西里"
+					}
+				]
+			},
+			{
+				"id": "005",
+				"title": "密封袋和食品袋",
+				"bgColor": "#807151",
+				"list": [{
+						"rankingNum": 1,
+						"imgUrl": "https://www.ikea.cn/cn/zh/images/products/istad-ai-si-ta-mi-feng-dai-tu-an-lu-se__1105120_pe868046_s4.jpg",
+						"name": "ISTAD 艾斯塔"
+					},
+					{
+						"rankingNum": 2,
+						"imgUrl": "https://www.ikea.cn/cn/zh/images/products/istad-ai-si-ta-mi-feng-dai-tu-an-hong-se-fen-hong-se__1080636_pe858406_s4.jpg",
+						"name": "VISTAD 艾斯塔"
+					},
+					{
+						"rankingNum": 3,
+						"imgUrl": "https://www.ikea.cn/cn/zh/images/products/istad-ai-si-ta-mi-feng-dai-tu-an-lan-se__1080640_pe858405_s4.jpg",
+						"name": "ISTAD 艾斯塔"
+					}
+				]
+			},
+			{
+				"id": "006",
+				"title": "毛绒玩具",
+				"bgColor": "#627480",
+				"list": [{
+						"rankingNum": 1,
+						"imgUrl": "https://www.ikea.cn/cn/zh/images/products/fabler-bjoern-fei-bu-le-bi-yue-mao-rong-wan-ju-mi-huang-se__0710165_pe727396_s4.jpg",
+						"name": "FABLER BJÖRN 费布勒 比约"
+					},
+					{
+						"rankingNum": 2,
+						"imgUrl": "https://www.ikea.cn/cn/zh/images/products/gosig-golden-gu-xi-ge-ge-deng-mao-rong-wan-ju-gou-jin-mao-xun-hui-quan__0710164_pe727367_s4.jpg",
+						"name": "GOSIG GOLDEN 古西格 格登"
+					},
+					{
+						"rankingNum": 3,
+						"imgUrl": "https://www.ikea.cn/cn/zh/images/products/gosig-golden-gu-xi-ge-ge-deng-mao-rong-wan-ju-gou-jin-mao-xun-hui-quan__0710164_pe727367_s4.jpg",
+						"name": "LIVLIG 里夫利"
+					}
+				]
+			},
+			{
+				"id": "007",
+				"title": "双人床",
+				"bgColor": "#807f7a",
+				"list": [{
+						"rankingNum": 1,
+						"imgUrl": "https://www.ikea.cn/cn/zh/images/products/bruksvara-bu-wa-la-chuang-jia-bai-se__1181577_pe896708_s4.jpg",
+						"name": "BRUKSVARA 布瓦拉"
+					},
+					{
+						"rankingNum": 2,
+						"imgUrl": "https://www.ikea.cn/cn/zh/images/products/nesttun-nai-si-dun-chuang-jia-bai-se-lu-rui__0637599_pe698415_s4.jpg",
+						"name": "NESTTUN 奈斯顿"
+					},
+					{
+						"rankingNum": 3,
+						"imgUrl": "https://www.ikea.cn/cn/zh/images/products/bruksvara-bu-wa-la-chuang-jia-he-se__1182428_pe897206_s4.jpg",
+						"name": "BRUKSVARA 布瓦拉"
+					}
+				]
+			},
+			{
+				"id": "008",
+				"title": "抽屉柜",
+				"bgColor": "#80756d",
+				"list": [{
+						"rankingNum": 1,
+						"imgUrl": "https://www.ikea.cn/cn/zh/images/products/malm-ma-er-mu-4-ti-gui-bai-se__0484879_pe621344_s4.jpg",
+						"name": "MALM 马尔姆"
+					},
+					{
+						"rankingNum": 2,
+						"imgUrl": "https://www.ikea.cn/cn/zh/images/products/malm-ma-er-mu-liang-dou-chou-ti-gui-bai-se__0626822_pe693007_s4.jpg",
+						"name": "MALM 马尔姆"
+					},
+					{
+						"rankingNum": 3,
+						"imgUrl": "https://www.ikea.cn/cn/zh/images/products/malm-ma-er-mu-6-ti-gui-bai-se-jing-bo-li__0484887_pe621351_s4.jpg",
+						"name": "MALM 马尔姆"
+					}
+				]
+			},
+			{
+				"id": "009",
+				"title": "杯子",
+				"bgColor": "#807f7f",
+				"list": [{
+						"rankingNum": 1,
+						"imgUrl": "https://www.ikea.cn/cn/zh/images/products/dinera-dai-nuo-la-da-bei-mi-huang-se__0642527_pe701233_s4.jpg",
+						"name": "DINERA 代诺拉"
+					},
+					{
+						"rankingNum": 2,
+						"imgUrl": "https://www.ikea.cn/cn/zh/images/products/dinera-dai-nuo-la-da-bei-shen-hui-se__0642538_pe701238_s4.jpg",
+						"name": "DINERA 代诺拉"
+					},
+					{
+						"rankingNum": 3,
+						"imgUrl": "https://www.ikea.cn/cn/zh/images/products/ikea-365-da-bei-tou-ming-bo-li__0713425_pe729518_s4.jpg",
+						"name": "IKEA 365+"
+					}
+				]
+			},
+			{
+				"id": "010",
+				"title": "被套组",
+				"bgColor": "#5f6780",
+				"list": [{
+						"rankingNum": 1,
+						"imgUrl": "https://www.ikea.cn/cn/zh/images/products/timjansmott-ting-yang-si-mo-bei-tao-he-2-ge-zhen-tao-bai-se-hua-hui-tu-an__1058329_pe849295_s4.jpg",
+						"name": "TIMJANS-MOTT 汀扬斯莫"
+					},
+					{
+						"rankingNum": 2,
+						"imgUrl": "https://www.ikea.cn/cn/zh/images/products/bruksvara-bu-wa-la-chuang-shang-yong-pin-4-jian-tao-huang-se-bai-se__1180075_pe896196_s4.jpg",
+						"name": "BRUKSVARA 布瓦拉"
+					},
+					{
+						"rankingNum": 3,
+						"imgUrl": "https://www.ikea.cn/cn/zh/images/products/bruksvara-bu-wa-la-chuang-shang-yong-pin-4-jian-tao-qian-lan-se-ji-he-tu-an__1180063_pe896193_s4.jpg",
+						"name": "BRUKSVARA 布瓦拉"
+					}
+				]
+			}
+		]
+	}
+}

@@ -128,11 +128,35 @@
                       }" itemStyle="padding-left: 15px; padding-right: 15px; height: 34px;"
 				@change="choseInspirationType">
 			</u-tabs>
+			<view class="tab-conter">
+				<view class="tab-left-conter" style="width: calc(50% - 5px);">
+					<view class="tab-item" v-for="(item,index) in discoverLeftList" :key="item.id">
+						<image class="img" :src="item.url" mode="widthFix"></image>
+						<view class="icon" v-if="item.url">
+							<i class="iconfont icon-xihuan"></i>
+						</view>
+					</view>
+				</view>
+				<view class="tab-right-conter" style="width: calc(50% - 5px);">
+					<view class="tab-item" v-for="(item,index) in discoverRightList" :key="item.id">
+						<image class="img" :src="item.url" mode="widthFix"></image>
+						<view class="icon" v-if="item.url">
+							<i class="iconfont icon-xihuan"></i>
+						</view>
+					</view>
+				</view>
+			</view>
+			<view class="showMore">
+				<view class="text" @click="getMoreRationType">
+					加载更多内容
+				</view>
+			</view>
 		</view>
 		<!-- 回到顶部 -->
 		<view class="back-top">
 			<view class="wrap">
-				<u-back-top :scroll-top="scrollTop" icon="arrow-up" top="100vh"   :customStyle="{backgroundColor:'#fff'}"></u-back-top>
+				<u-back-top :scroll-top="scrollTop" icon="arrow-up" top="100vh"
+					:customStyle="{backgroundColor:'#fff'}"></u-back-top>
 			</view>
 		</view>
 	</view>
@@ -185,7 +209,11 @@
 					"name": "浴室"
 				}], // 发现灵感tab选项
 				num: 0, //选择InspirationTypes的值
-				discoverList:[], // 发现更多灵感数据
+				discoverLeftList: [], // 发现更多灵感数据-左边
+				discoverRightList: [], // 发现更多灵感数据-右边
+				discoverPageNum:1, // 发现更多灵感页数
+				discoverType:"全部", // 发现更多灵感分类
+	
 			}
 		},
 		methods: {
@@ -249,18 +277,38 @@
 			// 获取发现更多灵感数据
 			async getdiscoveringInspirationFun() {
 				try {
-					let res = await getdiscoveringInspiration({type:"全部",pageNum:1})
-					console.log(res);
-					// this.discoverList = res.list
-					
+					let res = await getdiscoveringInspiration({
+						type:this.discoverType,
+						pageNum: this.discoverPageNum
+					})
+					res.msg.data.list.forEach((item, index) => {
+						if (index % 2 == 0) {
+							this.discoverLeftList.push(item)
+						} else {
+							this.discoverRightList.push(item)
+						}
+					})
 				} catch (err) {
 					uni.showModal({
-						title: `失败222`,
+						title: `没有找到更多相关数据~`,
 					})
 				}
 			},
+			// 发现灵感--选择分类
 			choseInspirationType(mes) {
+				this.discoverPageNum = 1
+				this.discoverType = mes.name
+				this.discoverLeftList = []
+				this.discoverRightList = []
+				this.getdiscoveringInspirationFun()
 				console.log(mes);
+			},
+			// 发现灵感--加载更多
+			getMoreRationType(){
+				this.discoverPageNum += 1
+				this.getdiscoveringInspirationFun()
+				console.log(this.discoverPageNum,this.discoverType);
+				
 			}
 
 		},
@@ -683,6 +731,72 @@
 			font-weight: bolder;
 			margin-bottom: 30rpx;
 
+		}
+
+		.tab-conter {
+			display: flex;
+			justify-content: space-between;
+		}
+
+		.tab-left-conter {
+			display: flex;
+			flex-direction: column;
+		}
+
+		.tab-right-conter {
+			display: flex;
+			flex-direction: column;
+		}
+
+		.tab-item {
+			width: 100%;
+			float: left;
+			margin-top: 10px;
+			position: relative;
+			background-color: #ccc;
+		}
+
+		.img {
+			display: block;
+			width: 100%;
+		}
+
+		.icon {
+			background-color: #00000080;
+			width: 80rpx;
+			height: 80rpx;
+			border-radius: 50%;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			position: absolute;
+			right: 20rpx;
+			bottom: 20rpx;
+		}
+
+		.icon-xihuan {
+			color: #fff;
+			font-weight: bold;
+			font-size: 30rpx;
+		}
+
+		.showMore {
+			width: 100%;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			margin-top: 30px;
+		}
+
+		.text {
+			background-color: #111;
+			color: #fff;
+			padding: 15px 25px;
+			border-radius: 999px;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			font-size: 12px;
 		}
 	}
 </style>

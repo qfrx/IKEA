@@ -14,8 +14,6 @@ function service(options = {}) {
 		}
 	}
 
-
-console.log(options.url, '+++++++++++++++++++');
 	// 判断本地是否存在token，如果存在则带上请求头
 	const token = uni.getStorageSync('token');
 	options.header = {

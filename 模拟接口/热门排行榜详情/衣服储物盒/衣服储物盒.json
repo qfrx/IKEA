@@ -66,7 +66,7 @@
                             "tags": [],
                             "priceUnit": "",
                             "currentPrice": 9.99,
-                            "currentPriceColorType": "BTI",
+                            "currentPriceColorType": "BtI",
                             "currentPriceColorHex": "111111",
                             "originalPriceLineThrough": false
                         },
@@ -75,6 +75,7 @@
                         "productFullId": "10395384",
                         "displayName": "派克拉 储物袋",
                         "appLinkUrl": "https://ikeaapp/product?id=10395384&type=ART"
+                     
                     },
                     "relatedContents": []
                 },
@@ -272,7 +273,7 @@
                             "tags": [],
                             "priceUnit": "",
                             "currentPrice": 14.99,
-                            "currentPriceColorType": "BTI",
+                            "currentPriceColorType": "BtI",
                             "currentPriceColorHex": "111111",
                             "originalPriceLineThrough": false
                         },
@@ -405,7 +406,7 @@
                             "tags": [],
                             "priceUnit": "",
                             "currentPrice": 14.99,
-                            "currentPriceColorType": "BTI",
+                            "currentPriceColorType": "BtI",
                             "currentPriceColorHex": "111111",
                             "originalPriceLineThrough": false
                         },
@@ -1459,7 +1460,7 @@
                             "tags": [],
                             "priceUnit": "",
                             "currentPrice": 9.99,
-                            "currentPriceColorType": "BTI",
+                            "currentPriceColorType": "BtI",
                             "currentPriceColorHex": "111111",
                             "originalPriceLineThrough": false
                         },
@@ -3234,7 +3235,7 @@
                             "hasFamilyCard": false
                         },
                         "image": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-dai-bai-se__0711196_pe728065_s4.jpg",
-                        "sceneImage": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-dai-bai-se__0910098_pe559907_s4.jpg",
+                   
                         "secondImage": false,
                         "new": false,
                         "seriesId": "12555",

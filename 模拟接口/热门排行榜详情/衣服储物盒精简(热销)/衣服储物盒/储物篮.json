@@ -1,0 +1,114 @@
+{
+    "products": [
+        {
+            "id": "60480544",
+            "globalId": "90281618",
+            "name": "RISATORP 瑞沙托",
+            "regularPrice": 39.99,
+            "productType": "篮",
+            "designText": "白色",
+            "measureText": "25x26x18 厘米",
+            "image": "https://www.ikea.cn/cn/zh/images/products/risatorp-rui-sha-tuo-lan-bai-se__0711025_pe727906_s4.jpg",
+            "productTags": "7日售出781件"
+        },
+        {
+            "id": "80520087",
+            "globalId": "50520084",
+            "name": "RISATORP 瑞沙托",
+            "regularPrice": 39.99,
+            "productType": "篮",
+            "designText": "淡蓝",
+            "measureText": "25x26x18 厘米",
+            "image": "https://www.ikea.cn/cn/zh/images/products/risatorp-rui-sha-tuo-lan-dan-lan__1021102_pe832052_s4.jpg",
+            "productTags": "7日售出711件"
+        },
+        {
+            "id": "80480883",
+            "globalId": "70469131",
+            "name": "RISATORP 瑞沙托",
+            "regularPrice": 39.99,
+            "productType": "篮筐",
+            "designText": "淡粉红色",
+            "measureText": "25x26x18 厘米",
+            "image": "https://www.ikea.cn/cn/zh/images/products/risatorp-rui-sha-tuo-lan-kuang-dan-fen-hong-se__0728913_pe736584_s4.jpg",
+            "productTags": "7日售出688件"
+        },
+        {
+            "id": "80557405",
+            "globalId": "70557397",
+            "name": "RISATORP 瑞沙托",
+            "regularPrice": 39.99,
+            "productType": "篮",
+            "designText": "浅黄",
+            "measureText": "25x26x18 厘米",
+            "image": "https://www.ikea.cn/cn/zh/images/products/risatorp-rui-sha-tuo-lan-qian-huang__1167432_pe891576_s4.jpg",
+            "productTags": "7日售出645件"
+        },
+        {
+            "id": "30530852",
+            "globalId": "10530749",
+            "name": "RISATORP 瑞沙托",
+            "regularPrice": 39.99,
+            "productType": "篮",
+            "designText": "米灰色",
+            "measureText": "25x26x18 厘米",
+            "image": "https://www.ikea.cn/cn/zh/images/products/risatorp-rui-sha-tuo-lan-mi-hui-se__1091137_pe862323_s4.jpg",
+            "productTags": "7日售出634件"
+        },
+        {
+            "id": "60532604",
+            "globalId": "80532603",
+            "name": "TJABBIG 夏比格",
+            "regularPrice": 24.99,
+            "productType": "篮筐",
+            "designText": "自然色",
+            "measureText": "15x13 厘米",
+            "image": "https://www.ikea.cn/cn/zh/images/products/tjabbig-xia-bi-ge-lan-kuang-zi-ran-se__1115916_pe872576_s4.jpg",
+            "productTags": "7日售出232件"
+        },
+        {
+            "id": "10474593",
+            "globalId": "30474592",
+            "name": "BULLIG 布丽格",
+            "regularPrice": 129,
+            "productType": "盒",
+            "designText": "竹/褐色",
+            "measureText": "32x35x33 厘米",
+            "image": "https://www.ikea.cn/cn/zh/images/products/bullig-bu-li-ge-he-zhu-he-se__0913363_pe783469_s4.jpg",
+            "productTags": "7日售出186件"
+        },
+        {
+            "id": "90513393",
+            "globalId": "10513392",
+            "name": "BEKNA 别克纳",
+            "regularPrice": 129,
+            "productType": "篮",
+            "designText": "塑料藤条",
+            "measureText": "25x35x20 厘米",
+            "image": "https://www.ikea.cn/cn/zh/images/products/bekna-bie-ke-na-lan-su-liao-teng-tiao__1070869_pe854771_s4.jpg",
+            "productTags": "7日售出186件"
+        },
+        {
+            "id": "10457409",
+            "globalId": "30457328",
+            "name": "LUSTIGKURRE 路缇库热",
+            "regularPrice": 99.99,
+            "productType": "篮",
+            "designText": "自然色 凤眼蓝/海草",
+            "measureText": "32x33x32 厘米",
+            "image": "https://www.ikea.cn/cn/zh/images/products/lustigkurre-lu-ti-ku-re-lan-zi-ran-se-feng-yan-lan-hai-cao__0922247_pe788098_s4.jpg",
+            "productTags": "7日售出147件"
+        },
+        {
+            "id": "00394945",
+            "globalId": "30394944",
+            "name": "SNIDAD 斯尼达",
+            "regularPrice": 199,
+            "productType": "篮",
+            "designText": "藤条",
+            "measureText": "54x39 厘米",
+            "image": "https://www.ikea.cn/cn/zh/images/products/snidad-si-ni-da-lan-teng-tiao__0713103_pe729252_s4.jpg",
+            "productTags": "7日售出133件"
+        }
+    ]
+}

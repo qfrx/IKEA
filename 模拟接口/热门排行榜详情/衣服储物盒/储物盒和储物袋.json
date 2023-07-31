@@ -66,7 +66,7 @@
                             "tags": [],
                             "priceUnit": "",
                             "currentPrice": 9.99,
-                            "currentPriceColorType": "BTI",
+                            "currentPriceColorType": "BtI",
                             "currentPriceColorHex": "111111",
                             "originalPriceLineThrough": false
                         },
@@ -399,7 +399,7 @@
                             "tags": [],
                             "priceUnit": "",
                             "currentPrice": 14.99,
-                            "currentPriceColorType": "BTI",
+                            "currentPriceColorType": "BtI",
                             "currentPriceColorHex": "111111",
                             "originalPriceLineThrough": false
                         },
@@ -461,7 +461,7 @@
                             "tags": [],
                             "priceUnit": "",
                             "currentPrice": 5.99,
-                            "currentPriceColorType": "BTI",
+                            "currentPriceColorType": "BtI",
                             "currentPriceColorHex": "111111",
                             "originalPriceLineThrough": false
                         },
@@ -523,7 +523,7 @@
                             "tags": [],
                             "priceUnit": "",
                             "currentPrice": 14.99,
-                            "currentPriceColorType": "BTI",
+                            "currentPriceColorType": "BtI",
                             "currentPriceColorHex": "111111",
                             "originalPriceLineThrough": false
                         },
@@ -1408,7 +1408,7 @@
                             "tags": [],
                             "priceUnit": "",
                             "currentPrice": 9.99,
-                            "currentPriceColorType": "BTI",
+                            "currentPriceColorType": "BtI",
                             "currentPriceColorHex": "111111",
                             "originalPriceLineThrough": false
                         },
@@ -3021,7 +3021,7 @@
                             "tags": [],
                             "priceUnit": "",
                             "currentPrice": 5.99,
-                            "currentPriceColorType": "BTI",
+                            "currentPriceColorType": "BtI",
                             "currentPriceColorHex": "111111",
                             "originalPriceLineThrough": false
                         },

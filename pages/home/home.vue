@@ -47,7 +47,7 @@
 				热销排行
 			</view>
 			<u-scroll-list indicatorWidth="600rpx">
-				<view class="card" v-for="(item, index) in rankingEasyList" :key="item.id">
+				<view class="card" v-for="(item, index) in rankingEasyList" :key="item.id" @click=openRankingListPage(item.title,index)>
 					<view class="item-head" :style="{'backgroundColor':item.bgColor}">
 						<view class="text-content">
 							<text class="name">热销榜</text>
@@ -359,8 +359,19 @@
 				this.getdiscoveringInspirationFun()
 				console.log(this.discoverPageNum, this.discoverType);
 
+			},
+			// 跳转排行榜
+            openRankingListPage(title,index){
+				if (index < 3) {
+					uni.navigateTo({
+					    url:`/pages/classificationAnkings/classificationAnkings?title=${title}` 
+					});
+				}else{
+					uni.navigateTo({
+					    url:`/pages/undifindPage/undifindPage?title=${title}` 
+					});
+				}
 			}
-
 		},
 		onLoad() {
 			this.getHomeBannerFun()

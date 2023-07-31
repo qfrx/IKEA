@@ -3,6 +3,8 @@
   "navigationStyle": "custom",
   "usingComponents": {
     "u-swiper": "/uni_modules/uview-ui/components/u-swiper/u-swiper",
-    "u-scroll-list": "/uni_modules/uview-ui/components/u-scroll-list/u-scroll-list"
+    "u-scroll-list": "/uni_modules/uview-ui/components/u-scroll-list/u-scroll-list",
+    "u-tabs": "/uni_modules/uview-ui/components/u-tabs/u-tabs",
+    "u-back-top": "/uni_modules/uview-ui/components/u-back-top/u-back-top"
   }
 }

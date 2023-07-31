@@ -9477,9 +9477,9 @@ internalMixin(Vue);
 
 /***/ }),
 /* 26 */
-/*!***************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/pages.json ***!
-  \***************************************************************/
+/*!******************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/pages.json ***!
+  \******************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -9623,9 +9623,9 @@ function normalizeComponent (
 
 /***/ }),
 /* 33 */
-/*!**********************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/index.js ***!
-  \**********************************************************************************/
+/*!*************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/index.js ***!
+  \*************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9712,9 +9712,9 @@ exports.default = _default;
 
 /***/ }),
 /* 34 */
-/*!*********************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/mixin/mixin.js ***!
-  \*********************************************************************************************/
+/*!************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/mixin/mixin.js ***!
+  \************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9880,9 +9880,9 @@ exports.default = _default;
 
 /***/ }),
 /* 35 */
-/*!***********************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/mixin/mpMixin.js ***!
-  \***********************************************************************************************/
+/*!**************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/mixin/mpMixin.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9903,9 +9903,9 @@ exports.default = _default;
 
 /***/ }),
 /* 36 */
-/*!****************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/luch-request/index.js ***!
-  \****************************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/luch-request/index.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9923,9 +9923,9 @@ exports.default = _default;
 
 /***/ }),
 /* 37 */
-/*!***********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/luch-request/core/Request.js ***!
-  \***********************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/luch-request/core/Request.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10129,9 +10129,9 @@ exports.default = Request;
 
 /***/ }),
 /* 38 */
-/*!*******************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/luch-request/core/dispatchRequest.js ***!
-  \*******************************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/luch-request/core/dispatchRequest.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10151,9 +10151,9 @@ exports.default = _default;
 
 /***/ }),
 /* 39 */
-/*!*************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/luch-request/adapters/index.js ***!
-  \*************************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/luch-request/adapters/index.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10232,9 +10232,9 @@ exports.default = _default;
 
 /***/ }),
 /* 40 */
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/luch-request/helpers/buildURL.js ***!
-  \***************************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/luch-request/helpers/buildURL.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10302,9 +10302,9 @@ function buildURL(url, params) {
 
 /***/ }),
 /* 41 */
-/*!****************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/luch-request/utils.js ***!
-  \****************************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/luch-request/utils.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10455,9 +10455,9 @@ function isUndefined(val) {
 
 /***/ }),
 /* 42 */
-/*!*****************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/luch-request/core/buildFullPath.js ***!
-  \*****************************************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/luch-request/core/buildFullPath.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10489,9 +10489,9 @@ function buildFullPath(baseURL, requestedURL) {
 
 /***/ }),
 /* 43 */
-/*!********************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/luch-request/helpers/isAbsoluteURL.js ***!
-  \********************************************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/luch-request/helpers/isAbsoluteURL.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10517,9 +10517,9 @@ function isAbsoluteURL(url) {
 
 /***/ }),
 /* 44 */
-/*!******************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/luch-request/helpers/combineURLs.js ***!
-  \******************************************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/luch-request/helpers/combineURLs.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10543,9 +10543,9 @@ function combineURLs(baseURL, relativeURL) {
 
 /***/ }),
 /* 45 */
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/luch-request/core/settle.js ***!
-  \**********************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/luch-request/core/settle.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10575,9 +10575,9 @@ function settle(resolve, reject, response) {
 
 /***/ }),
 /* 46 */
-/*!**********************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/luch-request/core/InterceptorManager.js ***!
-  \**********************************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/luch-request/core/InterceptorManager.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10639,9 +10639,9 @@ exports.default = _default;
 
 /***/ }),
 /* 47 */
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/luch-request/core/mergeConfig.js ***!
-  \***************************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/luch-request/core/mergeConfig.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10715,9 +10715,9 @@ exports.default = _default;
 
 /***/ }),
 /* 48 */
-/*!************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/luch-request/core/defaults.js ***!
-  \************************************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/luch-request/core/defaults.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10747,9 +10747,9 @@ exports.default = _default;
 
 /***/ }),
 /* 49 */
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/luch-request/utils/clone.js ***!
-  \**********************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/luch-request/utils/clone.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13071,9 +13071,9 @@ module.exports = Array.isArray || function (arr) {
 
 /***/ }),
 /* 54 */
-/*!********************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/util/route.js ***!
-  \********************************************************************************************/
+/*!***********************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/util/route.js ***!
+  \***********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13633,9 +13633,9 @@ module.exports = _asyncToGenerator, module.exports.__esModule = true, module.exp
 
 /***/ }),
 /* 58 */
-/*!********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/function/colorGradient.js ***!
-  \********************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/function/colorGradient.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13788,9 +13788,9 @@ exports.default = _default;
 
 /***/ }),
 /* 59 */
-/*!***********************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/function/test.js ***!
-  \***********************************************************************************************/
+/*!**************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/function/test.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14093,9 +14093,9 @@ exports.default = _default;
 
 /***/ }),
 /* 60 */
-/*!***************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/function/debounce.js ***!
-  \***************************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/function/debounce.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14140,9 +14140,9 @@ exports.default = _default;
 
 /***/ }),
 /* 61 */
-/*!***************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/function/throttle.js ***!
-  \***************************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/function/throttle.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14189,9 +14189,9 @@ exports.default = _default;
 
 /***/ }),
 /* 62 */
-/*!************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/function/index.js ***!
-  \************************************************************************************************/
+/*!***************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/function/index.js ***!
+  \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14990,9 +14990,9 @@ exports.default = _default;
 
 /***/ }),
 /* 63 */
-/*!************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/function/digit.js ***!
-  \************************************************************************************************/
+/*!***************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/function/digit.js ***!
+  \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15209,9 +15209,9 @@ module.exports = _toArray, module.exports.__esModule = true, module.exports["def
 
 /***/ }),
 /* 65 */
-/*!***********************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/config.js ***!
-  \***********************************************************************************************/
+/*!**************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/config.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15253,9 +15253,9 @@ exports.default = _default;
 
 /***/ }),
 /* 66 */
-/*!**********************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props.js ***!
-  \**********************************************************************************************/
+/*!*************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props.js ***!
+  \*************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15365,9 +15365,9 @@ exports.default = _default;
 
 /***/ }),
 /* 67 */
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/actionSheet.js ***!
-  \**********************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/actionSheet.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15409,9 +15409,9 @@ exports.default = _default;
 
 /***/ }),
 /* 68 */
-/*!****************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/album.js ***!
-  \****************************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/album.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15453,9 +15453,9 @@ exports.default = _default;
 
 /***/ }),
 /* 69 */
-/*!****************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/alert.js ***!
-  \****************************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/alert.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15492,9 +15492,9 @@ exports.default = _default;
 
 /***/ }),
 /* 70 */
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/avatar.js ***!
-  \*****************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/avatar.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15537,9 +15537,9 @@ exports.default = _default;
 
 /***/ }),
 /* 71 */
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/avatarGroup.js ***!
-  \**********************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/avatarGroup.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15579,9 +15579,9 @@ exports.default = _default;
 
 /***/ }),
 /* 72 */
-/*!******************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/backtop.js ***!
-  \******************************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/backtop.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15625,9 +15625,9 @@ exports.default = _default;
 
 /***/ }),
 /* 73 */
-/*!****************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/badge.js ***!
-  \****************************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/badge.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15671,9 +15671,9 @@ exports.default = _default;
 
 /***/ }),
 /* 74 */
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/button.js ***!
-  \*****************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/button.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15730,9 +15730,9 @@ exports.default = _default;
 
 /***/ }),
 /* 75 */
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/calendar.js ***!
-  \*******************************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/calendar.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15793,9 +15793,9 @@ exports.default = _default;
 
 /***/ }),
 /* 76 */
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/carKeyboard.js ***!
-  \**********************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/carKeyboard.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15825,9 +15825,9 @@ exports.default = _default;
 
 /***/ }),
 /* 77 */
-/*!***************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/cell.js ***!
-  \***************************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/cell.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15877,9 +15877,9 @@ exports.default = _default;
 
 /***/ }),
 /* 78 */
-/*!********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/cellGroup.js ***!
-  \********************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/cellGroup.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15911,9 +15911,9 @@ exports.default = _default;
 
 /***/ }),
 /* 79 */
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/checkbox.js ***!
-  \*******************************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/checkbox.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15955,9 +15955,9 @@ exports.default = _default;
 
 /***/ }),
 /* 80 */
-/*!************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/checkboxGroup.js ***!
-  \************************************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/checkboxGroup.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16003,9 +16003,9 @@ exports.default = _default;
 
 /***/ }),
 /* 81 */
-/*!*************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/circleProgress.js ***!
-  \*************************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/circleProgress.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16035,9 +16035,9 @@ exports.default = _default;
 
 /***/ }),
 /* 82 */
-/*!***************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/code.js ***!
-  \***************************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/code.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16072,9 +16072,9 @@ exports.default = _default;
 
 /***/ }),
 /* 83 */
-/*!********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/codeInput.js ***!
-  \********************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/codeInput.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16118,9 +16118,9 @@ exports.default = _default;
 
 /***/ }),
 /* 84 */
-/*!**************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/col.js ***!
-  \**************************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/col.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16154,9 +16154,9 @@ exports.default = _default;
 
 /***/ }),
 /* 85 */
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/collapse.js ***!
-  \*******************************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/collapse.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16188,9 +16188,9 @@ exports.default = _default;
 
 /***/ }),
 /* 86 */
-/*!***********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/collapseItem.js ***!
-  \***********************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/collapseItem.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16230,9 +16230,9 @@ exports.default = _default;
 
 /***/ }),
 /* 87 */
-/*!***********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/columnNotice.js ***!
-  \***********************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/columnNotice.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16271,9 +16271,9 @@ exports.default = _default;
 
 /***/ }),
 /* 88 */
-/*!********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/countDown.js ***!
-  \********************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/countDown.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16306,9 +16306,9 @@ exports.default = _default;
 
 /***/ }),
 /* 89 */
-/*!******************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/countTo.js ***!
-  \******************************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/countTo.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16348,9 +16348,9 @@ exports.default = _default;
 
 /***/ }),
 /* 90 */
-/*!*************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/datetimePicker.js ***!
-  \*************************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/datetimePicker.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16403,9 +16403,9 @@ exports.default = _default;
 
 /***/ }),
 /* 91 */
-/*!******************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/divider.js ***!
-  \******************************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/divider.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16442,9 +16442,9 @@ exports.default = _default;
 
 /***/ }),
 /* 92 */
-/*!****************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/empty.js ***!
-  \****************************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/empty.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16484,9 +16484,9 @@ exports.default = _default;
 
 /***/ }),
 /* 93 */
-/*!***************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/form.js ***!
-  \***************************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/form.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16529,9 +16529,9 @@ exports.default = _default;
 
 /***/ }),
 /* 94 */
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/formItem.js ***!
-  \*******************************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/formItem.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16569,9 +16569,9 @@ exports.default = _default;
 
 /***/ }),
 /* 95 */
-/*!**************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/gap.js ***!
-  \**************************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/gap.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16605,9 +16605,9 @@ exports.default = _default;
 
 /***/ }),
 /* 96 */
-/*!***************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/grid.js ***!
-  \***************************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/grid.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16639,9 +16639,9 @@ exports.default = _default;
 
 /***/ }),
 /* 97 */
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/gridItem.js ***!
-  \*******************************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/gridItem.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16672,9 +16672,9 @@ exports.default = _default;
 
 /***/ }),
 /* 98 */
-/*!***************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/icon.js ***!
-  \***************************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/icon.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16724,9 +16724,9 @@ exports.default = _default;
 
 /***/ }),
 /* 99 */
-/*!****************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/image.js ***!
-  \****************************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/image.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16771,9 +16771,9 @@ exports.default = _default;
 
 /***/ }),
 /* 100 */
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/indexAnchor.js ***!
-  \**********************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/indexAnchor.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16807,9 +16807,9 @@ exports.default = _default;
 
 /***/ }),
 /* 101 */
-/*!********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/indexList.js ***!
-  \********************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/indexList.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16845,9 +16845,9 @@ exports.default = _default;
 
 /***/ }),
 /* 102 */
-/*!****************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/input.js ***!
-  \****************************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/input.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16910,9 +16910,9 @@ exports.default = _default;
 
 /***/ }),
 /* 103 */
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/keyboard.js ***!
-  \*******************************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/keyboard.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16957,9 +16957,9 @@ exports.default = _default;
 
 /***/ }),
 /* 104 */
-/*!***************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/line.js ***!
-  \***************************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/line.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16994,9 +16994,9 @@ exports.default = _default;
 
 /***/ }),
 /* 105 */
-/*!***********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/lineProgress.js ***!
-  \***********************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/lineProgress.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17030,9 +17030,9 @@ exports.default = _default;
 
 /***/ }),
 /* 106 */
-/*!***************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/link.js ***!
-  \***************************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/link.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17072,9 +17072,9 @@ exports.default = _default;
 
 /***/ }),
 /* 107 */
-/*!***************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/list.js ***!
-  \***************************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/list.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17117,9 +17117,9 @@ exports.default = _default;
 
 /***/ }),
 /* 108 */
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/listItem.js ***!
-  \*******************************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/listItem.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17149,9 +17149,9 @@ exports.default = _default;
 
 /***/ }),
 /* 109 */
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/loadingIcon.js ***!
-  \**********************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/loadingIcon.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17195,9 +17195,9 @@ exports.default = _default;
 
 /***/ }),
 /* 110 */
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/loadingPage.js ***!
-  \**********************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/loadingPage.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17235,9 +17235,9 @@ exports.default = _default;
 
 /***/ }),
 /* 111 */
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/loadmore.js ***!
-  \*******************************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/loadmore.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17284,9 +17284,9 @@ exports.default = _default;
 
 /***/ }),
 /* 112 */
-/*!****************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/modal.js ***!
-  \****************************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/modal.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17331,9 +17331,9 @@ exports.default = _default;
 
 /***/ }),
 /* 113 */
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/navbar.js ***!
-  \*****************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/navbar.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17380,9 +17380,9 @@ exports.default = _default;
 
 /***/ }),
 /* 114 */
-/*!**********************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/color.js ***!
-  \**********************************************************************************************/
+/*!*************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/color.js ***!
+  \*************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17413,9 +17413,9 @@ exports.default = _default;
 
 /***/ }),
 /* 115 */
-/*!********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/noNetwork.js ***!
-  \********************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/noNetwork.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17447,9 +17447,9 @@ exports.default = _default;
 
 /***/ }),
 /* 116 */
-/*!********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/noticeBar.js ***!
-  \********************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/noticeBar.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17493,9 +17493,9 @@ exports.default = _default;
 
 /***/ }),
 /* 117 */
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/notify.js ***!
-  \*****************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/notify.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17532,9 +17532,9 @@ exports.default = _default;
 
 /***/ }),
 /* 118 */
-/*!********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/numberBox.js ***!
-  \********************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/numberBox.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17584,9 +17584,9 @@ exports.default = _default;
 
 /***/ }),
 /* 119 */
-/*!*************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/numberKeyboard.js ***!
-  \*************************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/numberKeyboard.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17618,9 +17618,9 @@ exports.default = _default;
 
 /***/ }),
 /* 120 */
-/*!******************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/overlay.js ***!
-  \******************************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/overlay.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17653,9 +17653,9 @@ exports.default = _default;
 
 /***/ }),
 /* 121 */
-/*!****************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/parse.js ***!
-  \****************************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/parse.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17692,9 +17692,9 @@ exports.default = _default;
 
 /***/ }),
 /* 122 */
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/picker.js ***!
-  \*****************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/picker.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17742,9 +17742,9 @@ exports.default = _default;
 
 /***/ }),
 /* 123 */
-/*!****************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/popup.js ***!
-  \****************************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/popup.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17788,9 +17788,9 @@ exports.default = _default;
 
 /***/ }),
 /* 124 */
-/*!****************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/radio.js ***!
-  \****************************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/radio.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17832,9 +17832,9 @@ exports.default = _default;
 
 /***/ }),
 /* 125 */
-/*!*********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/radioGroup.js ***!
-  \*********************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/radioGroup.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17879,9 +17879,9 @@ exports.default = _default;
 
 /***/ }),
 /* 126 */
-/*!***************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/rate.js ***!
-  \***************************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/rate.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17922,9 +17922,9 @@ exports.default = _default;
 
 /***/ }),
 /* 127 */
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/readMore.js ***!
-  \*******************************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/readMore.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17961,9 +17961,9 @@ exports.default = _default;
 
 /***/ }),
 /* 128 */
-/*!**************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/row.js ***!
-  \**************************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/row.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17995,9 +17995,9 @@ exports.default = _default;
 
 /***/ }),
 /* 129 */
-/*!********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/rowNotice.js ***!
-  \********************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/rowNotice.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18033,9 +18033,9 @@ exports.default = _default;
 
 /***/ }),
 /* 130 */
-/*!*********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/scrollList.js ***!
-  \*********************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/scrollList.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18070,9 +18070,9 @@ exports.default = _default;
 
 /***/ }),
 /* 131 */
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/search.js ***!
-  \*****************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/search.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18128,9 +18128,9 @@ exports.default = _default;
 
 /***/ }),
 /* 132 */
-/*!******************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/section.js ***!
-  \******************************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/section.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18169,9 +18169,9 @@ exports.default = _default;
 
 /***/ }),
 /* 133 */
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/skeleton.js ***!
-  \*******************************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/skeleton.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18211,9 +18211,9 @@ exports.default = _default;
 
 /***/ }),
 /* 134 */
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/slider.js ***!
-  \*****************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/slider.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18253,9 +18253,9 @@ exports.default = _default;
 
 /***/ }),
 /* 135 */
-/*!********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/statusBar.js ***!
-  \********************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/statusBar.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18285,9 +18285,9 @@ exports.default = _default;
 
 /***/ }),
 /* 136 */
-/*!****************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/steps.js ***!
-  \****************************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/steps.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18323,9 +18323,9 @@ exports.default = _default;
 
 /***/ }),
 /* 137 */
-/*!********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/stepsItem.js ***!
-  \********************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/stepsItem.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18358,9 +18358,9 @@ exports.default = _default;
 
 /***/ }),
 /* 138 */
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/sticky.js ***!
-  \*****************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/sticky.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18395,9 +18395,9 @@ exports.default = _default;
 
 /***/ }),
 /* 139 */
-/*!*********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/subsection.js ***!
-  \*********************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/subsection.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18435,9 +18435,9 @@ exports.default = _default;
 
 /***/ }),
 /* 140 */
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/swipeAction.js ***!
-  \**********************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/swipeAction.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18467,9 +18467,9 @@ exports.default = _default;
 
 /***/ }),
 /* 141 */
-/*!**************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/swipeActionItem.js ***!
-  \**************************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/swipeActionItem.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18505,9 +18505,9 @@ exports.default = _default;
 
 /***/ }),
 /* 142 */
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/swiper.js ***!
-  \*****************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/swiper.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18562,9 +18562,9 @@ exports.default = _default;
 
 /***/ }),
 /* 143 */
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/swipterIndicator.js ***!
-  \***************************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/swipterIndicator.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18598,9 +18598,9 @@ exports.default = _default;
 
 /***/ }),
 /* 144 */
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/switch.js ***!
-  \*****************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/switch.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18639,9 +18639,9 @@ exports.default = _default;
 
 /***/ }),
 /* 145 */
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/tabbar.js ***!
-  \*****************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/tabbar.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18678,9 +18678,9 @@ exports.default = _default;
 
 /***/ }),
 /* 146 */
-/*!*********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/tabbarItem.js ***!
-  \*********************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/tabbarItem.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18715,9 +18715,9 @@ exports.default = _default;
 
 /***/ }),
 /* 147 */
-/*!***************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/tabs.js ***!
-  \***************************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/tabs.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18772,9 +18772,9 @@ exports.default = _default;
 
 /***/ }),
 /* 148 */
-/*!**************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/tag.js ***!
-  \**************************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/tag.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18818,9 +18818,9 @@ exports.default = _default;
 
 /***/ }),
 /* 149 */
-/*!***************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/text.js ***!
-  \***************************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/text.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18874,9 +18874,9 @@ exports.default = _default;
 
 /***/ }),
 /* 150 */
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/textarea.js ***!
-  \*******************************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/textarea.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18927,9 +18927,9 @@ exports.default = _default;
 
 /***/ }),
 /* 151 */
-/*!****************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/toast.js ***!
-  \****************************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/toast.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18973,9 +18973,9 @@ exports.default = _default;
 
 /***/ }),
 /* 152 */
-/*!******************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/toolbar.js ***!
-  \******************************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/toolbar.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19010,9 +19010,9 @@ exports.default = _default;
 
 /***/ }),
 /* 153 */
-/*!******************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/tooltip.js ***!
-  \******************************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/tooltip.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19054,9 +19054,9 @@ exports.default = _default;
 
 /***/ }),
 /* 154 */
-/*!*********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/transition.js ***!
-  \*********************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/transition.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19089,9 +19089,9 @@ exports.default = _default;
 
 /***/ }),
 /* 155 */
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/props/upload.js ***!
-  \*****************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/props/upload.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19148,9 +19148,9 @@ exports.default = _default;
 
 /***/ }),
 /* 156 */
-/*!***********************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/config/zIndex.js ***!
-  \***********************************************************************************************/
+/*!**************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/config/zIndex.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19184,9 +19184,9 @@ exports.default = _default;
 
 /***/ }),
 /* 157 */
-/*!***************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/libs/function/platform.js ***!
-  \***************************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/libs/function/platform.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19214,9 +19214,9 @@ exports.default = _default;
 
 /***/ }),
 /* 158 */
-/*!*****************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni.promisify.adaptor.js ***!
-  \*****************************************************************************/
+/*!********************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni.promisify.adaptor.js ***!
+  \********************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19243,9 +19243,9 @@ uni.addInterceptor({
 /* 163 */,
 /* 164 */,
 /* 165 */
-/*!****************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/api/home.js ***!
-  \****************************************************************/
+/*!*******************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/api/home.js ***!
+  \*******************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19260,6 +19260,8 @@ exports.getEankingEasy = getEankingEasy;
 exports.getHomeBanner = getHomeBanner;
 exports.getRecommendationsCard = getRecommendationsCard;
 exports.getRecommendationsScroll = getRecommendationsScroll;
+exports.getRoomExplore = getRoomExplore;
+exports.getdiscoveringInspiration = getdiscoveringInspiration;
 var _request = _interopRequireDefault(__webpack_require__(/*! @/utils/request */ 166));
 // 引用网络请求中间件
 
@@ -19289,7 +19291,7 @@ function getRecommendationsCard(data) {
     data: data
   });
 }
-// 
+//
 // 简易版热销排行数据
 function getEankingEasy(data) {
   return (0, _request.default)({
@@ -19299,11 +19301,29 @@ function getEankingEasy(data) {
   });
 }
 
+// 简易版热销排行数据
+function getRoomExplore(data) {
+  return (0, _request.default)({
+    url: '/roomExplore',
+    method: 'GET',
+    data: data
+  });
+}
+
+// 发现更多灵感  参数：type：分类，pageNum：页数
+function getdiscoveringInspiration(data) {
+  return (0, _request.default)({
+    url: '/discoveringInspiration',
+    method: 'GET',
+    data: data
+  });
+}
+
 /***/ }),
 /* 166 */
-/*!*********************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/utils/request.js ***!
-  \*********************************************************************/
+/*!************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/utils/request.js ***!
+  \************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19319,13 +19339,25 @@ var _env = _interopRequireDefault(__webpack_require__(/*! @/utils/env */ 167));
 function service() {
   var options = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : {};
   options.url = "".concat(_env.default.baseUrl).concat(options.url);
+  if (options.data && Object.keys(options.data).length > 0) {
+    var num = 0;
+    for (var item in options.data) {
+      if (num == 0) {
+        options.url = "".concat(options.url, '?', "".concat(item, "=").concat(options.data[item]));
+      } else {
+        options.url = "".concat(options.url, '&', "".concat(item, "=").concat(options.data[item]));
+      }
+      num++;
+    }
+  }
+
   // 判断本地是否存在token，如果存在则带上请求头
   var token = uni.getStorageSync('token');
   options.header = {
     'content-type': 'application/json',
-    'Authorization': "Bearer ".concat(token || false) // 这里是token(可自行修改)
+    'Authorization': "Bearer ".concat(token || false)
+    // 这里是token(可自行修改)
   };
-
   // resolved是返回成功数据，rejected返回错误数据
   return new Promise(function (resolved, rejected) {
     options.success = function (res) {
@@ -19337,12 +19369,11 @@ function service() {
           duration: 3000,
           title: "".concat(res.data.msg)
         });
-        // 这里可以做一些状态码判断以及操作
         // 返回错误信息
         rejected(res);
       } else {
         // 请求回来的状态码为200则返回内容
-        resolved(res.data.data);
+        resolved(res.data);
       }
     };
     options.fail = function (err) {
@@ -19363,9 +19394,9 @@ exports.default = _default;
 
 /***/ }),
 /* 167 */
-/*!*****************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/utils/env.js ***!
-  \*****************************************************************/
+/*!********************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/utils/env.js ***!
+  \********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19410,10 +19441,62 @@ exports.default = _default;
 /* 188 */,
 /* 189 */,
 /* 190 */,
-/* 191 */
-/*!******************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/components/u-swiper/props.js ***!
-  \******************************************************************************************************/
+/* 191 */,
+/* 192 */,
+/* 193 */,
+/* 194 */,
+/* 195 */,
+/* 196 */,
+/* 197 */,
+/* 198 */,
+/* 199 */,
+/* 200 */
+/*!**************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/api/rankingList.js ***!
+  \**************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var _interopRequireDefault = __webpack_require__(/*! @babel/runtime/helpers/interopRequireDefault */ 4);
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.getListDetailst = getListDetailst;
+var _request = _interopRequireDefault(__webpack_require__(/*! @/utils/request */ 166));
+// 引用网络请求中间件
+
+// 排行榜分类标题列表奥
+function getListDetailst(data) {
+  return (0, _request.default)({
+    url: '/listDetails/titleList',
+    method: 'GET',
+    data: data
+  });
+}
+
+/***/ }),
+/* 201 */,
+/* 202 */,
+/* 203 */,
+/* 204 */,
+/* 205 */,
+/* 206 */,
+/* 207 */,
+/* 208 */,
+/* 209 */,
+/* 210 */,
+/* 211 */,
+/* 212 */,
+/* 213 */,
+/* 214 */,
+/* 215 */,
+/* 216 */
+/*!*********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/components/u-swiper/props.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19553,17 +19636,17 @@ exports.default = _default;
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 2)["default"]))
 
 /***/ }),
-/* 192 */,
-/* 193 */,
-/* 194 */,
-/* 195 */,
-/* 196 */,
-/* 197 */,
-/* 198 */,
-/* 199 */
-/*!***********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/components/u-scroll-list/props.js ***!
-  \***********************************************************************************************************/
+/* 217 */,
+/* 218 */,
+/* 219 */,
+/* 220 */,
+/* 221 */,
+/* 222 */,
+/* 223 */,
+/* 224 */
+/*!**************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/components/u-scroll-list/props.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19612,26 +19695,194 @@ exports.default = _default;
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 2)["default"]))
 
 /***/ }),
-/* 200 */,
-/* 201 */,
-/* 202 */,
-/* 203 */,
-/* 204 */,
-/* 205 */,
-/* 206 */,
-/* 207 */,
-/* 208 */,
-/* 209 */,
-/* 210 */,
-/* 211 */,
-/* 212 */,
-/* 213 */,
-/* 214 */,
-/* 215 */,
-/* 216 */
-/*!************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/components/u-loading-icon/props.js ***!
-  \************************************************************************************************************/
+/* 225 */,
+/* 226 */,
+/* 227 */,
+/* 228 */,
+/* 229 */,
+/* 230 */,
+/* 231 */,
+/* 232 */,
+/* 233 */,
+/* 234 */
+/*!*******************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/components/u-tabs/props.js ***!
+  \*******************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+/* WEBPACK VAR INJECTION */(function(uni) {
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+var _default = {
+  props: {
+    // 滑块的移动过渡时间，单位ms
+    duration: {
+      type: Number,
+      default: uni.$u.props.tabs.duration
+    },
+    // tabs标签数组
+    list: {
+      type: Array,
+      default: uni.$u.props.tabs.list
+    },
+    // 滑块颜色
+    lineColor: {
+      type: String,
+      default: uni.$u.props.tabs.lineColor
+    },
+    // 菜单选择中时的样式
+    activeStyle: {
+      type: [String, Object],
+      default: uni.$u.props.tabs.activeStyle
+    },
+    // 菜单非选中时的样式
+    inactiveStyle: {
+      type: [String, Object],
+      default: uni.$u.props.tabs.inactiveStyle
+    },
+    // 滑块长度
+    lineWidth: {
+      type: [String, Number],
+      default: uni.$u.props.tabs.lineWidth
+    },
+    // 滑块高度
+    lineHeight: {
+      type: [String, Number],
+      default: uni.$u.props.tabs.lineHeight
+    },
+    // 滑块背景显示大小，当滑块背景设置为图片时使用
+    lineBgSize: {
+      type: String,
+      default: uni.$u.props.tabs.lineBgSize
+    },
+    // 菜单item的样式
+    itemStyle: {
+      type: [String, Object],
+      default: uni.$u.props.tabs.itemStyle
+    },
+    // 菜单是否可滚动
+    scrollable: {
+      type: Boolean,
+      default: uni.$u.props.tabs.scrollable
+    },
+    // 当前选中标签的索引
+    current: {
+      type: [Number, String],
+      default: uni.$u.props.tabs.current
+    },
+    // 默认读取的键名
+    keyName: {
+      type: String,
+      default: uni.$u.props.tabs.keyName
+    }
+  }
+};
+exports.default = _default;
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 2)["default"]))
+
+/***/ }),
+/* 235 */,
+/* 236 */,
+/* 237 */,
+/* 238 */,
+/* 239 */,
+/* 240 */,
+/* 241 */,
+/* 242 */
+/*!***********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/components/u-back-top/props.js ***!
+  \***********************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+/* WEBPACK VAR INJECTION */(function(uni) {
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+var _default = {
+  props: {
+    // 返回顶部的形状，circle-圆形，square-方形
+    mode: {
+      type: String,
+      default: uni.$u.props.backtop.mode
+    },
+    // 自定义图标
+    icon: {
+      type: String,
+      default: uni.$u.props.backtop.icon
+    },
+    // 提示文字
+    text: {
+      type: String,
+      default: uni.$u.props.backtop.text
+    },
+    // 返回顶部滚动时间
+    duration: {
+      type: [String, Number],
+      default: uni.$u.props.backtop.duration
+    },
+    // 滚动距离
+    scrollTop: {
+      type: [String, Number],
+      default: uni.$u.props.backtop.scrollTop
+    },
+    // 距离顶部多少距离显示，单位px
+    top: {
+      type: [String, Number],
+      default: uni.$u.props.backtop.top
+    },
+    // 返回顶部按钮到底部的距离，单位px
+    bottom: {
+      type: [String, Number],
+      default: uni.$u.props.backtop.bottom
+    },
+    // 返回顶部按钮到右边的距离，单位px
+    right: {
+      type: [String, Number],
+      default: uni.$u.props.backtop.right
+    },
+    // 层级
+    zIndex: {
+      type: [String, Number],
+      default: uni.$u.props.backtop.zIndex
+    },
+    // 图标的样式，对象形式
+    iconStyle: {
+      type: Object,
+      default: uni.$u.props.backtop.iconStyle
+    }
+  }
+};
+exports.default = _default;
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 2)["default"]))
+
+/***/ }),
+/* 243 */,
+/* 244 */,
+/* 245 */,
+/* 246 */,
+/* 247 */,
+/* 248 */,
+/* 249 */,
+/* 250 */,
+/* 251 */,
+/* 252 */,
+/* 253 */,
+/* 254 */,
+/* 255 */,
+/* 256 */,
+/* 257 */
+/*!***************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/components/u-loading-icon/props.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19705,17 +19956,17 @@ exports.default = _default;
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 2)["default"]))
 
 /***/ }),
-/* 217 */,
-/* 218 */,
-/* 219 */,
-/* 220 */,
-/* 221 */,
-/* 222 */,
-/* 223 */,
-/* 224 */
-/*!****************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/packject/ikea/uni_modules/uview-ui/components/u-swiper-indicator/props.js ***!
-  \****************************************************************************************************************/
+/* 258 */,
+/* 259 */,
+/* 260 */,
+/* 261 */,
+/* 262 */,
+/* 263 */,
+/* 264 */,
+/* 265 */
+/*!*******************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/components/u-swiper-indicator/props.js ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19752,6 +20003,799 @@ var _default = {
     indicatorMode: {
       type: String,
       default: uni.$u.props.swiperIndicator.indicatorMode
+    }
+  }
+};
+exports.default = _default;
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 2)["default"]))
+
+/***/ }),
+/* 266 */,
+/* 267 */,
+/* 268 */,
+/* 269 */,
+/* 270 */,
+/* 271 */,
+/* 272 */,
+/* 273 */
+/*!********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/components/u-badge/props.js ***!
+  \********************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+/* WEBPACK VAR INJECTION */(function(uni) {
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+var _default = {
+  props: {
+    // 是否显示圆点
+    isDot: {
+      type: Boolean,
+      default: uni.$u.props.badge.isDot
+    },
+    // 显示的内容
+    value: {
+      type: [Number, String],
+      default: uni.$u.props.badge.value
+    },
+    // 是否显示
+    show: {
+      type: Boolean,
+      default: uni.$u.props.badge.show
+    },
+    // 最大值，超过最大值会显示 '{max}+'
+    max: {
+      type: [Number, String],
+      default: uni.$u.props.badge.max
+    },
+    // 主题类型，error|warning|success|primary
+    type: {
+      type: String,
+      default: uni.$u.props.badge.type
+    },
+    // 当数值为 0 时，是否展示 Badge
+    showZero: {
+      type: Boolean,
+      default: uni.$u.props.badge.showZero
+    },
+    // 背景颜色，优先级比type高，如设置，type参数会失效
+    bgColor: {
+      type: [String, null],
+      default: uni.$u.props.badge.bgColor
+    },
+    // 字体颜色
+    color: {
+      type: [String, null],
+      default: uni.$u.props.badge.color
+    },
+    // 徽标形状，circle-四角均为圆角，horn-左下角为直角
+    shape: {
+      type: String,
+      default: uni.$u.props.badge.shape
+    },
+    // 设置数字的显示方式，overflow|ellipsis|limit
+    // overflow会根据max字段判断，超出显示`${max}+`
+    // ellipsis会根据max判断，超出显示`${max}...`
+    // limit会依据1000作为判断条件，超出1000，显示`${value/1000}K`，比如2.2k、3.34w，最多保留2位小数
+    numberType: {
+      type: String,
+      default: uni.$u.props.badge.numberType
+    },
+    // 设置badge的位置偏移，格式为 [x, y]，也即设置的为top和right的值，absolute为true时有效
+    offset: {
+      type: Array,
+      default: uni.$u.props.badge.offset
+    },
+    // 是否反转背景和字体颜色
+    inverted: {
+      type: Boolean,
+      default: uni.$u.props.badge.inverted
+    },
+    // 是否绝对定位
+    absolute: {
+      type: Boolean,
+      default: uni.$u.props.badge.absolute
+    }
+  }
+};
+exports.default = _default;
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 2)["default"]))
+
+/***/ }),
+/* 274 */,
+/* 275 */,
+/* 276 */,
+/* 277 */,
+/* 278 */,
+/* 279 */,
+/* 280 */,
+/* 281 */
+/*!*************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/components/u-transition/props.js ***!
+  \*************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+/* WEBPACK VAR INJECTION */(function(uni) {
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+var _default = {
+  props: {
+    // 是否展示组件
+    show: {
+      type: Boolean,
+      default: uni.$u.props.transition.show
+    },
+    // 使用的动画模式
+    mode: {
+      type: String,
+      default: uni.$u.props.transition.mode
+    },
+    // 动画的执行时间，单位ms
+    duration: {
+      type: [String, Number],
+      default: uni.$u.props.transition.duration
+    },
+    // 使用的动画过渡函数
+    timingFunction: {
+      type: String,
+      default: uni.$u.props.transition.timingFunction
+    }
+  }
+};
+exports.default = _default;
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 2)["default"]))
+
+/***/ }),
+/* 282 */
+/*!******************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/components/u-transition/transition.js ***!
+  \******************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var _interopRequireDefault = __webpack_require__(/*! @babel/runtime/helpers/interopRequireDefault */ 4);
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+var _regenerator = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/regenerator */ 55));
+var _asyncToGenerator2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/asyncToGenerator */ 57));
+var _nvueAniMap = _interopRequireDefault(__webpack_require__(/*! ./nvue.ani-map.js */ 283));
+// 定义一个一定时间后自动成功的promise，让调用nextTick方法处，进入下一个then方法
+var nextTick = function nextTick() {
+  return new Promise(function (resolve) {
+    return setTimeout(resolve, 1000 / 50);
+  });
+};
+// nvue动画模块实现细节抽离在外部文件
+
+// 定义类名，通过给元素动态切换类名，赋予元素一定的css动画样式
+var getClassNames = function getClassNames(name) {
+  return {
+    enter: "u-".concat(name, "-enter u-").concat(name, "-enter-active"),
+    'enter-to': "u-".concat(name, "-enter-to u-").concat(name, "-enter-active"),
+    leave: "u-".concat(name, "-leave u-").concat(name, "-leave-active"),
+    'leave-to': "u-".concat(name, "-leave-to u-").concat(name, "-leave-active")
+  };
+};
+var _default = {
+  methods: {
+    // 组件被点击发出事件
+    clickHandler: function clickHandler() {
+      this.$emit('click');
+    },
+    // vue版本的组件进场处理
+    vueEnter: function vueEnter() {
+      var _this = this;
+      // 动画进入时的类名
+      var classNames = getClassNames(this.mode);
+      // 定义状态和发出动画进入前事件
+      this.status = 'enter';
+      this.$emit('beforeEnter');
+      this.inited = true;
+      this.display = true;
+      this.classes = classNames.enter;
+      this.$nextTick( /*#__PURE__*/(0, _asyncToGenerator2.default)( /*#__PURE__*/_regenerator.default.mark(function _callee() {
+        return _regenerator.default.wrap(function _callee$(_context) {
+          while (1) {
+            switch (_context.prev = _context.next) {
+              case 0:
+                // 标识动画尚未结束
+                _this.$emit('enter');
+                _this.transitionEnded = false;
+                // 组件动画进入后触发的事件
+                _this.$emit('afterEnter');
+                // 赋予组件enter-to类名
+                _this.classes = classNames['enter-to'];
+              case 4:
+              case "end":
+                return _context.stop();
+            }
+          }
+        }, _callee);
+      })));
+    },
+    // 动画离场处理
+    vueLeave: function vueLeave() {
+      var _this2 = this;
+      // 如果不是展示状态，无需执行逻辑
+      if (!this.display) return;
+      var classNames = getClassNames(this.mode);
+      // 标记离开状态和发出事件
+      this.status = 'leave';
+      this.$emit('beforeLeave');
+      // 获得类名
+      this.classes = classNames.leave;
+      this.$nextTick(function () {
+        // 动画正在离场的状态
+        _this2.transitionEnded = false;
+        _this2.$emit('leave');
+        // 组件执行动画，到了执行的执行时间后，执行一些额外处理
+        setTimeout(_this2.onTransitionEnd, _this2.duration);
+        _this2.classes = classNames['leave-to'];
+      });
+    },
+    // 完成过渡后触发
+    onTransitionEnd: function onTransitionEnd() {
+      // 如果已经是结束的状态，无需再处理
+      if (this.transitionEnded) return;
+      this.transitionEnded = true;
+      // 发出组件动画执行后的事件
+      this.$emit(this.status === 'leave' ? 'afterLeave' : 'afterEnter');
+      if (!this.show && this.display) {
+        this.display = false;
+        this.inited = false;
+      }
+    }
+  }
+};
+exports.default = _default;
+
+/***/ }),
+/* 283 */
+/*!********************************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/components/u-transition/nvue.ani-map.js ***!
+  \********************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+var _default = {
+  fade: {
+    enter: {
+      opacity: 0
+    },
+    'enter-to': {
+      opacity: 1
+    },
+    leave: {
+      opacity: 1
+    },
+    'leave-to': {
+      opacity: 0
+    }
+  },
+  'fade-up': {
+    enter: {
+      opacity: 0,
+      transform: 'translateY(100%)'
+    },
+    'enter-to': {
+      opacity: 1,
+      transform: 'translateY(0)'
+    },
+    leave: {
+      opacity: 1,
+      transform: 'translateY(0)'
+    },
+    'leave-to': {
+      opacity: 0,
+      transform: 'translateY(100%)'
+    }
+  },
+  'fade-down': {
+    enter: {
+      opacity: 0,
+      transform: 'translateY(-100%)'
+    },
+    'enter-to': {
+      opacity: 1,
+      transform: 'translateY(0)'
+    },
+    leave: {
+      opacity: 1,
+      transform: 'translateY(0)'
+    },
+    'leave-to': {
+      opacity: 0,
+      transform: 'translateY(-100%)'
+    }
+  },
+  'fade-left': {
+    enter: {
+      opacity: 0,
+      transform: 'translateX(-100%)'
+    },
+    'enter-to': {
+      opacity: 1,
+      transform: 'translateY(0)'
+    },
+    leave: {
+      opacity: 1,
+      transform: 'translateY(0)'
+    },
+    'leave-to': {
+      opacity: 0,
+      transform: 'translateX(-100%)'
+    }
+  },
+  'fade-right': {
+    enter: {
+      opacity: 0,
+      transform: 'translateX(100%)'
+    },
+    'enter-to': {
+      opacity: 1,
+      transform: 'translateY(0)'
+    },
+    leave: {
+      opacity: 1,
+      transform: 'translateY(0)'
+    },
+    'leave-to': {
+      opacity: 0,
+      transform: 'translateX(100%)'
+    }
+  },
+  'slide-up': {
+    enter: {
+      transform: 'translateY(100%)'
+    },
+    'enter-to': {
+      transform: 'translateY(0)'
+    },
+    leave: {
+      transform: 'translateY(0)'
+    },
+    'leave-to': {
+      transform: 'translateY(100%)'
+    }
+  },
+  'slide-down': {
+    enter: {
+      transform: 'translateY(-100%)'
+    },
+    'enter-to': {
+      transform: 'translateY(0)'
+    },
+    leave: {
+      transform: 'translateY(0)'
+    },
+    'leave-to': {
+      transform: 'translateY(-100%)'
+    }
+  },
+  'slide-left': {
+    enter: {
+      transform: 'translateX(-100%)'
+    },
+    'enter-to': {
+      transform: 'translateY(0)'
+    },
+    leave: {
+      transform: 'translateY(0)'
+    },
+    'leave-to': {
+      transform: 'translateX(-100%)'
+    }
+  },
+  'slide-right': {
+    enter: {
+      transform: 'translateX(100%)'
+    },
+    'enter-to': {
+      transform: 'translateY(0)'
+    },
+    leave: {
+      transform: 'translateY(0)'
+    },
+    'leave-to': {
+      transform: 'translateX(100%)'
+    }
+  },
+  zoom: {
+    enter: {
+      transform: 'scale(0.95)'
+    },
+    'enter-to': {
+      transform: 'scale(1)'
+    },
+    leave: {
+      transform: 'scale(1)'
+    },
+    'leave-to': {
+      transform: 'scale(0.95)'
+    }
+  },
+  'fade-zoom': {
+    enter: {
+      opacity: 0,
+      transform: 'scale(0.95)'
+    },
+    'enter-to': {
+      opacity: 1,
+      transform: 'scale(1)'
+    },
+    leave: {
+      opacity: 1,
+      transform: 'scale(1)'
+    },
+    'leave-to': {
+      opacity: 0,
+      transform: 'scale(0.95)'
+    }
+  }
+};
+exports.default = _default;
+
+/***/ }),
+/* 284 */,
+/* 285 */,
+/* 286 */,
+/* 287 */,
+/* 288 */,
+/* 289 */,
+/* 290 */,
+/* 291 */
+/*!*******************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/components/u-icon/icons.js ***!
+  \*******************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+var _default = {
+  'uicon-level': "\uE693",
+  'uicon-column-line': "\uE68E",
+  'uicon-checkbox-mark': "\uE807",
+  'uicon-folder': "\uE7F5",
+  'uicon-movie': "\uE7F6",
+  'uicon-star-fill': "\uE669",
+  'uicon-star': "\uE65F",
+  'uicon-phone-fill': "\uE64F",
+  'uicon-phone': "\uE622",
+  'uicon-apple-fill': "\uE881",
+  'uicon-chrome-circle-fill': "\uE885",
+  'uicon-backspace': "\uE67B",
+  'uicon-attach': "\uE632",
+  'uicon-cut': "\uE948",
+  'uicon-empty-car': "\uE602",
+  'uicon-empty-coupon': "\uE682",
+  'uicon-empty-address': "\uE646",
+  'uicon-empty-favor': "\uE67C",
+  'uicon-empty-permission': "\uE686",
+  'uicon-empty-news': "\uE687",
+  'uicon-empty-search': "\uE664",
+  'uicon-github-circle-fill': "\uE887",
+  'uicon-rmb': "\uE608",
+  'uicon-person-delete-fill': "\uE66A",
+  'uicon-reload': "\uE788",
+  'uicon-order': "\uE68F",
+  'uicon-server-man': "\uE6BC",
+  'uicon-search': "\uE62A",
+  'uicon-fingerprint': "\uE955",
+  'uicon-more-dot-fill': "\uE630",
+  'uicon-scan': "\uE662",
+  'uicon-share-square': "\uE60B",
+  'uicon-map': "\uE61D",
+  'uicon-map-fill': "\uE64E",
+  'uicon-tags': "\uE629",
+  'uicon-tags-fill': "\uE651",
+  'uicon-bookmark-fill': "\uE63B",
+  'uicon-bookmark': "\uE60A",
+  'uicon-eye': "\uE613",
+  'uicon-eye-fill': "\uE641",
+  'uicon-mic': "\uE64A",
+  'uicon-mic-off': "\uE649",
+  'uicon-calendar': "\uE66E",
+  'uicon-calendar-fill': "\uE634",
+  'uicon-trash': "\uE623",
+  'uicon-trash-fill': "\uE658",
+  'uicon-play-left': "\uE66D",
+  'uicon-play-right': "\uE610",
+  'uicon-minus': "\uE618",
+  'uicon-plus': "\uE62D",
+  'uicon-info': "\uE653",
+  'uicon-info-circle': "\uE7D2",
+  'uicon-info-circle-fill': "\uE64B",
+  'uicon-question': "\uE715",
+  'uicon-error': "\uE6D3",
+  'uicon-close': "\uE685",
+  'uicon-checkmark': "\uE6A8",
+  'uicon-android-circle-fill': "\uE67E",
+  'uicon-android-fill': "\uE67D",
+  'uicon-ie': "\uE87B",
+  'uicon-IE-circle-fill': "\uE889",
+  'uicon-google': "\uE87A",
+  'uicon-google-circle-fill': "\uE88A",
+  'uicon-setting-fill': "\uE872",
+  'uicon-setting': "\uE61F",
+  'uicon-minus-square-fill': "\uE855",
+  'uicon-plus-square-fill': "\uE856",
+  'uicon-heart': "\uE7DF",
+  'uicon-heart-fill': "\uE851",
+  'uicon-camera': "\uE7D7",
+  'uicon-camera-fill': "\uE870",
+  'uicon-more-circle': "\uE63E",
+  'uicon-more-circle-fill': "\uE645",
+  'uicon-chat': "\uE620",
+  'uicon-chat-fill': "\uE61E",
+  'uicon-bag-fill': "\uE617",
+  'uicon-bag': "\uE619",
+  'uicon-error-circle-fill': "\uE62C",
+  'uicon-error-circle': "\uE624",
+  'uicon-close-circle': "\uE63F",
+  'uicon-close-circle-fill': "\uE637",
+  'uicon-checkmark-circle': "\uE63D",
+  'uicon-checkmark-circle-fill': "\uE635",
+  'uicon-question-circle-fill': "\uE666",
+  'uicon-question-circle': "\uE625",
+  'uicon-share': "\uE631",
+  'uicon-share-fill': "\uE65E",
+  'uicon-shopping-cart': "\uE621",
+  'uicon-shopping-cart-fill': "\uE65D",
+  'uicon-bell': "\uE609",
+  'uicon-bell-fill': "\uE640",
+  'uicon-list': "\uE650",
+  'uicon-list-dot': "\uE616",
+  'uicon-zhihu': "\uE6BA",
+  'uicon-zhihu-circle-fill': "\uE709",
+  'uicon-zhifubao': "\uE6B9",
+  'uicon-zhifubao-circle-fill': "\uE6B8",
+  'uicon-weixin-circle-fill': "\uE6B1",
+  'uicon-weixin-fill': "\uE6B2",
+  'uicon-twitter-circle-fill': "\uE6AB",
+  'uicon-twitter': "\uE6AA",
+  'uicon-taobao-circle-fill': "\uE6A7",
+  'uicon-taobao': "\uE6A6",
+  'uicon-weibo-circle-fill': "\uE6A5",
+  'uicon-weibo': "\uE6A4",
+  'uicon-qq-fill': "\uE6A1",
+  'uicon-qq-circle-fill': "\uE6A0",
+  'uicon-moments-circel-fill': "\uE69A",
+  'uicon-moments': "\uE69B",
+  'uicon-qzone': "\uE695",
+  'uicon-qzone-circle-fill': "\uE696",
+  'uicon-baidu-circle-fill': "\uE680",
+  'uicon-baidu': "\uE681",
+  'uicon-facebook-circle-fill': "\uE68A",
+  'uicon-facebook': "\uE689",
+  'uicon-car': "\uE60C",
+  'uicon-car-fill': "\uE636",
+  'uicon-warning-fill': "\uE64D",
+  'uicon-warning': "\uE694",
+  'uicon-clock-fill': "\uE638",
+  'uicon-clock': "\uE60F",
+  'uicon-edit-pen': "\uE612",
+  'uicon-edit-pen-fill': "\uE66B",
+  'uicon-email': "\uE611",
+  'uicon-email-fill': "\uE642",
+  'uicon-minus-circle': "\uE61B",
+  'uicon-minus-circle-fill': "\uE652",
+  'uicon-plus-circle': "\uE62E",
+  'uicon-plus-circle-fill': "\uE661",
+  'uicon-file-text': "\uE663",
+  'uicon-file-text-fill': "\uE665",
+  'uicon-pushpin': "\uE7E3",
+  'uicon-pushpin-fill': "\uE86E",
+  'uicon-grid': "\uE673",
+  'uicon-grid-fill': "\uE678",
+  'uicon-play-circle': "\uE647",
+  'uicon-play-circle-fill': "\uE655",
+  'uicon-pause-circle-fill': "\uE654",
+  'uicon-pause': "\uE8FA",
+  'uicon-pause-circle': "\uE643",
+  'uicon-eye-off': "\uE648",
+  'uicon-eye-off-outline': "\uE62B",
+  'uicon-gift-fill': "\uE65C",
+  'uicon-gift': "\uE65B",
+  'uicon-rmb-circle-fill': "\uE657",
+  'uicon-rmb-circle': "\uE677",
+  'uicon-kefu-ermai': "\uE656",
+  'uicon-server-fill': "\uE751",
+  'uicon-coupon-fill': "\uE8C4",
+  'uicon-coupon': "\uE8AE",
+  'uicon-integral': "\uE704",
+  'uicon-integral-fill': "\uE703",
+  'uicon-home-fill': "\uE964",
+  'uicon-home': "\uE965",
+  'uicon-hourglass-half-fill': "\uE966",
+  'uicon-hourglass': "\uE967",
+  'uicon-account': "\uE628",
+  'uicon-plus-people-fill': "\uE626",
+  'uicon-minus-people-fill': "\uE615",
+  'uicon-account-fill': "\uE614",
+  'uicon-thumb-down-fill': "\uE726",
+  'uicon-thumb-down': "\uE727",
+  'uicon-thumb-up': "\uE733",
+  'uicon-thumb-up-fill': "\uE72F",
+  'uicon-lock-fill': "\uE979",
+  'uicon-lock-open': "\uE973",
+  'uicon-lock-opened-fill': "\uE974",
+  'uicon-lock': "\uE97A",
+  'uicon-red-packet-fill': "\uE690",
+  'uicon-photo-fill': "\uE98B",
+  'uicon-photo': "\uE98D",
+  'uicon-volume-off-fill': "\uE659",
+  'uicon-volume-off': "\uE644",
+  'uicon-volume-fill': "\uE670",
+  'uicon-volume': "\uE633",
+  'uicon-red-packet': "\uE691",
+  'uicon-download': "\uE63C",
+  'uicon-arrow-up-fill': "\uE6B0",
+  'uicon-arrow-down-fill': "\uE600",
+  'uicon-play-left-fill': "\uE675",
+  'uicon-play-right-fill': "\uE676",
+  'uicon-rewind-left-fill': "\uE679",
+  'uicon-rewind-right-fill': "\uE67A",
+  'uicon-arrow-downward': "\uE604",
+  'uicon-arrow-leftward': "\uE601",
+  'uicon-arrow-rightward': "\uE603",
+  'uicon-arrow-upward': "\uE607",
+  'uicon-arrow-down': "\uE60D",
+  'uicon-arrow-right': "\uE605",
+  'uicon-arrow-left': "\uE60E",
+  'uicon-arrow-up': "\uE606",
+  'uicon-skip-back-left': "\uE674",
+  'uicon-skip-forward-right': "\uE672",
+  'uicon-rewind-right': "\uE66F",
+  'uicon-rewind-left': "\uE671",
+  'uicon-arrow-right-double': "\uE68D",
+  'uicon-arrow-left-double': "\uE68C",
+  'uicon-wifi-off': "\uE668",
+  'uicon-wifi': "\uE667",
+  'uicon-empty-data': "\uE62F",
+  'uicon-empty-history': "\uE684",
+  'uicon-empty-list': "\uE68B",
+  'uicon-empty-page': "\uE627",
+  'uicon-empty-order': "\uE639",
+  'uicon-man': "\uE697",
+  'uicon-woman': "\uE69C",
+  'uicon-man-add': "\uE61C",
+  'uicon-man-add-fill': "\uE64C",
+  'uicon-man-delete': "\uE61A",
+  'uicon-man-delete-fill': "\uE66A",
+  'uicon-zh': "\uE70A",
+  'uicon-en': "\uE692"
+};
+exports.default = _default;
+
+/***/ }),
+/* 292 */
+/*!*******************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/components/u-icon/props.js ***!
+  \*******************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+/* WEBPACK VAR INJECTION */(function(uni) {
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+var _default = {
+  props: {
+    // 图标类名
+    name: {
+      type: String,
+      default: uni.$u.props.icon.name
+    },
+    // 图标颜色，可接受主题色
+    color: {
+      type: String,
+      default: uni.$u.props.icon.color
+    },
+    // 字体大小，单位px
+    size: {
+      type: [String, Number],
+      default: uni.$u.props.icon.size
+    },
+    // 是否显示粗体
+    bold: {
+      type: Boolean,
+      default: uni.$u.props.icon.bold
+    },
+    // 点击图标的时候传递事件出去的index（用于区分点击了哪一个）
+    index: {
+      type: [String, Number],
+      default: uni.$u.props.icon.index
+    },
+    // 触摸图标时的类名
+    hoverClass: {
+      type: String,
+      default: uni.$u.props.icon.hoverClass
+    },
+    // 自定义扩展前缀，方便用户扩展自己的图标库
+    customPrefix: {
+      type: String,
+      default: uni.$u.props.icon.customPrefix
+    },
+    // 图标右边或者下面的文字
+    label: {
+      type: [String, Number],
+      default: uni.$u.props.icon.label
+    },
+    // label的位置，只能右边或者下边
+    labelPos: {
+      type: String,
+      default: uni.$u.props.icon.labelPos
+    },
+    // label的大小
+    labelSize: {
+      type: [String, Number],
+      default: uni.$u.props.icon.labelSize
+    },
+    // label的颜色
+    labelColor: {
+      type: String,
+      default: uni.$u.props.icon.labelColor
+    },
+    // label与图标的距离
+    space: {
+      type: [String, Number],
+      default: uni.$u.props.icon.space
+    },
+    // 图片的mode
+    imgMode: {
+      type: String,
+      default: uni.$u.props.icon.imgMode
+    },
+    // 用于显示图片小图标时，图片的宽度
+    width: {
+      type: [String, Number],
+      default: uni.$u.props.icon.width
+    },
+    // 用于显示图片小图标时，图片的高度
+    height: {
+      type: [String, Number],
+      default: uni.$u.props.icon.height
+    },
+    // 用于解决某些情况下，让图标垂直居中的用途
+    top: {
+      type: [String, Number],
+      default: uni.$u.props.icon.top
+    },
+    // 是否阻止事件传播
+    stop: {
+      type: Boolean,
+      default: uni.$u.props.icon.stop
     }
   }
 };

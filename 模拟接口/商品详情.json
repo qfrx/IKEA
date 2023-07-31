@@ -1,0 +1,1536 @@
+[
+    {
+        "productFullId": "10395384",
+        "products": [
+            {
+                "id": "30560839",
+                "globalId": "30560839",
+                "name": "BRUKSVARA 布瓦拉",
+                "itemType": "ART",
+                "productType": "储物袋",
+                "designText": "蓝色",
+                "measureText": "62x53x19 厘米",
+                "price": {
+                    "currencyCode": "CNY",
+                    "type": "REG",
+                    "regularPrice": 14.99,
+                    "priceUnit": "",
+                    "breathTaking": true,
+                    "hasFamilyCard": false
+                },
+                "image": "https://www.ikea.cn/cn/zh/images/products/bruksvara-bu-wa-la-chu-wu-dai-lan-se__1182443_pe897219_s4.jpg",
+                "sceneImage": "https://www.ikea.cn/cn/zh/images/products/bruksvara-bu-wa-la-chu-wu-dai-lan-se__1182817_pe897300_s4.jpg",
+                "secondImage": false,
+                "new": false,
+                "hasFacet": true,
+                "onlineSalable": true,
+                "hasARModel": false,
+                "hasMoreSize": false,
+                "hasAssemblyService": false,
+                "language": "zh",
+                "labelImage": {},
+                "moreColors": [],
+                "flashSale": false,
+                "productTags": [],
+                "productSubTags": [],
+                "tracking": {
+                    "recReason_var": "similar-product@version-default"
+                },
+                "sheepReasons": [],
+                "labels": [],
+                "isIkeaBusiness": false,
+                "isKitchen": false,
+                "seoSlug": "bruksvara-bu-wa-la-chu-wu-dai-lan-se",
+                "parcelEligible": true,
+                "hasThreeDModel": false,
+                "images": [
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/bruksvara-bu-wa-la-chu-wu-dai-lan-se__1182443_pe897219_s4.jpg",
+                        "needPadding": true
+                    },
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/bruksvara-bu-wa-la-chu-wu-dai-lan-se__1182440_pe897218_s4.jpg",
+                        "needPadding": false
+                    }
+                ],
+                "fullDescription": "储物袋, 62x53x19 厘米",
+                "appLinkUrl": "/p/30560839?artType=ART",
+                "appLinkUrl$": "ikea://content/pip?id=30560839&type=ART",
+                "appLinkUrl$tracking": {
+                    "objectId_var": "30560839",
+                    "objectType_var": "product"
+                },
+                "stockCheckNeeded": true,
+                "priceDisplay": {
+                    "tags": [],
+                    "priceUnit": "",
+                    "currentPrice": 14.99,
+                    "currentPriceColorType": "BTI",
+                    "currentPriceColorHex": "111111",
+                    "originalPriceLineThrough": false
+                },
+                "productFormatId": "305.608.39",
+                "productFullId": "30560839",
+                "displayName": "布瓦拉 储物袋"
+            },
+            {
+                "id": "00560826",
+                "globalId": "00560826",
+                "name": "BRUKSVARA 布瓦拉",
+                "itemType": "ART",
+                "productType": "储物袋",
+                "designText": "白色",
+                "measureText": "62x53x19 厘米",
+                "price": {
+                    "currencyCode": "CNY",
+                    "type": "REG",
+                    "regularPrice": 14.99,
+                    "priceUnit": "",
+                    "breathTaking": true,
+                    "hasFamilyCard": false
+                },
+                "image": "https://www.ikea.cn/cn/zh/images/products/bruksvara-bu-wa-la-chu-wu-dai-bai-se__1182447_pe897220_s4.jpg",
+                "sceneImage": "https://www.ikea.cn/cn/zh/images/products/bruksvara-bu-wa-la-chu-wu-dai-bai-se__1194430_pe901937_s4.jpg",
+                "secondImage": false,
+                "new": false,
+                "hasFacet": true,
+                "onlineSalable": true,
+                "hasARModel": false,
+                "hasMoreSize": false,
+                "hasAssemblyService": false,
+                "language": "zh",
+                "labelImage": {},
+                "moreColors": [],
+                "flashSale": false,
+                "productTags": [],
+                "productSubTags": [],
+                "tracking": {
+                    "recReason_var": "similar-product@version-default"
+                },
+                "sheepReasons": [],
+                "labels": [],
+                "isIkeaBusiness": false,
+                "isKitchen": false,
+                "seoSlug": "bruksvara-bu-wa-la-chu-wu-dai-bai-se",
+                "parcelEligible": true,
+                "hasThreeDModel": false,
+                "images": [
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/bruksvara-bu-wa-la-chu-wu-dai-bai-se__1182447_pe897220_s4.jpg",
+                        "needPadding": true
+                    },
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/bruksvara-bu-wa-la-chu-wu-dai-bai-se__1194430_pe901937_s4.jpg",
+                        "needPadding": false
+                    },
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/bruksvara-bu-wa-la-chu-wu-dai-bai-se__1190873_pe900343_s4.jpg",
+                        "needPadding": false
+                    }
+                ],
+                "fullDescription": "储物袋, 62x53x19 厘米",
+                "appLinkUrl": "/p/00560826?artType=ART",
+                "appLinkUrl$": "ikea://content/pip?id=00560826&type=ART",
+                "appLinkUrl$tracking": {
+                    "objectId_var": "00560826",
+                    "objectType_var": "product"
+                },
+                "stockCheckNeeded": true,
+                "priceDisplay": {
+                    "tags": [],
+                    "priceUnit": "",
+                    "currentPrice": 14.99,
+                    "currentPriceColorType": "BTI",
+                    "currentPriceColorHex": "111111",
+                    "originalPriceLineThrough": false
+                },
+                "productFormatId": "005.608.26",
+                "productFullId": "00560826",
+                "displayName": "布瓦拉 储物袋"
+            },
+            {
+                "id": "40472984",
+                "globalId": "20399999",
+                "name": "SKUBB 思库布",
+                "itemType": "ART",
+                "productType": "储物袋",
+                "designText": "深灰色",
+                "measureText": "44x55x19 厘米",
+                "price": {
+                    "currencyCode": "CNY",
+                    "type": "REG",
+                    "regularPrice": 29.99,
+                    "priceUnit": "",
+                    "breathTaking": false,
+                    "hasFamilyCard": false
+                },
+                "image": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-dai-shen-hui-se__0573442_pe667780_s4.jpg",
+                "sceneImage": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-dai-shen-hui-se__0940614_pe795076_s4.jpg",
+                "secondImage": false,
+                "new": false,
+                "seriesId": "12555",
+                "hasFacet": true,
+                "onlineSalable": true,
+                "hasARModel": false,
+                "hasMoreSize": false,
+                "hasAssemblyService": false,
+                "language": "zh",
+                "labelImage": {},
+                "moreColors": [],
+                "flashSale": false,
+                "productTags": [],
+                "productSubTags": [],
+                "tracking": {
+                    "recReason_var": "similar-product@version-default"
+                },
+                "sheepReasons": [
+                    {
+                        "text": "拉手设计，方便拉取",
+                        "type": "TEXT",
+                        "textColor": "#CF7A00"
+                    }
+                ],
+                "labels": [
+                    {
+                        "text": "热卖",
+                        "borderColor": "#E00751",
+                        "backgroundColor": "#E00751",
+                        "textColor": "#FFFFFF",
+                        "source": "RANGE",
+                        "type": "TEXT"
+                    }
+                ],
+                "isIkeaBusiness": false,
+                "isKitchen": false,
+                "seoSlug": "skubb-si-ku-bu-chu-wu-dai-shen-hui-se",
+                "parcelEligible": true,
+                "hasThreeDModel": false,
+                "images": [
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-dai-shen-hui-se__0573442_pe667780_s4.jpg",
+                        "needPadding": true
+                    },
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-dai-shen-hui-se__0940614_pe795076_s4.jpg",
+                        "needPadding": false
+                    },
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-dai-shen-hui-se__0954862_pe803520_s4.jpg",
+                        "needPadding": false
+                    }
+                ],
+                "fullDescription": "储物袋, 44x55x19 厘米",
+                "appLinkUrl": "/p/40472984?artType=ART",
+                "appLinkUrl$": "ikea://content/pip?id=40472984&type=ART&seriesId=12555",
+                "appLinkUrl$tracking": {
+                    "objectId_var": "40472984",
+                    "objectType_var": "product"
+                },
+                "stockCheckNeeded": true,
+                "priceDisplay": {
+                    "tags": [],
+                    "priceUnit": "",
+                    "currentPrice": 29.99,
+                    "currentPriceColorType": "HEX",
+                    "currentPriceColorHex": "111111",
+                    "originalPriceLineThrough": false
+                },
+                "productFormatId": "404.729.84",
+                "productFullId": "40472984",
+                "displayName": "思库布 储物袋"
+            },
+            {
+                "id": "70504196",
+                "globalId": "40504193",
+                "name": "GÖRSNYGG 约诗诺",
+                "itemType": "ART",
+                "productType": "储物袋",
+                "designText": "白色/透明",
+                "measureText": "55x49x19 厘米",
+                "price": {
+                    "currencyCode": "CNY",
+                    "type": "REG",
+                    "regularPrice": 19.99,
+                    "priceUnit": "",
+                    "breathTaking": false,
+                    "hasFamilyCard": false
+                },
+                "image": "https://www.ikea.cn/cn/zh/images/products/goersnygg-yue-shi-nuo-chu-wu-dai-bai-se-tou-ming__1013439_pe829198_s4.jpg",
+                "sceneImage": "https://www.ikea.cn/cn/zh/images/products/goersnygg-yue-shi-nuo-chu-wu-dai-bai-se-tou-ming__1014999_pe829813_s4.jpg",
+                "secondImage": false,
+                "new": false,
+                "hasFacet": false,
+                "onlineSalable": true,
+                "hasARModel": false,
+                "hasMoreSize": false,
+                "hasAssemblyService": false,
+                "language": "zh",
+                "labelImage": {},
+                "moreColors": [],
+                "flashSale": false,
+                "productTags": [],
+                "productSubTags": [],
+                "tracking": {
+                    "recReason_var": "similar-product@version-default"
+                },
+                "sheepReasons": [],
+                "labels": [],
+                "isIkeaBusiness": false,
+                "isKitchen": false,
+                "seoSlug": "goersnygg-yue-shi-nuo-chu-wu-dai-bai-se-tou-ming",
+                "parcelEligible": true,
+                "hasThreeDModel": false,
+                "images": [
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/goersnygg-yue-shi-nuo-chu-wu-dai-bai-se-tou-ming__1013439_pe829198_s4.jpg",
+                        "needPadding": true
+                    }
+                ],
+                "fullDescription": "储物袋, 55x49x19 厘米",
+                "appLinkUrl": "/p/70504196?artType=ART",
+                "appLinkUrl$": "ikea://content/pip?id=70504196&type=ART",
+                "appLinkUrl$tracking": {
+                    "objectId_var": "70504196",
+                    "objectType_var": "product"
+                },
+                "stockCheckNeeded": true,
+                "priceDisplay": {
+                    "tags": [],
+                    "priceUnit": "",
+                    "currentPrice": 19.99,
+                    "currentPriceColorType": "HEX",
+                    "currentPriceColorHex": "111111",
+                    "originalPriceLineThrough": false
+                },
+                "productFormatId": "705.041.96",
+                "productFullId": "70504196",
+                "displayName": "约诗诺 储物袋"
+            },
+            {
+                "id": "50290361",
+                "globalId": "30290362",
+                "name": "SKUBB 思库布",
+                "itemType": "ART",
+                "productType": "储物袋",
+                "designText": "白色",
+                "measureText": "44x55x19 厘米",
+                "price": {
+                    "currencyCode": "CNY",
+                    "type": "REG",
+                    "regularPrice": 29.99,
+                    "priceUnit": "",
+                    "breathTaking": false,
+                    "hasFamilyCard": false
+                },
+                "image": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-dai-bai-se__0711176_pe728045_s4.jpg",
+                "sceneImage": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-dai-bai-se__0730255_pe737474_s4.jpg",
+                "secondImage": false,
+                "new": false,
+                "seriesId": "12555",
+                "hasFacet": true,
+                "onlineSalable": true,
+                "hasARModel": false,
+                "hasMoreSize": false,
+                "hasAssemblyService": false,
+                "language": "zh",
+                "labelImage": {},
+                "moreColors": [],
+                "flashSale": false,
+                "productTags": [],
+                "productSubTags": [],
+                "tracking": {
+                    "recReason_var": "similar-product@version-default"
+                },
+                "sheepReasons": [
+                    {
+                        "text": "拉手设计，方便拉取",
+                        "type": "TEXT",
+                        "textColor": "#CF7A00"
+                    }
+                ],
+                "labels": [
+                    {
+                        "text": "热卖",
+                        "borderColor": "#E00751",
+                        "backgroundColor": "#E00751",
+                        "textColor": "#FFFFFF",
+                        "source": "RANGE",
+                        "type": "TEXT"
+                    }
+                ],
+                "isIkeaBusiness": false,
+                "isKitchen": false,
+                "seoSlug": "skubb-si-ku-bu-chu-wu-dai-bai-se",
+                "parcelEligible": true,
+                "hasThreeDModel": false,
+                "images": [
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-dai-bai-se__0711176_pe728045_s4.jpg",
+                        "needPadding": true
+                    },
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-dai-bai-se__0730255_pe737474_s4.jpg",
+                        "needPadding": false
+                    },
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-dai-bai-se__0730259_pe737475_s4.jpg",
+                        "needPadding": false
+                    }
+                ],
+                "fullDescription": "储物袋, 44x55x19 厘米",
+                "appLinkUrl": "/p/50290361?artType=ART",
+                "appLinkUrl$": "ikea://content/pip?id=50290361&type=ART&seriesId=12555",
+                "appLinkUrl$tracking": {
+                    "objectId_var": "50290361",
+                    "objectType_var": "product"
+                },
+                "stockCheckNeeded": true,
+                "priceDisplay": {
+                    "tags": [],
+                    "priceUnit": "",
+                    "currentPrice": 29.99,
+                    "currentPriceColorType": "HEX",
+                    "currentPriceColorHex": "111111",
+                    "originalPriceLineThrough": false
+                },
+                "productFormatId": "502.903.61",
+                "productFullId": "50290361",
+                "displayName": "思库布 储物袋"
+            },
+            {
+                "id": "90187753",
+                "globalId": "10056770",
+                "name": "DIMPA 迪姆帕",
+                "itemType": "ART",
+                "productType": "储物袋",
+                "designText": "透明",
+                "measureText": "65x22x65 厘米",
+                "price": {
+                    "currencyCode": "CNY",
+                    "type": "REG",
+                    "regularPrice": 19.99,
+                    "priceUnit": "",
+                    "breathTaking": false,
+                    "hasFamilyCard": false
+                },
+                "image": "https://www.ikea.cn/cn/zh/images/products/dimpa-di-mu-pa-chu-wu-dai-tou-ming__0711229_pe728074_s4.jpg",
+                "sceneImage": "https://www.ikea.cn/cn/zh/images/products/dimpa-di-mu-pa-chu-wu-dai-tou-ming__0909052_pe617692_s4.jpg",
+                "secondImage": false,
+                "new": false,
+                "hasFacet": false,
+                "onlineSalable": true,
+                "hasARModel": false,
+                "hasMoreSize": false,
+                "hasAssemblyService": false,
+                "language": "zh",
+                "labelImage": {},
+                "moreColors": [],
+                "flashSale": false,
+                "productTags": [],
+                "productSubTags": [],
+                "tracking": {
+                    "recReason_var": "similar-product@version-default"
+                },
+                "sheepReasons": [],
+                "labels": [],
+                "isIkeaBusiness": false,
+                "isKitchen": false,
+                "seoSlug": "dimpa-di-mu-pa-chu-wu-dai-tou-ming",
+                "parcelEligible": true,
+                "hasThreeDModel": false,
+                "images": [
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/dimpa-di-mu-pa-chu-wu-dai-tou-ming__0711229_pe728074_s4.jpg",
+                        "needPadding": true
+                    },
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/dimpa-di-mu-pa-chu-wu-dai-tou-ming__0479097_pe618112_s4.jpg",
+                        "needPadding": false
+                    }
+                ],
+                "fullDescription": "储物袋, 65x22x65 厘米",
+                "appLinkUrl": "/p/90187753?artType=ART",
+                "appLinkUrl$": "ikea://content/pip?id=90187753&type=ART",
+                "appLinkUrl$tracking": {
+                    "objectId_var": "90187753",
+                    "objectType_var": "product"
+                },
+                "stockCheckNeeded": true,
+                "priceDisplay": {
+                    "tags": [],
+                    "priceUnit": "",
+                    "currentPrice": 19.99,
+                    "currentPriceColorType": "HEX",
+                    "currentPriceColorHex": "111111",
+                    "originalPriceLineThrough": false
+                },
+                "productFormatId": "901.877.53",
+                "productFullId": "90187753",
+                "displayName": "迪姆帕 储物袋"
+            },
+            {
+                "id": "10522382",
+                "globalId": "30522381",
+                "name": "PÄRKLA 派克拉",
+                "itemType": "ART",
+                "productType": "鞋袋",
+                "designText": "",
+                "measureText": "48x22 厘米",
+                "price": {
+                    "currencyCode": "CNY",
+                    "type": "REG",
+                    "regularPrice": 4.99,
+                    "priceUnit": "",
+                    "breathTaking": true,
+                    "hasFamilyCard": false
+                },
+                "image": "https://www.ikea.cn/cn/zh/images/products/paerkla-pai-ke-la-xie-dai__1045872_pe842745_s4.jpg",
+                "sceneImage": "https://www.ikea.cn/cn/zh/images/products/paerkla-pai-ke-la-xie-dai__1094781_pe863618_s4.jpg",
+                "secondImage": false,
+                "new": false,
+                "hasFacet": false,
+                "onlineSalable": true,
+                "hasARModel": false,
+                "hasMoreSize": false,
+                "hasAssemblyService": false,
+                "language": "zh",
+                "labelImage": {},
+                "moreColors": [],
+                "flashSale": false,
+                "productTags": [],
+                "productSubTags": [],
+                "tracking": {
+                    "recReason_var": "similar-product@version-default"
+                },
+                "sheepReasons": [],
+                "labels": [],
+                "isIkeaBusiness": false,
+                "isKitchen": false,
+                "seoSlug": "paerkla-pai-ke-la-xie-dai",
+                "parcelEligible": true,
+                "hasThreeDModel": false,
+                "images": [
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/paerkla-pai-ke-la-xie-dai__1045872_pe842745_s4.jpg",
+                        "needPadding": true
+                    },
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/paerkla-pai-ke-la-xie-dai__1094781_pe863618_s4.jpg",
+                        "needPadding": false
+                    },
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/paerkla-pai-ke-la-xie-dai__1094786_pe863622_s4.jpg",
+                        "needPadding": false
+                    }
+                ],
+                "fullDescription": "鞋袋, 48x22 厘米",
+                "appLinkUrl": "/p/10522382?artType=ART",
+                "appLinkUrl$": "ikea://content/pip?id=10522382&type=ART",
+                "appLinkUrl$tracking": {
+                    "objectId_var": "10522382",
+                    "objectType_var": "product"
+                },
+                "stockCheckNeeded": true,
+                "priceDisplay": {
+                    "tags": [],
+                    "priceUnit": "",
+                    "currentPrice": 4.99,
+                    "currentPriceColorType": "BTI",
+                    "currentPriceColorHex": "111111",
+                    "originalPriceLineThrough": false
+                },
+                "productFormatId": "105.223.82",
+                "productFullId": "10522382",
+                "displayName": "派克拉 鞋袋"
+            },
+            {
+                "id": "10530103",
+                "globalId": "50530101",
+                "name": "RENSHACKA 连哈卡",
+                "itemType": "ART",
+                "productType": "衣服储藏袋",
+                "designText": "透明白色",
+                "price": {
+                    "currencyCode": "CNY",
+                    "type": "REG",
+                    "regularPrice": 4.99,
+                    "priceUnit": "",
+                    "breathTaking": true,
+                    "hasFamilyCard": false
+                },
+                "image": "https://www.ikea.cn/cn/zh/images/products/renshacka-lian-ha-qia-yi-fu-chu-cang-dai-tou-ming-bai-se__1085384_pe860087_s4.jpg",
+                "sceneImage": "https://www.ikea.cn/cn/zh/images/products/renshacka-lian-ha-qia-yi-fu-chu-cang-dai-tou-ming-bai-se__1085564_pe860163_s4.jpg",
+                "secondImage": false,
+                "new": false,
+                "hasFacet": false,
+                "onlineSalable": true,
+                "hasARModel": false,
+                "hasMoreSize": false,
+                "hasAssemblyService": false,
+                "language": "zh",
+                "labelImage": {},
+                "moreColors": [],
+                "flashSale": false,
+                "productTags": [],
+                "productSubTags": [],
+                "tracking": {
+                    "recReason_var": "similar-product@version-default"
+                },
+                "sheepReasons": [],
+                "labels": [],
+                "isIkeaBusiness": false,
+                "isKitchen": false,
+                "seoSlug": "renshacka-lian-ha-qia-yi-fu-chu-cang-dai-tou-ming-bai-se",
+                "parcelEligible": true,
+                "hasThreeDModel": false,
+                "images": [
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/renshacka-lian-ha-qia-yi-fu-chu-cang-dai-tou-ming-bai-se__1085384_pe860087_s4.jpg",
+                        "needPadding": true
+                    },
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/renshacka-lian-ha-qia-yi-fu-chu-cang-dai-tou-ming-bai-se__1085559_pe860160_s4.jpg",
+                        "needPadding": false
+                    }
+                ],
+                "fullDescription": "衣服储藏袋",
+                "appLinkUrl": "/p/10530103?artType=ART",
+                "appLinkUrl$": "ikea://content/pip?id=10530103&type=ART",
+                "appLinkUrl$tracking": {
+                    "objectId_var": "10530103",
+                    "objectType_var": "product"
+                },
+                "stockCheckNeeded": true,
+                "priceDisplay": {
+                    "tags": [],
+                    "priceUnit": "",
+                    "currentPrice": 4.99,
+                    "currentPriceColorType": "BTI",
+                    "currentPriceColorHex": "111111",
+                    "originalPriceLineThrough": false
+                },
+                "productFormatId": "105.301.03",
+                "productFullId": "10530103",
+                "displayName": "连哈卡 衣服储藏袋"
+            },
+            {
+                "id": "90161989",
+                "globalId": "90149148",
+                "name": "FRAKTA 弗拉塔",
+                "itemType": "ART",
+                "productType": "用于推车的旅行箱",
+                "designText": "蓝色",
+                "measureText": "73x35x30 厘米 76 公升",
+                "price": {
+                    "currencyCode": "CNY",
+                    "type": "REG",
+                    "regularPrice": 19.99,
+                    "priceUnit": "",
+                    "breathTaking": false,
+                    "hasFamilyCard": false
+                },
+                "image": "https://www.ikea.cn/cn/zh/images/products/frakta-fu-la-ta-yong-yu-tui-che-de-lu-xing-xiang-lan-se__0711261_pe728099_s4.jpg",
+                "sceneImage": "https://www.ikea.cn/cn/zh/images/products/frakta-fu-la-ta-yong-yu-tui-che-de-lu-xing-xiang-lan-se__0093264_pe230442_s4.jpg",
+                "secondImage": false,
+                "new": false,
+                "hasFacet": false,
+                "onlineSalable": true,
+                "hasARModel": false,
+                "hasMoreSize": false,
+                "hasAssemblyService": false,
+                "language": "zh",
+                "labelImage": {},
+                "moreColors": [],
+                "flashSale": false,
+                "productTags": [],
+                "productSubTags": [],
+                "tracking": {
+                    "recReason_var": "similar-product@version-default"
+                },
+                "sheepReasons": [],
+                "labels": [],
+                "isIkeaBusiness": false,
+                "isKitchen": false,
+                "seoSlug": "frakta-fu-la-ta-yong-yu-tui-che-de-lu-xing-xiang-lan-se",
+                "parcelEligible": true,
+                "hasThreeDModel": false,
+                "images": [
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/frakta-fu-la-ta-yong-yu-tui-che-de-lu-xing-xiang-lan-se__0711261_pe728099_s4.jpg",
+                        "needPadding": true
+                    },
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/frakta-fu-la-ta-yong-yu-tui-che-de-lu-xing-xiang-lan-se__0909350_pe617666_s4.jpg",
+                        "needPadding": false
+                    },
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/frakta-fu-la-ta-yong-yu-tui-che-de-lu-xing-xiang-lan-se__0909367_pe618119_s4.jpg",
+                        "needPadding": false
+                    }
+                ],
+                "fullDescription": "用于推车的旅行箱, 73x35x30 厘米 76 公升",
+                "appLinkUrl": "/p/90161989?artType=ART",
+                "appLinkUrl$": "ikea://content/pip?id=90161989&type=ART",
+                "appLinkUrl$tracking": {
+                    "objectId_var": "90161989",
+                    "objectType_var": "product"
+                },
+                "stockCheckNeeded": true,
+                "priceDisplay": {
+                    "tags": [],
+                    "priceUnit": "",
+                    "currentPrice": 19.99,
+                    "currentPriceColorType": "HEX",
+                    "currentPriceColorHex": "111111",
+                    "originalPriceLineThrough": false
+                },
+                "productFormatId": "901.619.89",
+                "productFullId": "90161989",
+                "displayName": "弗拉塔 用于推车的旅行箱"
+            },
+            {
+                "id": "80473694",
+                "globalId": "00473693",
+                "name": "KNALLA 克纳拉",
+                "itemType": "ART",
+                "productType": "袋",
+                "designText": "黑色/白色",
+                "measureText": "40x25x47 厘米/47 公升",
+                "price": {
+                    "currencyCode": "CNY",
+                    "type": "REG",
+                    "regularPrice": 19.99,
+                    "priceUnit": "",
+                    "breathTaking": false,
+                    "hasFamilyCard": false
+                },
+                "image": "https://www.ikea.cn/cn/zh/images/products/knalla-ke-na-la-dai-hei-se-bai-se__0815749_pe773033_s4.jpg",
+                "sceneImage": "https://www.ikea.cn/cn/zh/images/products/knalla-ke-na-la-dai-hei-se-bai-se__0834264_pe778233_s4.jpg",
+                "secondImage": false,
+                "new": false,
+                "seriesId": "27573",
+                "hasFacet": false,
+                "onlineSalable": true,
+                "hasARModel": false,
+                "hasMoreSize": false,
+                "hasAssemblyService": false,
+                "language": "zh",
+                "labelImage": {},
+                "moreColors": [],
+                "flashSale": false,
+                "productTags": [],
+                "productSubTags": [],
+                "tracking": {
+                    "recReason_var": "similar-product@version-default"
+                },
+                "sheepReasons": [],
+                "labels": [],
+                "isIkeaBusiness": false,
+                "isKitchen": false,
+                "seoSlug": "knalla-ke-na-la-dai-hei-se-bai-se",
+                "parcelEligible": true,
+                "hasThreeDModel": false,
+                "images": [
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/knalla-ke-na-la-dai-hei-se-bai-se__0815749_pe773033_s4.jpg",
+                        "needPadding": true
+                    },
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/knalla-ke-na-la-dai-hei-se-bai-se__0834264_pe778233_s4.jpg",
+                        "needPadding": false
+                    },
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/knalla-ke-na-la-dai-hei-se-bai-se__0834261_pe778232_s4.jpg",
+                        "needPadding": false
+                    }
+                ],
+                "fullDescription": "袋, 40x25x47 厘米/47 公升",
+                "appLinkUrl": "/p/80473694?artType=ART",
+                "appLinkUrl$": "ikea://content/pip?id=80473694&type=ART&seriesId=27573",
+                "appLinkUrl$tracking": {
+                    "objectId_var": "80473694",
+                    "objectType_var": "product"
+                },
+                "stockCheckNeeded": true,
+                "priceDisplay": {
+                    "tags": [],
+                    "priceUnit": "",
+                    "currentPrice": 19.99,
+                    "currentPriceColorType": "HEX",
+                    "currentPriceColorHex": "111111",
+                    "originalPriceLineThrough": false
+                },
+                "productFormatId": "804.736.94",
+                "productFullId": "80473694",
+                "displayName": "克纳拉 袋"
+            },
+            {
+                "id": "50503980",
+                "globalId": "60499261",
+                "name": "GÖRSNYGG 约诗诺",
+                "itemType": "ART",
+                "productType": "袋",
+                "designText": "蓝色",
+                "measureText": "40x30x60 厘米/72 公升",
+                "price": {
+                    "currencyCode": "CNY",
+                    "type": "REG",
+                    "regularPrice": 29.99,
+                    "priceUnit": "",
+                    "breathTaking": false,
+                    "hasFamilyCard": false
+                },
+                "image": "https://www.ikea.cn/cn/zh/images/products/goersnygg-yue-shi-nuo-dai-lan-se__1021481_pe832324_s4.jpg",
+                "sceneImage": "https://www.ikea.cn/cn/zh/images/products/goersnygg-yue-shi-nuo-dai-lan-se__1021482_pe832325_s4.jpg",
+                "secondImage": false,
+                "new": false,
+                "hasFacet": false,
+                "onlineSalable": true,
+                "hasARModel": false,
+                "hasMoreSize": false,
+                "hasAssemblyService": false,
+                "language": "zh",
+                "labelImage": {},
+                "moreColors": [],
+                "flashSale": false,
+                "productTags": [],
+                "productSubTags": [],
+                "tracking": {
+                    "recReason_var": "similar-product@version-default"
+                },
+                "sheepReasons": [],
+                "labels": [],
+                "isIkeaBusiness": false,
+                "isKitchen": false,
+                "seoSlug": "goersnygg-yue-shi-nuo-dai-lan-se",
+                "parcelEligible": true,
+                "hasThreeDModel": false,
+                "images": [
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/goersnygg-yue-shi-nuo-dai-lan-se__1021481_pe832324_s4.jpg",
+                        "needPadding": true
+                    },
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/goersnygg-yue-shi-nuo-dai-lan-se__1021484_pe832327_s4.jpg",
+                        "needPadding": false
+                    }
+                ],
+                "fullDescription": "袋, 40x30x60 厘米/72 公升",
+                "appLinkUrl": "/p/50503980?artType=ART",
+                "appLinkUrl$": "ikea://content/pip?id=50503980&type=ART",
+                "appLinkUrl$tracking": {
+                    "objectId_var": "50503980",
+                    "objectType_var": "product"
+                },
+                "stockCheckNeeded": true,
+                "priceDisplay": {
+                    "tags": [],
+                    "priceUnit": "",
+                    "currentPrice": 29.99,
+                    "currentPriceColorType": "HEX",
+                    "currentPriceColorHex": "111111",
+                    "originalPriceLineThrough": false
+                },
+                "productFormatId": "505.039.80",
+                "productFullId": "50503980",
+                "displayName": "约诗诺 袋"
+            },
+            {
+                "id": "30534647",
+                "globalId": "90534649",
+                "name": "SÄCKKÄRRA 塞克夏劳",
+                "itemType": "ART",
+                "productType": "储物袋",
+                "designText": "黑色/灰白 波点图案",
+                "measureText": "69x51x19 厘米",
+                "price": {
+                    "currencyCode": "CNY",
+                    "type": "REG",
+                    "regularPrice": 24.99,
+                    "priceUnit": "",
+                    "breathTaking": false,
+                    "hasFamilyCard": false
+                },
+                "image": "https://www.ikea.cn/cn/zh/images/products/saeckkaerra-sai-ke-xia-lao-chu-wu-dai-hei-se-hui-bai-bo-dian-tu-an__1108866_pe869680_s4.jpg",
+                "sceneImage": "https://www.ikea.cn/cn/zh/images/products/saeckkaerra-sai-ke-xia-lao-chu-wu-dai-hei-se-hui-bai-bo-dian-tu-an__1115575_pe872137_s4.jpg",
+                "secondImage": false,
+                "new": false,
+                "hasFacet": false,
+                "onlineSalable": true,
+                "hasARModel": false,
+                "hasMoreSize": false,
+                "hasAssemblyService": false,
+                "language": "zh",
+                "labelImage": {},
+                "moreColors": [],
+                "flashSale": false,
+                "productTags": [],
+                "productSubTags": [],
+                "tracking": {
+                    "recReason_var": "similar-product@version-default"
+                },
+                "sheepReasons": [],
+                "labels": [],
+                "isIkeaBusiness": false,
+                "isKitchen": false,
+                "seoSlug": "saeckkaerra-sai-ke-xia-lao-chu-wu-dai-hei-se-hui-bai-bo-dian-tu-an",
+                "parcelEligible": true,
+                "hasThreeDModel": false,
+                "images": [
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/saeckkaerra-sai-ke-xia-lao-chu-wu-dai-hei-se-hui-bai-bo-dian-tu-an__1108866_pe869680_s4.jpg",
+                        "needPadding": true
+                    },
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/saeckkaerra-sai-ke-xia-lao-chu-wu-dai-hei-se-hui-bai-bo-dian-tu-an__1115575_pe872137_s4.jpg",
+                        "needPadding": false
+                    },
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/saeckkaerra-sai-ke-xia-lao-chu-wu-dai-hei-se-hui-bai-bo-dian-tu-an__1156372_pe887057_s4.jpg",
+                        "needPadding": false
+                    }
+                ],
+                "fullDescription": "储物袋, 69x51x19 厘米",
+                "appLinkUrl": "/p/30534647?artType=ART",
+                "appLinkUrl$": "ikea://content/pip?id=30534647&type=ART",
+                "appLinkUrl$tracking": {
+                    "objectId_var": "30534647",
+                    "objectType_var": "product"
+                },
+                "stockCheckNeeded": true,
+                "priceDisplay": {
+                    "tags": [],
+                    "priceUnit": "",
+                    "currentPrice": 24.99,
+                    "currentPriceColorType": "HEX",
+                    "currentPriceColorHex": "111111",
+                    "originalPriceLineThrough": false
+                },
+                "productFormatId": "305.346.47",
+                "productFullId": "30534647",
+                "displayName": "塞克夏劳 储物袋"
+            },
+            {
+                "id": "60299219",
+                "globalId": "17228340",
+                "name": "FRAKTA 弗拉塔",
+                "itemType": "ART",
+                "productType": "编织袋，大",
+                "designText": "蓝色",
+                "measureText": "55x37x35 厘米/71 公升",
+                "price": {
+                    "currencyCode": "CNY",
+                    "type": "REG",
+                    "regularPrice": 5,
+                    "priceUnit": "",
+                    "breathTaking": true,
+                    "hasFamilyCard": false
+                },
+                "image": "https://www.ikea.cn/cn/zh/images/products/frakta-fu-la-ta-bian-zhi-dai-da-lan-se__0711230_pe728075_s4.jpg",
+                "sceneImage": "https://www.ikea.cn/cn/zh/images/products/frakta-fu-la-ta-bian-zhi-dai-da-lan-se__0909126_pe649961_s4.jpg",
+                "secondImage": false,
+                "new": false,
+                "hasFacet": false,
+                "onlineSalable": true,
+                "hasARModel": false,
+                "hasMoreSize": false,
+                "hasAssemblyService": false,
+                "language": "zh",
+                "labelImage": {},
+                "moreColors": [],
+                "flashSale": false,
+                "productTags": [],
+                "productSubTags": [],
+                "tracking": {
+                    "recReason_var": "similar-product@version-default"
+                },
+                "sheepReasons": [],
+                "labels": [
+                    {
+                        "text": "热卖",
+                        "borderColor": "#E00751",
+                        "backgroundColor": "#E00751",
+                        "textColor": "#FFFFFF",
+                        "source": "RANGE",
+                        "type": "TEXT"
+                    }
+                ],
+                "isIkeaBusiness": false,
+                "isKitchen": false,
+                "seoSlug": "frakta-fu-la-ta-bian-zhi-dai-da-lan-se",
+                "parcelEligible": true,
+                "hasThreeDModel": false,
+                "images": [
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/frakta-fu-la-ta-bian-zhi-dai-da-lan-se__0711230_pe728075_s4.jpg",
+                        "needPadding": true
+                    },
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/frakta-fu-la-ta-bian-zhi-dai-da-lan-se__0909114_pe617667_s4.jpg",
+                        "needPadding": false
+                    },
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/frakta-fu-la-ta-bian-zhi-dai-da-lan-se__0479098_pe618113_s4.jpg",
+                        "needPadding": false
+                    }
+                ],
+                "fullDescription": "编织袋，大, 55x37x35 厘米/71 公升",
+                "appLinkUrl": "/p/60299219?artType=ART",
+                "appLinkUrl$": "ikea://content/pip?id=60299219&type=ART",
+                "appLinkUrl$tracking": {
+                    "objectId_var": "60299219",
+                    "objectType_var": "product"
+                },
+                "stockCheckNeeded": true,
+                "priceDisplay": {
+                    "tags": [],
+                    "priceUnit": "",
+                    "currentPrice": 5,
+                    "currentPriceColorType": "BTI",
+                    "currentPriceColorHex": "111111",
+                    "originalPriceLineThrough": false
+                },
+                "productFormatId": "602.992.19",
+                "productFullId": "60299219",
+                "displayName": "弗拉塔 编织袋，大"
+            },
+            {
+                "id": "90185594",
+                "globalId": "10185593",
+                "name": "SKUBB 思库布",
+                "itemType": "ART",
+                "productType": "储物盒带格",
+                "designText": "白色",
+                "measureText": "44x34x11 厘米",
+                "price": {
+                    "currencyCode": "CNY",
+                    "type": "REG",
+                    "regularPrice": 29.99,
+                    "priceUnit": "",
+                    "breathTaking": false,
+                    "hasFamilyCard": false
+                },
+                "image": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-he-dai-ge-bai-se__0711138_pe728006_s4.jpg",
+                "sceneImage": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-he-dai-ge-bai-se__0909638_pe561927_s4.jpg",
+                "secondImage": false,
+                "new": false,
+                "seriesId": "12555",
+                "hasFacet": true,
+                "onlineSalable": true,
+                "hasARModel": false,
+                "hasMoreSize": false,
+                "hasAssemblyService": false,
+                "language": "zh",
+                "labelImage": {},
+                "moreColors": [],
+                "flashSale": false,
+                "productTags": [],
+                "productSubTags": [],
+                "tracking": {
+                    "recReason_var": "similar-product@version-default"
+                },
+                "sheepReasons": [
+                    {
+                        "text": "小件物品收纳",
+                        "type": "TEXT",
+                        "textColor": "#CF7A00"
+                    }
+                ],
+                "labels": [
+                    {
+                        "text": "热卖",
+                        "borderColor": "#E00751",
+                        "backgroundColor": "#E00751",
+                        "textColor": "#FFFFFF",
+                        "source": "RANGE",
+                        "type": "TEXT"
+                    }
+                ],
+                "isIkeaBusiness": false,
+                "isKitchen": false,
+                "seoSlug": "skubb-si-ku-bu-chu-wu-he-dai-ge-bai-se",
+                "parcelEligible": true,
+                "hasThreeDModel": false,
+                "images": [
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-he-dai-ge-bai-se__0711138_pe728006_s4.jpg",
+                        "needPadding": true
+                    },
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-he-dai-ge-bai-se__0948840_pe799306_s4.jpg",
+                        "needPadding": false
+                    }
+                ],
+                "fullDescription": "储物盒带格, 44x34x11 厘米",
+                "appLinkUrl": "/p/90185594?artType=ART",
+                "appLinkUrl$": "ikea://content/pip?id=90185594&type=ART&seriesId=12555",
+                "appLinkUrl$tracking": {
+                    "objectId_var": "90185594",
+                    "objectType_var": "product"
+                },
+                "stockCheckNeeded": true,
+                "priceDisplay": {
+                    "tags": [],
+                    "priceUnit": "",
+                    "currentPrice": 29.99,
+                    "currentPriceColorType": "HEX",
+                    "currentPriceColorHex": "111111",
+                    "originalPriceLineThrough": false
+                },
+                "productFormatId": "901.855.94",
+                "productFullId": "90185594",
+                "displayName": "思库布 储物盒带格"
+            },
+            {
+                "id": "00534644",
+                "globalId": "70534645",
+                "name": "SÄCKKÄRRA 塞克夏劳",
+                "itemType": "ART",
+                "productType": "储物袋",
+                "designText": "灰白/绿色",
+                "measureText": "55x49x19 厘米",
+                "price": {
+                    "currencyCode": "CNY",
+                    "type": "REG",
+                    "regularPrice": 19.99,
+                    "priceUnit": "",
+                    "breathTaking": false,
+                    "hasFamilyCard": false
+                },
+                "image": "https://www.ikea.cn/cn/zh/images/products/saeckkaerra-sai-ke-xia-lao-chu-wu-dai-hui-bai-lu-se__1108846_pe869663_s4.jpg",
+                "sceneImage": "https://www.ikea.cn/cn/zh/images/products/saeckkaerra-sai-ke-xia-lao-chu-wu-dai-hui-bai-lu-se__1108865_pe869673_s4.jpg",
+                "secondImage": false,
+                "new": false,
+                "hasFacet": false,
+                "onlineSalable": true,
+                "hasARModel": false,
+                "hasMoreSize": false,
+                "hasAssemblyService": false,
+                "language": "zh",
+                "labelImage": {},
+                "moreColors": [],
+                "flashSale": false,
+                "productTags": [],
+                "productSubTags": [],
+                "tracking": {
+                    "recReason_var": "similar-product@version-default"
+                },
+                "sheepReasons": [],
+                "labels": [],
+                "isIkeaBusiness": false,
+                "isKitchen": false,
+                "seoSlug": "saeckkaerra-sai-ke-xia-lao-chu-wu-dai-hui-bai-lu-se",
+                "parcelEligible": true,
+                "hasThreeDModel": false,
+                "images": [
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/saeckkaerra-sai-ke-xia-lao-chu-wu-dai-hui-bai-lu-se__1108846_pe869663_s4.jpg",
+                        "needPadding": true
+                    },
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/saeckkaerra-sai-ke-xia-lao-chu-wu-dai-hui-bai-lu-se__1115578_pe872138_s4.jpg",
+                        "needPadding": false
+                    },
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/saeckkaerra-sai-ke-xia-lao-chu-wu-dai-hui-bai-lu-se__1108874_pe869688_s4.jpg",
+                        "needPadding": false
+                    }
+                ],
+                "fullDescription": "储物袋, 55x49x19 厘米",
+                "appLinkUrl": "/p/00534644?artType=ART",
+                "appLinkUrl$": "ikea://content/pip?id=00534644&type=ART",
+                "appLinkUrl$tracking": {
+                    "objectId_var": "00534644",
+                    "objectType_var": "product"
+                },
+                "stockCheckNeeded": true,
+                "priceDisplay": {
+                    "tags": [],
+                    "priceUnit": "",
+                    "currentPrice": 19.99,
+                    "currentPriceColorType": "HEX",
+                    "currentPriceColorHex": "111111",
+                    "originalPriceLineThrough": false
+                },
+                "productFormatId": "005.346.44",
+                "productFullId": "00534644",
+                "displayName": "塞克夏劳 储物袋"
+            },
+            {
+                "id": "20309687",
+                "globalId": "40309686",
+                "name": "STUK 斯图克",
+                "itemType": "ART",
+                "productType": "储物袋",
+                "designText": "白色/灰色",
+                "measureText": "34x51x28 厘米",
+                "price": {
+                    "currencyCode": "CNY",
+                    "type": "REG",
+                    "regularPrice": 59.99,
+                    "priceUnit": "",
+                    "breathTaking": false,
+                    "hasFamilyCard": false
+                },
+                "image": "https://www.ikea.cn/cn/zh/images/products/stuk-si-tu-ke-chu-wu-dai-bai-se-hui-se__0711302_pe728140_s4.jpg",
+                "sceneImage": "https://www.ikea.cn/cn/zh/images/products/stuk-si-tu-ke-chu-wu-dai-bai-se-hui-se__0909362_pe658240_s4.jpg",
+                "secondImage": false,
+                "new": false,
+                "seriesId": "41278",
+                "hasFacet": true,
+                "onlineSalable": true,
+                "hasARModel": false,
+                "hasMoreSize": false,
+                "hasAssemblyService": false,
+                "language": "zh",
+                "labelImage": {},
+                "moreColors": [],
+                "flashSale": false,
+                "productTags": [],
+                "productSubTags": [],
+                "tracking": {
+                    "recReason_var": "similar-product@version-default"
+                },
+                "sheepReasons": [],
+                "labels": [],
+                "isIkeaBusiness": false,
+                "isKitchen": false,
+                "seoSlug": "stuk-si-tu-ke-chu-wu-dai-bai-se-hui-se",
+                "parcelEligible": true,
+                "hasThreeDModel": false,
+                "images": [
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/stuk-si-tu-ke-chu-wu-dai-bai-se-hui-se__0711302_pe728140_s4.jpg",
+                        "needPadding": true
+                    },
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/stuk-si-tu-ke-chu-wu-dai-bai-se-hui-se__0909362_pe658240_s4.jpg",
+                        "needPadding": false
+                    },
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/stuk-si-tu-ke-chu-wu-dai-bai-se-hui-se__0744362_pe743231_s4.jpg",
+                        "needPadding": false
+                    }
+                ],
+                "fullDescription": "储物袋, 34x51x28 厘米",
+                "appLinkUrl": "/p/20309687?artType=ART",
+                "appLinkUrl$": "ikea://content/pip?id=20309687&type=ART&seriesId=41278",
+                "appLinkUrl$tracking": {
+                    "objectId_var": "20309687",
+                    "objectType_var": "product"
+                },
+                "stockCheckNeeded": true,
+                "priceDisplay": {
+                    "tags": [],
+                    "priceUnit": "",
+                    "currentPrice": 59.99,
+                    "currentPriceColorType": "HEX",
+                    "currentPriceColorHex": "111111",
+                    "originalPriceLineThrough": false
+                },
+                "productFormatId": "203.096.87",
+                "productFullId": "20309687",
+                "displayName": "斯图克 储物袋"
+            },
+            {
+                "id": "50472988",
+                "globalId": "00400003",
+                "name": "SKUBB 思库布",
+                "itemType": "ART",
+                "productType": "储物袋",
+                "designText": "深灰色",
+                "measureText": "69x55x19 厘米",
+                "price": {
+                    "currencyCode": "CNY",
+                    "type": "REG",
+                    "regularPrice": 49.99,
+                    "priceUnit": "",
+                    "breathTaking": false,
+                    "hasFamilyCard": false
+                },
+                "image": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-dai-shen-hui-se__0573431_pe667770_s4.jpg",
+                "sceneImage": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-dai-shen-hui-se__0940613_pe795074_s4.jpg",
+                "secondImage": false,
+                "new": false,
+                "seriesId": "12555",
+                "hasFacet": true,
+                "onlineSalable": true,
+                "hasARModel": false,
+                "hasMoreSize": false,
+                "hasAssemblyService": false,
+                "language": "zh",
+                "labelImage": {},
+                "moreColors": [],
+                "flashSale": false,
+                "productTags": [],
+                "productSubTags": [],
+                "tracking": {
+                    "recReason_var": "similar-product@version-default"
+                },
+                "sheepReasons": [],
+                "labels": [],
+                "isIkeaBusiness": false,
+                "isKitchen": false,
+                "seoSlug": "skubb-si-ku-bu-chu-wu-dai-shen-hui-se",
+                "parcelEligible": true,
+                "hasThreeDModel": false,
+                "images": [
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-dai-shen-hui-se__0573431_pe667770_s4.jpg",
+                        "needPadding": true
+                    },
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-dai-shen-hui-se__0940613_pe795074_s4.jpg",
+                        "needPadding": false
+                    },
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-dai-shen-hui-se__0909520_pe667769_s4.jpg",
+                        "needPadding": false
+                    }
+                ],
+                "fullDescription": "储物袋, 69x55x19 厘米",
+                "appLinkUrl": "/p/50472988?artType=ART",
+                "appLinkUrl$": "ikea://content/pip?id=50472988&type=ART&seriesId=12555",
+                "appLinkUrl$tracking": {
+                    "objectId_var": "50472988",
+                    "objectType_var": "product"
+                },
+                "stockCheckNeeded": true,
+                "priceDisplay": {
+                    "tags": [],
+                    "priceUnit": "",
+                    "currentPrice": 49.99,
+                    "currentPriceColorType": "HEX",
+                    "currentPriceColorHex": "111111",
+                    "originalPriceLineThrough": false
+                },
+                "productFormatId": "504.729.88",
+                "productFullId": "50472988",
+                "displayName": "思库布 储物袋"
+            },
+            {
+                "id": "70294990",
+                "globalId": "90294989",
+                "name": "SKUBB 思库布",
+                "itemType": "ART",
+                "productType": "储物袋",
+                "designText": "白色",
+                "measureText": "69x55x19 厘米",
+                "price": {
+                    "currencyCode": "CNY",
+                    "type": "REG",
+                    "regularPrice": 49.99,
+                    "priceUnit": "",
+                    "breathTaking": false,
+                    "hasFamilyCard": false
+                },
+                "image": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-dai-bai-se__0711196_pe728065_s4.jpg",
+                "sceneImage": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-dai-bai-se__0910098_pe559907_s4.jpg",
+                "secondImage": false,
+                "new": false,
+                "seriesId": "12555",
+                "hasFacet": true,
+                "onlineSalable": true,
+                "hasARModel": false,
+                "hasMoreSize": false,
+                "hasAssemblyService": false,
+                "language": "zh",
+                "labelImage": {},
+                "moreColors": [],
+                "flashSale": false,
+                "productTags": [],
+                "productSubTags": [],
+                "tracking": {
+                    "recReason_var": "similar-product@version-default"
+                },
+                "sheepReasons": [],
+                "labels": [],
+                "isIkeaBusiness": false,
+                "isKitchen": false,
+                "seoSlug": "skubb-si-ku-bu-chu-wu-dai-bai-se",
+                "parcelEligible": true,
+                "hasThreeDModel": false,
+                "images": [
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-dai-bai-se__0711196_pe728065_s4.jpg",
+                        "needPadding": true
+                    },
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-dai-bai-se__0677976_ph143444_s4.jpg",
+                        "needPadding": false
+                    }
+                ],
+                "fullDescription": "储物袋, 69x55x19 厘米",
+                "appLinkUrl": "/p/70294990?artType=ART",
+                "appLinkUrl$": "ikea://content/pip?id=70294990&type=ART&seriesId=12555",
+                "appLinkUrl$tracking": {
+                    "objectId_var": "70294990",
+                    "objectType_var": "product"
+                },
+                "stockCheckNeeded": true,
+                "priceDisplay": {
+                    "tags": [],
+                    "priceUnit": "",
+                    "currentPrice": 49.99,
+                    "currentPriceColorType": "HEX",
+                    "currentPriceColorHex": "111111",
+                    "originalPriceLineThrough": false
+                },
+                "productFormatId": "702.949.90",
+                "productFullId": "70294990",
+                "displayName": "思库布 储物袋"
+            },
+            {
+                "id": "20309574",
+                "globalId": "40309573",
+                "name": "STUK 斯图克",
+                "itemType": "ART",
+                "productType": "储物袋",
+                "designText": "白色/灰色",
+                "measureText": "55x51x18 厘米",
+                "price": {
+                    "currencyCode": "CNY",
+                    "type": "REG",
+                    "regularPrice": 59.99,
+                    "priceUnit": "",
+                    "breathTaking": false,
+                    "hasFamilyCard": false
+                },
+                "image": "https://www.ikea.cn/cn/zh/images/products/stuk-si-tu-ke-chu-wu-dai-bai-se-hui-se__0711301_pe728139_s4.jpg",
+                "sceneImage": "https://www.ikea.cn/cn/zh/images/products/stuk-si-tu-ke-chu-wu-dai-bai-se-hui-se__0744343_pe743215_s4.jpg",
+                "secondImage": false,
+                "new": false,
+                "seriesId": "41278",
+                "hasFacet": true,
+                "onlineSalable": true,
+                "hasARModel": false,
+                "hasMoreSize": false,
+                "hasAssemblyService": false,
+                "language": "zh",
+                "labelImage": {},
+                "moreColors": [],
+                "flashSale": false,
+                "productTags": [],
+                "productSubTags": [],
+                "tracking": {
+                    "recReason_var": "similar-product@version-default"
+                },
+                "sheepReasons": [],
+                "labels": [],
+                "isIkeaBusiness": false,
+                "isKitchen": false,
+                "seoSlug": "stuk-si-tu-ke-chu-wu-dai-bai-se-hui-se",
+                "parcelEligible": true,
+                "hasThreeDModel": false,
+                "images": [
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/stuk-si-tu-ke-chu-wu-dai-bai-se-hui-se__0711301_pe728139_s4.jpg",
+                        "needPadding": true
+                    },
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/stuk-si-tu-ke-chu-wu-dai-bai-se-hui-se__0744343_pe743215_s4.jpg",
+                        "needPadding": false
+                    },
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/stuk-si-tu-ke-chu-wu-dai-bai-se-hui-se__0738256_pe741425_s4.jpg",
+                        "needPadding": false
+                    }
+                ],
+                "fullDescription": "储物袋, 55x51x18 厘米",
+                "appLinkUrl": "/p/20309574?artType=ART",
+                "appLinkUrl$": "ikea://content/pip?id=20309574&type=ART&seriesId=41278",
+                "appLinkUrl$tracking": {
+                    "objectId_var": "20309574",
+                    "objectType_var": "product"
+                },
+                "stockCheckNeeded": true,
+                "priceDisplay": {
+                    "tags": [],
+                    "priceUnit": "",
+                    "currentPrice": 59.99,
+                    "currentPriceColorType": "HEX",
+                    "currentPriceColorHex": "111111",
+                    "originalPriceLineThrough": false
+                },
+                "productFormatId": "203.095.74",
+                "productFullId": "20309574",
+                "displayName": "斯图克 储物袋"
+            },
+            {
+                "id": "90504195",
+                "globalId": "20504194",
+                "name": "GÖRSNYGG 约诗诺",
+                "itemType": "ART",
+                "productType": "编织袋，大",
+                "designText": "淡米色",
+                "measureText": "57x37x39 厘米/71 公升",
+                "price": {
+                    "currencyCode": "CNY",
+                    "type": "REG",
+                    "regularPrice": 14.99,
+                    "priceUnit": "",
+                    "breathTaking": false,
+                    "hasFamilyCard": false
+                },
+                "image": "https://www.ikea.cn/cn/zh/images/products/goersnygg-yue-shi-nuo-bian-zhi-dai-da-dan-mi-se__1013442_pe829201_s4.jpg",
+                "sceneImage": "https://www.ikea.cn/cn/zh/images/products/goersnygg-yue-shi-nuo-bian-zhi-dai-da-dan-mi-se__1021487_pe832334_s4.jpg",
+                "secondImage": false,
+                "new": false,
+                "hasFacet": false,
+                "onlineSalable": true,
+                "hasARModel": false,
+                "hasMoreSize": false,
+                "hasAssemblyService": false,
+                "language": "zh",
+                "labelImage": {},
+                "moreColors": [],
+                "flashSale": false,
+                "productTags": [],
+                "productSubTags": [],
+                "tracking": {
+                    "recReason_var": "similar-product@version-default"
+                },
+                "sheepReasons": [],
+                "labels": [],
+                "isIkeaBusiness": false,
+                "isKitchen": false,
+                "seoSlug": "goersnygg-yue-shi-nuo-bian-zhi-dai-da-dan-mi-se",
+                "parcelEligible": true,
+                "hasThreeDModel": false,
+                "images": [
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/goersnygg-yue-shi-nuo-bian-zhi-dai-da-dan-mi-se__1013442_pe829201_s4.jpg",
+                        "needPadding": true
+                    },
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/goersnygg-yue-shi-nuo-bian-zhi-dai-da-dan-mi-se__1021488_pe832329_s4.jpg",
+                        "needPadding": false
+                    },
+                    {
+                        "url": "https://www.ikea.cn/cn/zh/images/products/goersnygg-yue-shi-nuo-bian-zhi-dai-da-dan-mi-se__1021486_pe832328_s4.jpg",
+                        "needPadding": false
+                    }
+                ],
+                "fullDescription": "编织袋，大, 57x37x39 厘米/71 公升",
+                "appLinkUrl": "/p/90504195?artType=ART",
+                "appLinkUrl$": "ikea://content/pip?id=90504195&type=ART",
+                "appLinkUrl$tracking": {
+                    "objectId_var": "90504195",
+                    "objectType_var": "product"
+                },
+                "stockCheckNeeded": true,
+                "priceDisplay": {
+                    "tags": [],
+                    "priceUnit": "",
+                    "currentPrice": 14.99,
+                    "currentPriceColorType": "HEX",
+                    "currentPriceColorHex": "111111",
+                    "originalPriceLineThrough": false
+                },
+                "productFormatId": "905.041.95",
+                "productFullId": "90504195",
+                "displayName": "约诗诺 编织袋，大"
+            }
+        ]
+    }
+]

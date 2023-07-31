@@ -27,9 +27,9 @@
 /* 注意要写在第一行，同时给style标签加入lang="scss"属性 */
 @font-face {
   font-family: "iconfont"; /* Project id 4175460 */
-  src: url('//at.alicdn.com/t/c/font_4175460_orog7hwaivg.woff2?t=1690272752918') format('woff2'),
-       url('//at.alicdn.com/t/c/font_4175460_orog7hwaivg.woff?t=1690272752918') format('woff'),
-       url('//at.alicdn.com/t/c/font_4175460_orog7hwaivg.ttf?t=1690272752918') format('truetype');
+  src: url('//at.alicdn.com/t/c/font_4175460_x2udkdhdz9g.woff2?t=1690440031503') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4175460_x2udkdhdz9g.woff?t=1690440031503') format('woff'),
+       url('//at.alicdn.com/t/c/font_4175460_x2udkdhdz9g.ttf?t=1690440031503') format('truetype');
 }
 .iconfont {
   font-family: "iconfont" !important;
@@ -37,6 +37,15 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+.icon-icon_maisui_you:before {
+  content: "\e650";
+}
+.icon-icon_maisui_zuo:before {
+  content: "\e651";
+}
+.icon-xihuan:before {
+  content: "\e635";
 }
 .icon-yangshi_icon_tongyong_shield:before {
   content: "\e668";
@@ -377,5 +386,8 @@
   height: 0 !important;
   -webkit-appearance: none;
   background: transparent;
+}
+.uni-video-container {
+  background-color: transparent;
 }
 

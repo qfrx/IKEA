@@ -1,0 +1,114 @@
+{
+    "products": [
+        {
+            "id": "10395384",
+            "globalId": "50395382",
+            "name": "PÄRKLA 派克拉",
+            "regularPrice": 9.99,
+            "productType": "储物袋",
+            "designText": "",
+            "measureText": "55x49x19 厘米",
+            "image": "https://www.ikea.cn/cn/zh/images/products/paerkla-pai-ke-la-chu-wu-dai__0716331_pe730816_s4.jpg",
+            "productTags": "7日售出32563件"
+        },
+        {
+            "id": "19440848",
+            "globalId": "09440839",
+            "name": "SAMLA 萨姆拉",
+            "regularPrice": 9.99,
+            "productType": "附盖储物盒",
+            "designText": "透明",
+            "measureText": "28x20x14 厘米/5 公升",
+            "image": "https://www.ikea.cn/cn/zh/images/products/samla-sa-mu-la-fu-gai-chu-wu-he-tou-ming__0711815_pe728494_s4.jpg",
+            "productTags": "7日售出14130件"
+        },
+        {
+            "id": "60180885",
+            "globalId": "70102972",
+            "name": "SAMLA 萨姆拉",
+            "regularPrice": 6.99,
+            "productType": "盒子",
+            "designText": "透明",
+            "measureText": "28x19x14 厘米/5 公升",
+            "image": "https://www.ikea.cn/cn/zh/images/products/samla-sa-mu-la-he-zi-tou-ming__0711017_pe727898_s4.jpg",
+            "productTags": "7日售出5542件"
+        },
+        {
+            "id": "70316181",
+            "globalId": "50316182",
+            "name": "SOCKERBIT 索克比",
+            "regularPrice": 19.99,
+            "productType": "盒",
+            "designText": "白色",
+            "measureText": "19x26x15 厘米",
+            "image": "https://www.ikea.cn/cn/zh/images/products/sockerbit-suo-ke-bi-he-bai-se__0711183_pe728052_s4.jpg",
+            "productTags": "7日售出4729件"
+        },
+        {
+            "id": "49440837",
+            "globalId": "69440836",
+            "name": "SAMLA 萨姆拉",
+            "regularPrice": 24.99,
+            "productType": "附盖储物盒",
+            "designText": "透明",
+            "measureText": "39x28x14 厘米/11 公升",
+            "image": "https://www.ikea.cn/cn/zh/images/products/samla-sa-mu-la-fu-gai-chu-wu-he-tou-ming__0711814_pe728493_s4.jpg",
+            "productTags": "7日售出4297件"
+        },
+        {
+            "id": "30560839",
+            "globalId": "30560839",
+            "name": "BRUKSVARA 布瓦拉",
+            "regularPrice": 14.99,
+            "productType": "储物袋",
+            "designText": "蓝色",
+            "measureText": "62x53x19 厘米",
+            "image": "https://www.ikea.cn/cn/zh/images/products/bruksvara-bu-wa-la-chu-wu-dai-lan-se__1182443_pe897219_s4.jpg",
+            "productTags": "7日售出2873件"
+        },
+        {
+            "id": "60440765",
+            "globalId": "50444783",
+            "name": "UPPSNOFSAD 乌普诺萨",
+            "regularPrice": 5.99,
+            "productType": "储物盒",
+            "designText": "黑色",
+            "measureText": "25x17x12 厘米/3.5 公升",
+            "image": "https://www.ikea.cn/cn/zh/images/products/uppsnofsad-wu-pu-nuo-sa-chu-wu-he-hei-se__0924887_pe788649_s4.jpg",
+            "productTags": "7日售出2635件"
+        },
+        {
+            "id": "00560826",
+            "globalId": "00560826",
+            "name": "BRUKSVARA 布瓦拉",
+            "regularPrice": 14.99,
+            "productType": "储物袋",
+            "designText": "白色",
+            "measureText": "62x53x19 厘米",
+            "image": "https://www.ikea.cn/cn/zh/images/products/bruksvara-bu-wa-la-chu-wu-dai-bai-se__1182447_pe897220_s4.jpg",
+            "productTags": "7日售出2447件"
+        },
+        {
+            "id": "50316064",
+            "globalId": "40316069",
+            "name": "SOCKERBIT 索克比",
+            "regularPrice": 29.99,
+            "productType": "附盖储物盒",
+            "designText": "白色",
+            "measureText": "38x25x15 厘米",
+            "image": "https://www.ikea.cn/cn/zh/images/products/sockerbit-suo-ke-bi-fu-gai-chu-wu-he-bai-se__0711181_pe728050_s4.jpg",
+            "productTags": "7日售出2034件"
+        },
+        {
+            "id": "10180939",
+            "globalId": "40102978",
+            "name": "SAMLA 萨姆拉",
+            "regularPrice": 14.99,
+            "productType": "盒子",
+            "designText": "透明",
+            "measureText": "39x28x14 厘米/11 公升",
+            "image": "https://www.ikea.cn/cn/zh/images/products/samla-sa-mu-la-he-zi-tou-ming__0711010_pe727891_s4.jpg",
+            "productTags": "7日售出1923件"
+        }
+    ]
+}

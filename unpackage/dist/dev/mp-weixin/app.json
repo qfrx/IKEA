@@ -3,7 +3,9 @@
     "pages/home/home",
     "pages/classPages/classPages",
     "pages/indexFind/indexFind",
-    "pages/shopCar/shopCar"
+    "pages/shopCar/shopCar",
+    "pages/classificationAnkings/classificationAnkings",
+    "pages/undifindPage/undifindPage"
   ],
   "subPackages": [],
   "window": {

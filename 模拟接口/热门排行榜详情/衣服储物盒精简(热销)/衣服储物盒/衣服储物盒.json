@@ -1,0 +1,113 @@
+{
+    "products": [
+        {
+            "id": "10395384",
+            "globalId": "50395382",
+            "name": "PÄRKLA 派克拉",
+            "regularPrice": 9.99,
+            "productType": "储物袋",
+            "designText": "",
+            "measureText": "55x49x19 厘米",
+            "image": "https://www.ikea.cn/cn/zh/images/products/paerkla-pai-ke-la-chu-wu-dai__0716331_pe730816_s4.jpg",
+            "productTags": "7日售出32563件"
+        },
+        {
+            "id": "50290361",
+            "globalId": "30290362",
+            "name": "SKUBB 思库布",
+            "regularPrice": 29.99,
+            "productType": "储物袋",
+            "designText": "白色",
+            "measureText": "44x55x19 厘米",
+            "image": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-dai-bai-se__0711176_pe728045_s4.jpg",
+            "productTags": "7日售出3657件"
+        },
+        {
+            "id": "40472984",
+            "globalId": "20399999",
+            "name": "SKUBB 思库布",
+            "regularPrice": 29.99,
+            "productType": "储物袋",
+            "designText": "深灰色",
+            "measureText": "44x55x19 厘米",
+            "image": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-dai-shen-hui-se__0573442_pe667780_s4.jpg",
+            "productTags": "7日售出3439件"
+        },
+        {
+            "id": "30560839",
+            "globalId": "30560839",
+            "name": "BRUKSVARA 布瓦拉",
+            "regularPrice": 14.99,
+            "productType": "储物袋",
+            "designText": "蓝色",
+            "measureText": "62x53x19 厘米",
+            "image": "https://www.ikea.cn/cn/zh/images/products/bruksvara-bu-wa-la-chu-wu-dai-lan-se__1182443_pe897219_s4.jpg",
+            "productTags": "7日售出2873件"
+        },
+        {
+            "id": "00560826",
+            "globalId": "00560826",
+            "name": "BRUKSVARA 布瓦拉",
+            "regularPrice": 14.99,
+            "productType": "储物袋",
+            "designText": "白色",
+            "measureText": "62x53x19 厘米",
+            "image": "https://www.ikea.cn/cn/zh/images/products/bruksvara-bu-wa-la-chu-wu-dai-bai-se__1182447_pe897220_s4.jpg",
+            "productTags": "7日售出2447件"
+        },
+        {
+            "id": "90185594",
+            "globalId": "10185593",
+            "name": "SKUBB 思库布",
+            "regularPrice": 29.99,
+            "productType": "储物盒带格",
+            "designText": "白色",
+            "measureText": "44x34x11 厘米",
+            "image": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-he-dai-ge-bai-se__0711138_pe728006_s4.jpg",
+            "productTags": "7日售出1616件"
+        },
+        {
+            "id": "00472957",
+            "globalId": "40399998",
+            "name": "SKUBB 思库布",
+            "regularPrice": 39.99,
+            "productType": "储物盒，6件套",
+            "designText": "深灰色",
+            "image": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-he-6-jian-tao-shen-hui-se__1188856_pe899592_s4.jpg",
+            "productTags": "7日售出1377件"
+        },
+        {
+            "id": "10566465",
+            "globalId": "10566465",
+            "name": "SKUBB 思库布",
+            "regularPrice": 29.99,
+            "productType": "储物袋",
+            "designText": "紫色",
+            "measureText": "44x55x19 厘米",
+            "image": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-dai-zi-se__1199432_pe904505_s4.jpg",
+            "productTags": "7日售出1283件"
+        },
+        {
+            "id": "50472969",
+            "globalId": "50400005",
+            "name": "SKUBB 思库布",
+            "regularPrice": 29.99,
+            "productType": "储物盒带格",
+            "designText": "深灰色",
+            "measureText": "44x34x11 厘米",
+            "image": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-he-dai-ge-shen-hui-se__0573438_pe667776_s4.jpg",
+            "productTags": "7日售出947件"
+        },
+        {
+            "id": "70504196",
+            "globalId": "40504193",
+            "name": "GÖRSNYGG 约诗诺",
+            "regularPrice": 19.99,
+            "productType": "储物袋",
+            "designText": "白色/透明",
+            "measureText": "55x49x19 厘米",
+            "image": "https://www.ikea.cn/cn/zh/images/products/goersnygg-yue-shi-nuo-chu-wu-dai-bai-se-tou-ming__1013439_pe829198_s4.jpg",
+            "productTags": "7日售出878件"
+        }
+    ]
+}

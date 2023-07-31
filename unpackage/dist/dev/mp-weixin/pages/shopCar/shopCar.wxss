@@ -26,5 +26,207 @@
 /* 文章场景相关 */
 .shopCar {
   width: 100%;
+  padding-top: 120rpx;
+}
+.shopCar .shopCar-bg {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  z-index: -5;
+  width: 100vw;
+  height: 100vh;
+  background-color: #f5f5f5;
+}
+.shopCar .shopCar-title {
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 16;
+  width: 100%;
+  height: 120rpx;
+  margin-bottom: 4rpx;
+  line-height: 120rpx;
+  text-align: center;
+  font-size: 40rpx;
+  font-weight: 700;
+  box-shadow: 0px 0px 5px #ccc;
+  color: #4a4a4a;
+  background-color: #fff;
+}
+.shopCar .shopCar-null {
+  width: 100%;
+  padding-left: 50rpx;
+  padding-top: 140rpx;
+}
+.shopCar .shopCar-null .shopCar-null-title {
+  width: 100%;
+  margin-bottom: 60rpx;
+  font-size: 40rpx;
+  font-weight: 700;
+}
+.shopCar .shopCar-null .shopCar-null-content {
+  width: 100%;
+  margin-bottom: 100rpx;
+  font-size: 24rpx;
+}
+.shopCar .shopCar-null .shopCar-null-btn {
+  width: 400rpx;
+  height: 110rpx;
+  line-height: 110rpx;
+  text-align: center;
+  font-size: 24rpx;
+  color: #fff;
+  background-color: #0058a3;
+  border-radius: 999px;
+}
+.shopCar .shopCar-item {
+  width: 100%;
+  background-color: #fff;
+}
+.shopCar .shopCar-item .shopCar-list {
+  display: flex;
+  align-items: center;
+  padding: 60rpx 40rpx;
+  border-bottom: 2px solid #f5f5f5;
+}
+.shopCar .shopCar-item .shopCar-list .shopCar-list-left {
+  width: 50rpx;
+  height: 50rpx;
+  margin-right: 28rpx;
+  text-align: center;
+  line-height: 50rpx;
+  border-radius: 50%;
+  color: #fff;
+  background-color: #fff;
+  border: 1px solid #000;
+}
+.shopCar .shopCar-item .shopCar-list .shopCar-list-left.active {
+  background-color: #0058a3;
+  border-color: #0058a3;
+}
+.shopCar .shopCar-item .shopCar-list .shopCar-list-center {
+  display: flex;
+  width: 600rpx;
+}
+.shopCar .shopCar-item .shopCar-list .shopCar-list-center .shopCar-list-center-pict {
+  width: 160rpx;
+  height: 160rpx;
+  margin-right: 20rpx;
+}
+.shopCar .shopCar-item .shopCar-list .shopCar-list-center .shopCar-list-center-pict .image {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+.shopCar .shopCar-item .shopCar-list .shopCar-list-center .shopCar-list-center-content {
+  width: 300rpx;
+  margin-right: 60rpx;
+}
+.shopCar .shopCar-item .shopCar-list .shopCar-list-center .shopCar-list-center-content .content-title {
+  max-width: 280rpx;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  margin-bottom: 20rpx;
+  font-size: 28rpx;
+  font-weight: 700;
+}
+.shopCar .shopCar-item .shopCar-list .shopCar-list-center .shopCar-list-center-content .content-describe {
+  max-width: 280rpx;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  font-size: 28rpx;
+  color: #666666;
+}
+.shopCar .shopCar-item .shopCar-list .shopCar-list-center .shopCar-list-center-content .content-price {
+  display: flex;
+  height: 60rpx;
+  margin: 20rpx 0;
+}
+.shopCar .shopCar-item .shopCar-list .shopCar-list-center .shopCar-list-center-content .content-price .num {
+  margin-right: 20rpx;
+  font-size: 32rpx;
+  font-weight: 700;
+}
+.shopCar .shopCar-item .shopCar-list .shopCar-list-center .shopCar-list-center-content .content-price .num-box {
+  display: flex;
+}
+.shopCar .shopCar-item .shopCar-list .shopCar-list-center .shopCar-list-center-content .content-price .num-box .chang-num {
+  width: 50rpx;
+  height: 50rpx;
+  margin: 0;
+  padding: 0;
+  line-height: 50rpx;
+  text-align: center;
+}
+.shopCar .shopCar-item .shopCar-list .shopCar-list-center .shopCar-list-center-content .content-mail {
+  width: 160rpx;
+  height: 50rpx;
+  line-height: 50rpx;
+  text-align: center;
+  font-size: 24rpx;
+  color: #ca5107;
+  background-color: #fbf1ec;
+}
+.shopCar .shopCar-count {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  height: 160rpx;
+  background-color: #fff;
+}
+.shopCar .shopCar-count .shopCar-count-left {
+  width: 50rpx;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.shopCar .shopCar-count .shopCar-count-left .shopCar-count-left-round {
+  width: 50rpx;
+  height: 50rpx;
+  text-align: center;
+  line-height: 50rpx;
+  border-radius: 50%;
+  color: #fff;
+  background-color: #fff;
+  border: 1px solid #000;
+}
+.shopCar .shopCar-count .shopCar-count-left .shopCar-count-left-round.active {
+  background-color: #0058a3;
+  border-color: #0058a3;
+}
+.shopCar .shopCar-count .shopCar-count-left .all {
+  font-size: 24rpx;
+}
+.shopCar .shopCar-count .shopCar-count-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  height: 100%;
+}
+.shopCar .shopCar-count .shopCar-count-center .count-price {
+  font-size: 28rpx;
+  font-weight: 700;
+}
+.shopCar .shopCar-count .shopCar-count-center .count-price .text {
+  font-size: 24rpx;
+  color: #767676;
+}
+.shopCar .shopCar-count .shopCar-count-center .font {
+  font-size: 24rpx;
+  color: #767676;
+}
+.shopCar .shopCar-count .shopCar-count-right {
+  width: 200rpx;
+  height: 100rpx;
+  line-height: 100rpx;
+  text-align: center;
+  border-radius: 999px;
+  background-color: #0058a3;
+  color: #fff;
 }
 

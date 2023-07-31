@@ -19,10 +19,10 @@
 			"path": "pages/classPages/classPages",
 			"style": {
 				"navigationBarTitleText": "uni-app",
-				"navigationStyle": "custom" //清除头部标题
+				"navigationStyle": "custom" 
 			},
 			"app-plus": {
-				"titleView": false //清除头部标题
+				"titleView": false 
 			}
 		},
 		{
@@ -30,10 +30,10 @@
 			"path": "pages/indexFind/indexFind",
 			"style": {
 				"navigationBarTitleText": "uni-app",
-				"navigationStyle": "custom" //清除头部标题
+				"navigationStyle": "custom" 
 			},
 			"app-plus": {
-				"titleView": false //清除头部标题
+				"titleView": false 
 			}
 		},
 		{
@@ -41,24 +41,38 @@
 			"path": "pages/shopCar/shopCar",
 			"style": {
 				"navigationBarTitleText": "uni-app",
-				"navigationStyle": "custom" //清除头部标题
+				"navigationStyle": "custom" 
 			},
 			"app-plus": {
-				"titleView": false //清除头部标题
+				"titleView": false 
 			}
 		}
 	    ,{
+			//排行榜
             "path" : "pages/classificationAnkings/classificationAnkings",
             "style" :                                                                                    
             {
                 "navigationBarTitleText": "",
                 "enablePullDownRefresh": false,
-				"navigationStyle": "custom" //清除头部标题
+				"navigationStyle": "custom" 
             },
 			"app-plus": {
-				"titleView": false //清除头部标题
+				"titleView": false 
 			}
             
+        },
+        {
+        	//没有数据展示页面
+        	"path": "pages/undifindPage/undifindPage",
+        	"style": {
+        		"navigationBarTitleText": "",
+        		"enablePullDownRefresh": false,
+        		"navigationStyle": "custom" 
+        	},
+        	"app-plus": {
+        		"titleView": false 
+        	}
+        
         }
     ],
 	"globalStyle": {

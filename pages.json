@@ -46,8 +46,9 @@
 			"app-plus": {
 				"titleView": false //清除头部标题
 			}
-		}
-	    ,{
+		},
+		{
+			
             "path" : "pages/classificationAnkings/classificationAnkings",
             "style" :                                                                                    
             {
@@ -58,8 +59,17 @@
 			"app-plus": {
 				"titleView": false //清除头部标题
 			}
-            
-        }
+        },
+		{
+			"path": "pages/homeRecent/homeRecent",
+			"style": {
+				"navigationBarTitleText": "uni-app",
+				"navigationStyle": "custom" //清除头部标题
+			},
+			"app-plus": {
+				"titleView": false //清除头部标题
+			}
+		}
     ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",

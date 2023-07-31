@@ -14,7 +14,7 @@
 			<!-- 分类页的区域滚动左侧列表 -->
 			<view class="classPages-box-left">
 				<scroll-view class="scroll-box" scroll-y="true">
-					<view v-for="item in classPagesSideArr" :key="item.id" :class="['scroll-list',{'active':classPagesSideIndex==item.id}]">
+					<view @click="change(item.id)" v-for="item in classPagesSedeContent" :key="item.id" :class="['scroll-list',{'active':classPagesSideID==item.id}]">
 						<view>{{item.name}}</view>
 					</view>
 				</scroll-view>
@@ -25,8 +25,8 @@
 					<view v-for="item in classPagesSedeContent" :key="item.id">
 						<view class="scrollY-box-title">{{item.name}}</view>
 						<view class="scrollY-box-ul">
-							<view v-for="data in item.contentArr" :key="data.id" class="scrollY-box-li">
-								<image class="scrollY-box-li-img" :src="data.imgUrl"></image>
+							<view v-for="data in item.children" :key="data.id" class="scrollY-box-li">
+								<image class="scrollY-box-li-img" :src="data.icon"></image>
 								<view class="scrollY-box-li-title">{{data.name}}</view>
 							</view>
 						</view>
@@ -46,7 +46,10 @@
 				classPagesSideArr:[],
 				// 获取首页底部分类按钮的侧边栏内容的数据
 				classPagesSedeContent:[],
-				classPagesSideIndex:"001",
+				// 首页底部分类按钮的侧边栏的ID
+				classPagesSideID:"st001",
+				// 首页底部分类按钮的侧边栏的文字
+				classPagesSideText:""
 			}
 		},
 		methods:{
@@ -54,8 +57,8 @@
 			async getIndexBottomPagesFun() {
 				try {
 					let res = await getIndexBottomPages()
-					this.classPagesSideArr = res.data.classPageList
-					this.classPagesSedeContent = res.data.classPageListContent
+					// this.classPagesSideArr = res.data.classPageList
+					this.classPagesSedeContent = res.data.classPageList
 					console.log(this.classPagesSedeContent);
 				} catch (err) {
 					uni.showModal({
@@ -63,10 +66,18 @@
 					})
 				}
 			},
+			// 首页底部分类侧边栏的选项卡切换
+			change(id){
+				this.classPagesSideID = id
+				this.classPagesSideText = event.target.innerText
+				console.log(this.classPagesSideText);
+			},
+
+			
 		},
 		onLoad(){
 			this.getIndexBottomPagesFun()
-		}
+		},
 	}
 </script>
 

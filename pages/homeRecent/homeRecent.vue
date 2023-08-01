@@ -106,11 +106,37 @@
 						<view class="homeRecent-content-newStyle-storage-pict-poster">
 							<image class="image" src="../../static/images/storage.webp" mode=""></image>
 						</view>
+						<view class="homeRecent-content-newStyle-storage-pict-waterfall">
+							<view class="homeRecent-content-newStyle-storage-pict-waterfall-left waterfall-box">
+								<image class="image_small" src="../../static/images/灵巧收纳_1.webp" mode=""></image>
+								<image class="image_big" src="../../static/images/灵巧收纳_2.webp" mode=""></image>
+							</view>
+							<view class="homeRecent-content-newStyle-storage-pict-waterfall-right waterfall-box">
+								<image class="image_big" src="../../static/images/灵巧收纳_3.webp" mode=""></image>
+								<image class="image_small" src="../../static/images/灵巧收纳_4.webp" mode=""></image>
+							</view>
+						</view>
 					</view>
-					<!-- <view class="homeRecent-content-newStyle-sleep-bottom">
+					<view class="homeRecent-content-newStyle-sleep-bottom">
 						<view class="title-left">查看更多系列产品</view>
 						<i class="iconfont icon-sousuo"></i>
-					</view> -->
+					</view>
+				</view>
+				<view class="homeRecent-content-newStyle-morestorage">
+					<view v-for="item in 15" class="homeRecent-content-newStyle-morestorage-list">
+						<image class="image" src="../../static/images/more_storage.png" mode=""></image>
+						<view class="homeRecent-content-newStyle-morestorage-new">新品</view>
+						<view class="homeRecent-content-newStyle-morestorage-title">DOMSTEN 多姆斯坦</view>
+						<view class="homeRecent-content-newStyle-morestorage-style">
+							<view>被套和两个枕套</view>
+							<view>200x230/50x80厘米</view>
+						</view>
+						<view class="homeRecent-content-newStyle-morestorage-price">
+							<text>¥</text>
+							<text class="price">199</text>
+							<text>.00</text>
+						</view>
+					</view>
 				</view>
 			</view>
 		</view>
@@ -450,22 +476,90 @@
 								height: 100%;
 							}
 						}
+						.homeRecent-content-newStyle-storage-pict-waterfall {
+							display: flex;
+							justify-content: space-between;
+							width: 100%;
+							.waterfall-box {
+								display: flex;
+								flex-direction: column;
+								width: 326rpx;
+								.image_small {
+									display: block;
+									width: 326rpx;
+									height: 326rpx;
+									margin-bottom: 20rpx;
+								}
+								.image_big {
+									display: block;
+									width: 326rpx;
+									height: 440rpx;
+									margin-bottom: 20rpx;
+								}
+							}
+						}
 					}
-					// .homeRecent-content-newStyle-sleep-bottom {
-					// 	display: flex;
-					// 	justify-content: space-between;
-					// 	align-items: center;
-					// 	width: 100%;
-					// 	height: 120rpx;
-					// 	.title-left {
-					// 		font-size: 36rpx;
-					// 		font-weight: 700;
-					// 	}
-					// 	.iconfont {
-					// 		font-size: 36rpx;
-					// 		font-weight: 700;
-					// 	}
-					// }
+					.homeRecent-content-newStyle-sleep-bottom {
+						display: flex;
+						justify-content: space-between;
+						align-items: center;
+						width: 100%;
+						height: 120rpx;
+						.title-left {
+							font-size: 36rpx;
+							font-weight: 700;
+						}
+						.iconfont {
+							font-size: 36rpx;
+							font-weight: 700;
+						}
+					}
+				}
+				.homeRecent-content-newStyle-morestorage {
+					display: flex;
+					width: 100%;
+					margin-bottom: 160rpx;
+					overflow: auto;
+					.homeRecent-content-newStyle-morestorage-list {
+						width: 280rpx;
+						margin-right: 40rpx;
+						.image {
+							width: 100%;
+							height: 280rpx;
+							display: block;
+						}
+						.homeRecent-content-newStyle-morestorage-new {
+							width: 60rpx;
+							height: 40rpx;
+							margin-bottom: 20rpx;
+							line-height: 40rpx;
+							text-align: center;
+							font-size: 24rpx;
+							background-color: #ca5107;
+							color: #fff;
+						}
+						.homeRecent-content-newStyle-morestorage-title {
+							max-width: 280rpx;
+							margin-bottom: 20rpx;
+							font-weight: 700;
+							font-size: 28rpx;
+							white-space: nowrap;
+							text-overflow: ellipsis;
+							overflow: hidden;
+						}
+						.homeRecent-content-newStyle-morestorage-style {
+							margin-bottom: 20rpx;
+							font-size: 24rpx;
+							color: #6a6a6a;
+						}
+						.homeRecent-content-newStyle-morestorage-price {
+							font-weight: 700;
+							font-size: 24rpx;
+							.price {
+								font-size: 36rpx;
+							}
+						}
+					}
 				}
 			}
 		}

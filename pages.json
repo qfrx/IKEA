@@ -46,28 +46,22 @@
 			"app-plus": {
 				"titleView": false 
 			}
-<<<<<<< HEAD
 		},
 		{
-			
-=======
-		}
-	    ,{
 			//排行榜
->>>>>>> c9d1a2cee6720e97f9fd424e3f24868e02a4e106
-            "path" : "pages/classificationAnkings/classificationAnkings",
-            "style" :                                                                                    
-            {
-                "navigationBarTitleText": "",
-                "enablePullDownRefresh": false,
+			"path" : "pages/classificationAnkings/classificationAnkings",
+			"style" :                                                                                    
+			{
+			    "navigationBarTitleText": "",
+			    "enablePullDownRefresh": false,
 				"navigationStyle": "custom" 
-            },
+			},
 			"app-plus": {
 				"titleView": false 
 			}
-<<<<<<< HEAD
-        },
+		},
 		{
+			// 首页近期推进的一个板块
 			"path": "pages/homeRecent/homeRecent",
 			"style": {
 				"navigationBarTitleText": "uni-app",
@@ -76,24 +70,19 @@
 			"app-plus": {
 				"titleView": false //清除头部标题
 			}
+		},
+		{
+			//没有数据展示页面
+			"path": "pages/undifindPage/undifindPage",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom" 
+			},
+			"app-plus": {
+				"titleView": false 
+			}
 		}
-=======
-            
-        },
-        {
-        	//没有数据展示页面
-        	"path": "pages/undifindPage/undifindPage",
-        	"style": {
-        		"navigationBarTitleText": "",
-        		"enablePullDownRefresh": false,
-        		"navigationStyle": "custom" 
-        	},
-        	"app-plus": {
-        		"titleView": false 
-        	}
-        
-        }
->>>>>>> c9d1a2cee6720e97f9fd424e3f24868e02a4e106
     ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",

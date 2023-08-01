@@ -81,11 +81,11 @@
 					<i class="iconfont icon-yangshi_icon_tongyong_shield" :style="{'color':numBgColor[index]}"></i>
 					<text class="num">{{index + 1}}</text>
 				</div> -->
-				<div class="swiper">
+				<view class="swiper" v-if="item.product">
 					<u-swiper type="image" :list="item.product.sources" keyName="sourceImages" :autoplay="false"
-						circular indicator="true" indicatorMode="dot" indicatorInactiveColor="#ffffffab" :indicatorStyle="{'left':'10px','bottom':'10px'}" imgMode="scaleToFill"
+						circular :indicator="true" indicatorMode="dot" indicatorInactiveColor="#ffffffab" :indicatorStyle="{'left':'10px','bottom':'10px'}" imgMode="scaleToFill"
 						height="180px"></u-swiper>
-				</div>
+				</view>
 
 
 				<!-- <i class="iconfont icon-jiantou1"></i> -->
@@ -109,7 +109,7 @@
 				headerBgColor: "#ad4646", //当前头部背景色
 				loading: true, //骨架屏开关
 				subTitle: '', //选择商品种类
-				rankingTypeDesc: "心宜榜", //榜单种类
+				rankingTypeDesc: "热销榜", //榜单种类
 				rankList: [], //热销榜数据
 				loadingRowNum: 10, // 骨架屏数量
 				numBgColor: ['#ffdb00', '#bfbfbf', '#fd9d40', '#0058a3', '#0058a3'], //排名颜色
@@ -207,6 +207,7 @@
 		left: 0;
 		padding: 10px 0 10px 10px;
 		z-index: 999;
+		transition: all, 1.5s;
 
 		.iconfont {
 			font-size: 20px;

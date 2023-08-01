@@ -20,10 +20,10 @@
 	.uni-video-container {
 		background-color: transparent;
 	}
-	.u-skeleton__wrapper__content__rows{
-		&:nth-child(3){
-			width: 25% !important;
-		}
-	}
+	// .u-skeleton__wrapper__content__rows{
+	// 	&:nth-child(3){
+	// 		width: 25% !important;
+	// 	}
+	// }
 
 </style>

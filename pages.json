@@ -46,9 +46,15 @@
 			"app-plus": {
 				"titleView": false 
 			}
+<<<<<<< HEAD
+		},
+		{
+			
+=======
 		}
 	    ,{
 			//排行榜
+>>>>>>> c9d1a2cee6720e97f9fd424e3f24868e02a4e106
             "path" : "pages/classificationAnkings/classificationAnkings",
             "style" :                                                                                    
             {
@@ -59,6 +65,19 @@
 			"app-plus": {
 				"titleView": false 
 			}
+<<<<<<< HEAD
+        },
+		{
+			"path": "pages/homeRecent/homeRecent",
+			"style": {
+				"navigationBarTitleText": "uni-app",
+				"navigationStyle": "custom" //清除头部标题
+			},
+			"app-plus": {
+				"titleView": false //清除头部标题
+			}
+		}
+=======
             
         },
         {
@@ -74,6 +93,7 @@
         	}
         
         }
+>>>>>>> c9d1a2cee6720e97f9fd424e3f24868e02a4e106
     ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",

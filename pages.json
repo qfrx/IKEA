@@ -46,33 +46,20 @@
 			"app-plus": {
 				"titleView": false
 			}
-<<<<<<< HEAD
-
-		}, {
+		},
+		{
 			//排行榜
 			"path": "pages/classificationAnkings/classificationAnkings",
 			"style": {
 				"navigationBarTitleText": "",
 				"enablePullDownRefresh": false,
 				"navigationStyle": "custom"
-=======
-		},
-		{
-			//排行榜
-			"path" : "pages/classificationAnkings/classificationAnkings",
-			"style" :                                                                                    
-			{
-			    "navigationBarTitleText": "",
-			    "enablePullDownRefresh": false,
-				"navigationStyle": "custom" 
->>>>>>> 711c824394525d34103cf799df56243df8f90274
 			},
 			"app-plus": {
 				"titleView": false
 			}
 		},
 		{
-			// 首页近期推进的一个板块
 			"path": "pages/homeRecent/homeRecent",
 			"style": {
 				"navigationBarTitleText": "uni-app",
@@ -81,32 +68,22 @@
 			"app-plus": {
 				"titleView": false //清除头部标题
 			}
+
 		},
 		{
-<<<<<<< HEAD
-		//没有数据展示页面
-		"path": "pages/undifindPage/undifindPage",
-		"style": {
-			"navigationBarTitleText": "",
-			"enablePullDownRefresh": false,
-			"navigationStyle": "custom"
-		},
-		"app-plus": {
-			"titleView": false
-		}
-=======
 			//没有数据展示页面
 			"path": "pages/undifindPage/undifindPage",
 			"style": {
 				"navigationBarTitleText": "",
 				"enablePullDownRefresh": false,
-				"navigationStyle": "custom" 
+				"navigationStyle": "custom"
 			},
 			"app-plus": {
-				"titleView": false 
+				"titleView": false
 			}
+
 		}
-    ],
+	],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
 		"navigationBarTitleText": "uni-app",
@@ -114,32 +91,12 @@
 		"backgroundColor": "#F8F8F8"
 	},
 	"uniIdRouter": {},
-	"condition" : { //模式配置，仅开发期间生效
+	"condition": { //模式配置，仅开发期间生效
 		"current": 0, //当前激活的模式(list 的索引项)
-		"list": [
-			{
-				"name": "", //模式名称
-				"path": "pages/indexFind/indexFind", //启动页面，必选
-				"query": "" //启动参数，在页面的onLoad函数里面得到
-			}
-		]
->>>>>>> 711c824394525d34103cf799df56243df8f90274
+		"list": [{
+			"name": "", //模式名称
+			"path": "pages/indexFind/indexFind", //启动页面，必选
+			"query": "" //启动参数，在页面的onLoad函数里面得到
+		}]
 	}
-
-],
-"globalStyle": {
-	"navigationBarTextStyle": "black",
-	"navigationBarTitleText": "uni-app",
-	"navigationBarBackgroundColor": "#F8F8F8",
-	"backgroundColor": "#F8F8F8"
-},
-"uniIdRouter": {},
-"condition": { //模式配置，仅开发期间生效
-	"current": 0, //当前激活的模式(list 的索引项)
-	"list": [{
-		"name": "", //模式名称
-		"path": "pages/indexFind/indexFind", //启动页面，必选
-		"query": "" //启动参数，在页面的onLoad函数里面得到
-	}]
-}
 }

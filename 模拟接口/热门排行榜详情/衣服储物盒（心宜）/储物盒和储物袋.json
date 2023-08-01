@@ -1,0 +1,537 @@
+{
+    "products": [
+        {
+            "product": {
+                "id": "10395384",
+                "globalId": "50395382",
+                "name": "PÄRKLA 派克拉",
+                "productType": "储物袋",
+                "designText": "",
+                "measureText": "55x49x19 厘米",
+                "breathTaking": true,
+                "regularPrice": 9.99,
+                "image": "https://www.ikea.cn/cn/zh/images/products/paerkla-pai-ke-la-chu-wu-dai__0716331_pe730816_s4.jpg",
+                "labels": [
+                    {
+                        "text": "热卖",
+                        "borderColor": "#E00751",
+                        "backgroundColor": "#E00751",
+                        "textColor": "#FFFFFF"
+                    }
+                ],
+                "sources": [
+                    {
+                        "sourceId": "c42672e2-1377-4bd2-9c9c-d6cc31c0846c",
+                        "sourceDescription": "",
+                        "sourceImages": [
+                            "https://file.app.ikea.cn/u/ODBCN627-5980-3335-8967-0778Z0000000/20220814/af7573a8f6a84cbda726c7e5bce68223.jpg"
+                        ]
+                    },
+                    {
+                        "sourceId": "be1768ca-c205-446d-91dd-e5652d593854",
+                        "sourceDescription": "很中意的一款收纳袋！容量很大！放羽绒衣、棉被妥妥的！",
+                        "sourceImages": [
+                            "https://file.app.ikea.cn/u/ECE8AE8E-A05B-11e8-A30A-005056931D59/20220812/61d371617ce6451ca7380e0ecbaee689.jpeg"
+                        ]
+                    },
+                    {
+                        "sourceId": "6cd6ffd4-ea57-4c55-96e5-75f08a682b1d",
+                        "sourceDescription": "衣柜空间不足？这些合成纤维的拉链储物件结实耐用，适合收纳衣服、床单和毛巾，方便取用；而且尺寸紧凑，可轻松存放在床下或橱柜顶。",
+                        "sourceImages": [
+                            "https://file.app.ikea.cn/imported/20210824/8adb39a24bde13e968f010e6eddec13c39a0b8d9.jpg"
+                        ]
+                    },
+                    {
+                        "sourceId": "f09e9b58-740c-4f70-a0b2-a43b71516174",
+                        "sourceDescription": "十元不到的派克拉储物袋，肚量非凡，表面防潮防水，过季的衣服鞋子、闲置的运动器材都能用它塞在床下或挂在墙上。",
+                        "sourceImages": [
+                            "https://res.app.ikea.cn/content/u/20221115/8482bb50345d4d09a70d7f224973f1c5.jpg"
+                        ]
+                    },
+                    {
+                        "sourceId": "e0aeb887-45ff-40b5-bf07-c222de118edf",
+                        "sourceDescription": "家里的空间有限，所以多时是叠放衣服，用宜家的各种收纳袋搭配使用也是很整齐的，就是换季的时候需要抽出一天时间替换衣服\uD83D\uDE05",
+                        "sourceImages": [
+                            "https://file.app.ikea.cn/u/ODBCN627-5980-3341-5920-2836Z0000000/20230706/be2d5adc8c2d41128e71b037bdfa66eb.jpeg"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "product": {
+                "id": "60180885",
+                "globalId": "70102972",
+                "name": "SAMLA 萨姆拉",
+                "productType": "盒子",
+                "designText": "透明",
+                "measureText": "28x19x14 厘米/5 公升",
+                "breathTaking": false,
+                "regularPrice": 6.99,
+                "image": "https://www.ikea.cn/cn/zh/images/products/samla-sa-mu-la-he-zi-tou-ming__0711017_pe727898_s4.jpg",
+                "labels": [],
+                "sources": [
+                    {
+                        "sourceId": "23ea55c1-cf9a-4ee8-ada5-280d834f31fd",
+                        "sourceDescription": "",
+                        "sourceImages": [
+                            "https://file.app.ikea.cn/u/CIAM58e5-03f2-50d3-9bdd-2ae81ba0d7a9/20230301/8ae36bee89f6468c827363e2256fbd2a.jpeg"
+                        ]
+                    },
+                    {
+                        "sourceId": "1e67f0d2-d89f-4f08-b7d0-94111c971865",
+                        "sourceDescription": "",
+                        "sourceImages": [
+                            "https://file.app.ikea.cn/u/5C6B335B-6798-11ea-977A-0050569352F9/20211201/756ed984983e4b3e8957853f91fbcf52.jpeg"
+                        ]
+                    },
+                    {
+                        "sourceId": "1c75377d-fdb9-46c9-9076-6d3de209e626",
+                        "sourceDescription": "",
+                        "sourceImages": [
+                            "https://file.app.ikea.cn/u/4DA4B10B-D157-11ea-85E0-005056931D59/20230322/cebd2ad72654487d90b9902fabf642f3.jpeg"
+                        ]
+                    },
+                    {
+                        "sourceId": "05bef50e-5abe-4449-91fc-bffdd73b1507",
+                        "sourceDescription": "买了好几次，每次都买几个，放厨房的小件十分方便，萨姆拉的各种尺寸一起搭配也好用！",
+                        "sourceImages": [
+                            "https://file.app.ikea.cn/u/887BADDA-EE03-11ea-97E4-005056931D59/20220104/30a2e9c3fa4e439896f25a6021eec601.jpeg"
+                        ]
+                    },
+                    {
+                        "sourceId": "ff82ee3f-8845-4f19-9c8f-334297ce6a15",
+                        "sourceDescription": "买的时候只当一个普普通通收纳盒来买的拿到手之后，发现质量非常得好，而且在里面放什么东西都一目了然能够很清楚地找到自己需要的东西。",
+                        "sourceImages": [
+                            "https://file.app.ikea.cn/u/CIAM3e02-d2f5-4070-bfaf-fa20c6909129/20220816/e1d69e2b87b04c5ea289174fa70b596e.jpeg"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "product": {
+                "id": "70316181",
+                "globalId": "50316182",
+                "name": "SOCKERBIT 索克比",
+                "productType": "盒",
+                "designText": "白色",
+                "measureText": "19x26x15 厘米",
+                "regularPrice": 19.99,
+                "breathTaking": false,
+                "image": "https://www.ikea.cn/cn/zh/images/products/sockerbit-suo-ke-bi-he-bai-se__0711183_pe728052_s4.jpg",
+                "labels": [
+                    {
+                        "text": "热卖",
+                        "borderColor": "#E00751",
+                        "backgroundColor": "#E00751",
+                        "textColor": "#FFFFFF"
+                    }
+                ],
+                "sources": [
+                    {
+                        "sourceId": "e2a4f234-57fe-4f96-8b1d-af53abeb87b9",
+                        "sourceDescription": "这个盒子果然实用，给毕利书柜放在门厅当收纳柜正好。开始买了四个不够，又补货了两次，最后买了整整20个终于补齐，光储物盒花了400块！但是宜家那个标签一直没货就没贴标。家里大大小小家具物品全是宜家，连一颗螺丝都是宜家的，非常热衷宜家产品，只不过线下买的多线上买的经常忘晒单。",
+                        "sourceImages": [
+                            "https://file.app.ikea.cn/u/ODBCN627-5980-3330-2917-9216Z0000000/20220428/146af52b5c4542c4b61890b4f069c5e3.jpeg"
+                        ]
+                    },
+                    {
+                        "sourceId": "28ac70b2-1162-413f-b30b-5f8b4b7943d0",
+                        "sourceDescription": "自从把他们带回小家，家就有了爱的味道，人性化的设计，超强的质感，简单大方又不失优雅，跟你们说句悄悄话：我爱上了宜家。",
+                        "sourceImages": [
+                            "https://file.app.ikea.cn/u/CIAM9812-13a7-4ba2-9237-c508615f0675/20230410/b13b7c5ae3074dd8ac38a434e4974a53.jpeg"
+                        ]
+                    },
+                    {
+                        "sourceId": "8c372ea3-116c-4c1b-83e0-a42e2fe0914b",
+                        "sourceDescription": "1.节省空间：收纳盒可以将杂乱无章的桌面整理得井井有条，摆放更加紧凑，从而节省空间。\n2.方便使用：使用收纳盒可以使您更加方便地找到所需物品，避免了在杂乱的茶几寻找物品的困扰。\n3.保持清洁：使用收纳盒可以让房间更加整洁有序，减少灰尘的附着，易于保持清洁。",
+                        "sourceImages": [
+                            "https://file.app.ikea.cn/u/CIAM9812-13a7-4ba2-9237-c508615f0675/20230614/b459238bcc164f409fac671ba67ddd97.jpeg"
+                        ]
+                    },
+                    {
+                        "sourceId": "56d0ebdc-1e01-4017-825e-804123758c94",
+                        "sourceDescription": "这款白色储物盒配有扣盖，可阻隔灰尘和污垢。在储物盒外标记存放的物品，方便查找。所有SOCKERBIT 索克比 储物盒和盖子均采用部分回收的耐用塑料制成。",
+                        "sourceImages": [
+                            "https://res.app.ikea.cn/content/u/20221117/4e112e408f2044e3b38cd008adfec282.png"
+                        ]
+                    },
+                    {
+                        "sourceId": "4d7844ee-035d-4317-a58b-623eb81a11f0",
+                        "sourceDescription": "每一次清扫，也是自我治愈的过程。通过清扫和整理房间，让家更干净，让自己和生活变得井井有条，同时，也可以让你更了解你的家，和家里的物品产生更强的情感连接。清扫完成的时候，你也会充满愉悦与成就感。\n\n>为大扫除行动做一个简单的计划，方便你提前分配打扫各个房间的时间；\n>播放你的私藏歌单或是有趣的有声书，让清扫时光更加愉悦；\n>戴上手套保护好双手，选择合适的清洁用品，按照从上到下，从里到外的次序进行清扫整理；\n> 清扫任务结束时，给自己一点小小的犒劳！一杯鲜榨果汁，或是一份甜品，恢复消耗的能量。\n\n",
+                        "sourceImages": [
+                            "https://res.app.ikea.cn/content/u/20230110/64d52474404d4e1a92eef0d4394b154e.jpg"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "product": {
+                "id": "70104462",
+                "globalId": "30064849",
+                "name": "VESSLA 维斯勒",
+                "productType": "附脚轮储物箱",
+                "designText": "白色",
+                "measureText": "39x39 厘米",
+                "regularPrice": 34.99,
+                "breathTaking": false,
+                "image": "https://www.ikea.cn/cn/zh/images/products/vessla-wei-si-le-fu-jiao-lun-chu-wu-xiang-bai-se__0534885_pe649302_s4.jpg",
+                "labels": [],
+                "sources": [
+                    {
+                        "sourceId": "05CB7042-56DA-4726-9C2BBD852A669E54",
+                        "sourceDescription": "从优质睡眠开始给宝贝专属宠爱",
+                        "sourceImages": [
+                            "https://res.app.ikea.cn/inspiration/05CB7042-56DA-4726-9C2BBD852A669E54.jpg?v=1"
+                        ]
+                    },
+                    {
+                        "sourceId": "76161695-7C80-4258-8BC9FA2638F489AC",
+                        "sourceDescription": "这款5件套海洋动物毛绒玩具造型小巧，可以陪伴孩子们踏上激动人心的冒险之旅。大小刚好适合放入背包或口袋中。",
+                        "sourceImages": [
+                            "https://res.app.ikea.cn/content/u/20220922/76a9618ad0694b9d9990ab7fa26752fa.png"
+                        ]
+                    },
+                    {
+                        "sourceId": "c99f6b93-17bc-4e48-8afa-6dbb860a7c32",
+                        "sourceDescription": "小朋友玩具太多了，在宜家买了收纳箱。质量好。没有气味。小朋友手接触放心，放在家里超级好看，态爱宜家了，希望宜家开到家门口来。",
+                        "sourceImages": [
+                            "https://file.app.ikea.cn/u/B8601E9F-474A-11eb-ADEA-005056931D59/20230517/20c351021b85491f8713c45cfb5305fc.jpeg"
+                        ]
+                    },
+                    {
+                        "sourceId": "bfd19da7-d545-4f4f-96fc-6d5f4b8e026f",
+                        "sourceDescription": "",
+                        "sourceImages": [
+                            "https://file.app.ikea.cn/u/ODBCN627-5980-3364-1575-9434Z0000000/20211216/372be8a78dc145e4b52db30abc22b582.jpg"
+                        ]
+                    },
+                    {
+                        "sourceId": "19291644-a190-4502-9f67-c2d3f3f8c6ee",
+                        "sourceDescription": "",
+                        "sourceImages": [
+                            "https://file.app.ikea.cn/u/3A052AF6-5DE6-11eb-869A-005056931D59/20220411/deb0dca05d0747938c6904024d95886e.jpeg"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "product": {
+                "id": "30177257",
+                "globalId": "30155019",
+                "name": "VARIERA 瓦瑞拉",
+                "productType": "盒子",
+                "designText": "白色",
+                "measureText": "24x17 厘米",
+                "regularPrice": 19.99,
+                "breathTaking": false,
+                "image": "https://www.ikea.cn/cn/zh/images/products/variera-wa-rui-la-he-zi-bai-se__0113067_pe265130_s4.jpg",
+                "labels": [],
+                "sources": [
+                    {
+                        "sourceId": "3275a9c1-0e58-45ad-934a-61cfb66ea1eb",
+                        "sourceDescription": "这个收纳盒真是太好用了，外表干净清爽，放在哪里都白搭，深度也很合适，收纳效果好",
+                        "sourceImages": [
+                            "https://file.app.ikea.cn/u/DBA48B90-122E-11e9-B234-005056931D59/20211211/d3d5cf36d13048af964e97f0c3350bbb.jpeg"
+                        ]
+                    },
+                    {
+                        "sourceId": "b4d89736-0c7e-41a1-a599-230d98bce70a",
+                        "sourceDescription": "灵感无处不在\n收纳盒可以种花种草种仙人掌绿箩\n做一个宽面的白色花盆\n好看吗？",
+                        "sourceImages": [
+                            "https://file.app.ikea.cn/u/4644EE71-BB9E-11ea-80C8-005056930470/20230412/875ac4ff0cc94d78bd49f19705f1f40f.jpeg"
+                        ]
+                    },
+                    {
+                        "sourceId": "E2F3CFBF-E810-48F8-80FE61F25D0A89EC",
+                        "sourceDescription": "",
+                        "sourceImages": [
+                            "https://res.app.ikea.cn/content/u/20220812/f167dc449a8f40c9b657b8546b35f031.png"
+                        ]
+                    },
+                    {
+                        "sourceId": "9e59af15-2f33-4cf4-aa9f-42c112da7f12",
+                        "sourceDescription": "餐厅和厨房的过渡区域，一整排的储物柜很吸睛。整个厨房柜体都是选择宜家全屋设计，收纳了嘿姐家50%的杂物，甚至将冰箱也完美融入。可调节的搁板搭配储物盒，让囤货体验更灵活，再也不用担心买太多东西没地方放了。\n——他们的家\n岛台下方的柜子同样采用了添加内抽的思路。收纳完碗碟后，空余空间不要浪费。增加个薄抽屉，配合餐具收纳盘，既符合拿取的便利，也充分利用了每寸空间。\n常用的厨房用具，用洞洞板收纳在随手可取的地方，使用更加方便。\n——他们的家",
+                        "sourceImages": [
+                            "https://res.app.ikea.cn/content/u/20230217/5abff1d647d04b0387734d885d12eaab.jpg"
+                        ]
+                    },
+                    {
+                        "sourceId": "7918443d-2e5c-4996-b0d3-97e4407b682b",
+                        "sourceDescription": "喜欢宜家很多年了\n第一次接触宜家是在上海\n当时有位朋友喜欢买家具\n也喜欢收藏古董家具\n但是我发现在这位朋友家里总会有宜家的家具配搭着\n\n后来我明白了\n越是简单的设计\n其实里面的智慧是不简单的\n化繁为简\n物尽其用 \n真是一件美事",
+                        "sourceImages": [
+                            "https://file.app.ikea.cn/u/4644EE71-BB9E-11ea-80C8-005056930470/20230422/6dc16c641dcd49929b9f6eff51e9f2e6.jpeg"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "product": {
+                "id": "50316064",
+                "globalId": "40316069",
+                "name": "SOCKERBIT 索克比",
+                "productType": "附盖储物盒",
+                "designText": "白色",
+                "measureText": "38x25x15 厘米",
+                "regularPrice": 29.99,
+                "breathTaking": false,
+                "image": "https://www.ikea.cn/cn/zh/images/products/sockerbit-suo-ke-bi-fu-gai-chu-wu-he-bai-se__0711181_pe728050_s4.jpg",
+                "labels": [],
+                "sources": [
+                    {
+                        "sourceId": "BB7B2366-5446-4D6A-960FC82860392222",
+                        "sourceDescription": "梦幻的收纳空间",
+                        "sourceImages": [
+                            "https://res.app.ikea.cn/content/u/20211202/d3026136b2f44adb9dbcbad31e40baf6.png"
+                        ]
+                    },
+                    {
+                        "sourceId": "2571A0E9-248F-4544-AD44CE08417ACE03",
+                        "sourceDescription": "培养孩子的收纳能力",
+                        "sourceImages": [
+                            "https://res.app.ikea.cn/content/u/20220707/d70c0de44ddd450badaa8f01c3302d7f.png"
+                        ]
+                    },
+                    {
+                        "sourceId": "679dd5d3-906a-4659-9b42-0a1ccc79ec12",
+                        "sourceDescription": "小众的家居产品更显个性！Zoe很喜欢小众家居产品，卧室的绝版安奇搁架是她的心头好，搁物架上摆上自己喜欢的物件，四屉柜与开放式衣柜巧妙组合成为了独特又方便的衣物收纳区域，整洁又治愈；在床头放上台灯和香薰，为自己营造舒适的睡眠环境。",
+                        "sourceImages": [
+                            "https://res.app.ikea.cn/content/u/20230419/19c1895a259146fca9dce760a070c443.jpg"
+                        ]
+                    },
+                    {
+                        "sourceId": "56d0ebdc-1e01-4017-825e-804123758c94",
+                        "sourceDescription": "这款白色储物盒配有扣盖，可阻隔灰尘和污垢。在储物盒外标记存放的物品，方便查找。所有SOCKERBIT 索克比 储物盒和盖子均采用部分回收的耐用塑料制成。",
+                        "sourceImages": [
+                            "https://res.app.ikea.cn/content/u/20221117/c9c6c2b2fb8b4355bca3564e03a3a0a0.png"
+                        ]
+                    },
+                    {
+                        "sourceId": "51ebd36b-b5da-4f6f-a5d9-9eb05bdfd66f",
+                        "sourceDescription": "放在以前买的架子上，瞬间告别凌乱 ，推荐",
+                        "sourceImages": [
+                            "https://file.app.ikea.cn/u/AA2D2512-C3CC-11e9-8AE8-0050569352F9/20230410/ec0e7b4c80c146e5802b9046f8d04ae6.jpeg"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "product": {
+                "id": "10411534",
+                "globalId": "20411524",
+                "name": "SOCKERBIT 索克比",
+                "productType": "附盖储物盒",
+                "designText": "白色",
+                "measureText": "50x77x19 厘米",
+                "regularPrice": 99.99,
+                "breathTaking": false,
+                "image": "https://www.ikea.cn/cn/zh/images/products/sockerbit-suo-ke-bi-fu-gai-chu-wu-he-bai-se__0662633_pe712054_s4.jpg",
+                "labels": [],
+                "sources": [
+                    {
+                        "sourceId": "dfc882b2-c67d-4ac9-b5a9-16d5f99bea0c",
+                        "sourceDescription": "SOCKERBIT索克比床底储物盒保护你的衣物、被子和任意物品免受灰尘侵袭。适合收纳鞋子、毛巾或备用床上用品。内置锁扣设计，牢固固定盖子，隔绝尘污。还有两个可书写或贴标签的小区域，方便整理物品，节省寻找时间。",
+                        "sourceImages": [
+                            "https://res.app.ikea.cn/content/u/20230725/c515815f67f14f4f9cd783806519b230.jpg"
+                        ]
+                    },
+                    {
+                        "sourceId": "08684b3d-c2bb-461a-b141-63bdea565281",
+                        "sourceDescription": "利用床下的空间，藏于内\n入手了宜家SOCKERBIT索克比收纳盒，非常适合放在床下，盖子由两部分组成，不需要完全打开盖子就能拿取物品，非常方便，也不会积灰。\n我选择的是50*77*19cm的，容量55公升，用来放衣物跟毯子之类的最合适了！\n而且灰绿色跟我们家的风格实在太配了！",
+                        "sourceImages": [
+                            "https://file.app.ikea.cn/u/CIAM5c3e-823f-4eb5-aadf-29701718922c/20220409/4444ec48694f48a7a313c87ce390d27c.jpeg"
+                        ]
+                    },
+                    {
+                        "sourceId": "B4C4E17E-DE7B-4FA0-AF0A58BC83353DF8",
+                        "sourceDescription": "为客厅的杂乱无章而烦恼吗。扶手椅下拥有大量的储物空间，搭配储物盒轻松收纳各种物品，如垫套、休闲毯、杂志、爱好用品、旧相册等。美美的节省宝贵客厅空间，整个房间更加整洁舒适！\uD83D\uDC4D\n",
+                        "sourceImages": [
+                            "https://res.app.ikea.cn/content/u/20230613/684246df37ed4b2baeaff476da901050.png"
+                        ]
+                    },
+                    {
+                        "sourceId": "a69aff84-5ee8-49fa-8adc-4c4c00e1e2f9",
+                        "sourceDescription": "趁着春天换季去宜家选了不少收纳，性价比都比较高，而且很多新品还有会员优惠，把冬天的厚被子、厚衣服都收纳起来，给家里腾出了不少自由空间！",
+                        "sourceImages": [
+                            "https://file.app.ikea.cn/u/CIAM36a7-edff-511b-ba5d-0887802a9dca/20220413/238fb6151317453d833440a07bd08ddd.jpeg"
+                        ]
+                    },
+                    {
+                        "sourceId": "1309b511-c910-45c9-b451-7bd1b5c80499",
+                        "sourceDescription": "",
+                        "sourceImages": [
+                            "https://file.app.ikea.cn/u/ODBCN627-5980-3330-2863-1902Z0000000/20210816/3a0a6b334ba54413968120cc3986d837.jpg"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "product": {
+                "id": "00316066",
+                "globalId": "80316067",
+                "name": "SOCKERBIT 索克比",
+                "productType": "附盖储物盒",
+                "designText": "白色",
+                "measureText": "38x51x30 厘米",
+                "regularPrice": 79.99,
+                "breathTaking": false,
+                "image": "https://www.ikea.cn/cn/zh/images/products/sockerbit-suo-ke-bi-fu-gai-chu-wu-he-bai-se__0711189_pe728058_s4.jpg",
+                "labels": [
+                    {
+                        "text": "热卖",
+                        "borderColor": "#E00751",
+                        "backgroundColor": "#E00751",
+                        "textColor": "#FFFFFF",
+                        "source": "RANGE",
+                        "type": "TEXT"
+                    }
+                ],
+                "sources": [
+                    {
+                        "sourceId": "9f753a16-9e6f-45a3-b2ad-dd68eb955e38",
+                        "sourceDescription": "个人真的很喜欢索克比这款收纳箱，款式造型都很简洁时尚，干净整洁的收纳起来零散的物品，给人一种赏心悦目的感觉。",
+                        "sourceImages": [
+                            "https://file.app.ikea.cn/u/ODBCN627-5980-3341-5920-2836Z0000000/20220423/9d896e581c17422789865e987628f4e2.jpeg"
+                        ]
+                    },
+                    {
+                        "sourceId": "5575ba35-e8f2-4555-9476-9dc6afe8445c",
+                        "sourceDescription": "舒适静谧的卧室有许多赋予氛围感的小细节：\n清新的白色被套精致迷人；圆镜作为装饰提升空间感；毛巾架搭配挂钩方便挑选和穿搭；多种尺寸的储物盒收纳衣物避免灰尘；伊娃搁架单元变身梳妆台，可自由调节隔板搭配洞洞板和悬挂配件；窗边打造成植物角宛若一处迷你花园，搭配台灯增添氛围感和唯美感。\n——他们的家",
+                        "sourceImages": [
+                            "https://res.app.ikea.cn/content/u/20221024/618d713f3edf4b3299c29dc336bdb957.jpg"
+                        ]
+                    },
+                    {
+                        "sourceId": "3f6d1491-e858-446d-bef5-9c130d428c14",
+                        "sourceDescription": "第一次来宜家商城，平时都是线上APP购物，还得是去实体商城了才有更优体验，每一件东西都超高性价比，款式也很新颖，以后会常来光顾！",
+                        "sourceImages": [
+                            "https://file.app.ikea.cn/u/CIAMa2c9-3914-49fc-a746-4a00b4dad1f3/20230311/fce779062b0543839896a5f6b8c5efbe.jpeg"
+                        ]
+                    },
+                    {
+                        "sourceId": "bdefa3c3-f6ea-4d37-aed5-a992f9eef222",
+                        "sourceDescription": "太实用，瞬间柜子里整齐多了，质量和颜色更是漂亮",
+                        "sourceImages": [
+                            "https://file.app.ikea.cn/u/21024321-4BDE-11e9-B91E-005056930470/20211010/7d7536ac998d44b0b7453847b75bc0ac.jpeg"
+                        ]
+                    },
+                    {
+                        "sourceId": "ba42a3d0-1a08-4500-b778-5935d49324e3",
+                        "sourceDescription": "储物功能强大，好用，好看",
+                        "sourceImages": [
+                            "https://file.app.ikea.cn/u/ODBCN627-5980-3341-5920-2836Z0000000/20220419/d9f2ec7a3e014621b2d9abfe44186022.jpeg"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "product": {
+                "id": "10180939",
+                "globalId": "40102978",
+                "name": "SAMLA 萨姆拉",
+                "productType": "盒子",
+                "designText": "透明",
+                "measureText": "39x28x14 厘米/11 公升",
+                "regularPrice": 14.99,
+                "breathTaking": false,
+                "image": "https://www.ikea.cn/cn/zh/images/products/samla-sa-mu-la-he-zi-tou-ming__0711010_pe727891_s4.jpg",
+                "labels": [],
+                "sources": [
+                    {
+                        "sourceId": "4B5079C6-3E12-4EA3-92516FE2355783C3",
+                        "sourceDescription": "",
+                        "sourceImages": [
+                            "https://res.app.ikea.cn/content/u/20221122/0274b91d6fae48d0b787ef60c5df171f.jpg"
+                        ]
+                    },
+                    {
+                        "sourceId": "94afbe1a-edeb-4023-a24f-d612b62a4d07",
+                        "sourceDescription": "整理得妥妥当当，超整洁，一目了然，好物值得拥有",
+                        "sourceImages": [
+                            "https://file.app.ikea.cn/u/ODBCN627-5980-3337-5848-7301Z0000000/20220130/2a621d188ef544f5a40a2efa81747e31.jpeg"
+                        ]
+                    },
+                    {
+                        "sourceId": "e9b6c111-6124-4202-a5c4-994fc4bcffed",
+                        "sourceDescription": "",
+                        "sourceImages": [
+                            "https://file.app.ikea.cn/u/CIAMbca2-a18f-4630-b906-d8c7d8fc316b/20220320/cceb20ab232e40a689a728142e84bc0a.jpeg"
+                        ]
+                    },
+                    {
+                        "sourceId": "e43e4873-566a-410d-bf2b-ad91054a71f5",
+                        "sourceDescription": "发货速度快，小东西，大用途。希望能帮助我完成小家的改造。简单精致。",
+                        "sourceImages": [
+                            "https://file.app.ikea.cn/u/ODBCN627-5980-3314-7828-3091Z0000000/20211020/442c7842d67f466d9183e73e2baa7855.jpg"
+                        ]
+                    },
+                    {
+                        "sourceId": "257c5da5-10e0-4210-abbd-7791c8ffcf34",
+                        "sourceDescription": "",
+                        "sourceImages": [
+                            "https://file.app.ikea.cn/u/ODBCN627-5980-3338-9883-5336Z0000000/20220210/b127ab061bb64f1681787fae832091fe.jpeg"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "product": {
+                "id": "50292360",
+                "globalId": "10292357",
+                "name": "KNAGGLIG 卡纳格",
+                "productType": "盒",
+                "designText": "松木",
+                "measureText": "23x31x15 厘米",
+                "regularPrice": 79.99,
+                "breathTaking": false,
+                "image": "https://www.ikea.cn/cn/zh/images/products/knagglig-qia-na-ge-he-song-mu__0711003_pe727883_s4.jpg",
+                "labels": [],
+                "sources": [
+                    {
+                        "sourceId": "D8747B8C-6038-403C-A0393EC932F14AB3",
+                        "sourceDescription": "",
+                        "sourceImages": [
+                            "https://res.app.ikea.cn/inspiration/D8747B8C-6038-403C-A0393EC932F14AB3.jpg?v=1"
+                        ]
+                    },
+                    {
+                        "sourceId": "BB2B3E5E-0FB2-49CF-8F8A20FB45617C69",
+                        "sourceDescription": "储存春日的浪漫与童趣",
+                        "sourceImages": [
+                            "https://res.app.ikea.cn/content/u/20220325/9db2721c85b9467e9df4ae891c2cb49b.png"
+                        ]
+                    },
+                    {
+                        "sourceId": "7AA19AED-9CF2-4999-8276AE709726C9C0",
+                        "sourceDescription": "\uD83C\uDFA8这款储物箱可以随心所欲地上色，让房间充满个性和创意。比如，可以选择绿色来增添一份自然气息，与白色大理石纹台面和淡灰-绿色厨房前板完美搭配。当然也可以尝试撞色混搭，打造出更加惊艳的效果。无论是哪种方式，都能为生活增添一抹亮色，并享受到个性定制的乐趣。",
+                        "sourceImages": [
+                            "https://res.app.ikea.cn/content/u/20230529/cac5f0c3e1c140b69d1774f3acd751e1.png"
+                        ]
+                    },
+                    {
+                        "sourceId": "3e215399-37af-4255-98ce-425282db538a",
+                        "sourceDescription": "封闭式储物柜尤其适合存放暂时不用的运动装备，另外添置一些储物盒，收纳各种细小物品。",
+                        "sourceImages": [
+                            "https://file.app.ikea.cn/imported/20210824/6c4d3c2cce2b446678c1891ca2392883c681acb6.jpg"
+                        ]
+                    },
+                    {
+                        "sourceId": "f6ea2991-2c76-4f45-9640-a3c47f9b1261",
+                        "sourceDescription": "为两件式餐桌添加脚轮，在餐桌和工作台之间轻松切换。工作/壁灯不仅能提供集中照明，也是非常独特的餐桌照明。便携储物箱的妙用就是即取即走，轻松收纳。偶尔转换一下办公场景，体验一下笔记本电脑支架与扶手椅组成的办公区。布置一个供孩子发挥创意与专心学习的角落，让全家人享受在共享空间里一起学习和工作的乐趣。",
+                        "sourceImages": [
+                            "https://res.app.ikea.cn/content/u/20221117/ad273a3e31354b018db6a46fdd71d2e7.jpg"
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

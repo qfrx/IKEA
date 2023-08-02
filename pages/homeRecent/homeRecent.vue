@@ -263,7 +263,7 @@
 							font-weight: 700;
 						}
 						.iconfont {
-							font-size: 36rpx;
+							font-size: 38rpx;
 							font-weight: 700;
 						}
 					}

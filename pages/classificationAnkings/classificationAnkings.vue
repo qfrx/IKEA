@@ -45,12 +45,12 @@
 			</view>
 		</view>
 		<!-- 排行商品列表-热销榜 -->
-		<view class="goods-conter-host" v-if="rankingTypeDesc=='热销榜'">
+		<view class="goods-conter-host" v-if="!loading && rankingTypeDesc=='热销榜'">
 			<view class="good-item" v-for="(item,index) in rankList" :key="item.id">
-				<div class="icon" v-if="index < 5">
+				<view class="icon" v-if="index < 5">
 					<i class="iconfont icon-yangshi_icon_tongyong_shield" :style="{'color':numBgColor[index]}"></i>
 					<text class="num">{{index + 1}}</text>
-				</div>
+				</view>
 				<image class="img" :src="item.image" mode=""></image>
 				<view class="info">
 					<view class="name">
@@ -75,22 +75,53 @@
 			</view>
 		</view>
 		<!-- 排行商品列表-心宜榜 -->
-		<view class="goods-conter-hobby" v-if="rankingTypeDesc=='心宜榜'">
-			<view class="good-item" v-for="(item,index) in rankList" :key="item.id">
-				<!-- 		<div class="icon" v-if="index < 5">
+		<view class="goods-conter-hobby" v-if="!loading && rankingTypeDesc=='心宜榜'">
+			<view class="good-item" v-for="(item,index) in rankList" :key="item.product.id">
+				<view class="icon" v-if="index < 5">
 					<i class="iconfont icon-yangshi_icon_tongyong_shield" :style="{'color':numBgColor[index]}"></i>
 					<text class="num">{{index + 1}}</text>
-				</div> -->
+				</view>
 				<view class="swiper" v-if="item.product">
 					<u-swiper type="image" :list="item.product.sources" keyName="sourceImages" :autoplay="false"
-						circular :indicator="true" indicatorMode="dot" indicatorInactiveColor="#ffffffab" :indicatorStyle="{'left':'10px','bottom':'10px'}" imgMode="scaleToFill"
+						circular :indicator="true" indicatorMode="dot" indicatorInactiveColor="#ffffffab"
+						:indicatorStyle="{'left':'5px','bottom':'15px'}" imgMode="scaleToFill"
 						height="180px"></u-swiper>
 				</view>
-
-
-				<!-- <i class="iconfont icon-jiantou1"></i> -->
+				<view class="des">
+					<image class="img" :src="item.product.image" mode=""></image>
+					<view class="info">
+						<view class="hot-selling" v-if="item.product.labels[0]">
+							热卖
+						</view>
+						<view class="name">
+							{{item.product.name}}
+						</view>
+						<view class="goods-des one-txt-cut">
+							{{item.product.productType}},{{ item.product.measureText}} {{ item.product.designText }}
+						</view>
+						<view class="price">
+							￥
+							<view class="price-num">
+								{{item.product.regularPrice}}
+							</view>
+						</view>
+					</view>
+				</view>
 			</view>
 		</view>
+		<view class="undefined-data" v-if="rankList==undefined">
+			暂无相关数据~~
+		</view>
+		<view class="more-list">
+			<view class="title">
+				更多榜单
+			</view>
+			<view class="list-item" v-for="(item,index) in moreList" :key="index" @click="goUndifinedPage">
+				<image class="img" :src="item.image.url" mode="widthFix"></image>
+			</view>
+		</view>
+		<!-- 回顶 -->
+		<u-back-top :scroll-top="scrollTop" top="150vh" icon="arrow-upward" :duration="200"></u-back-top>
 
 
 	</view>
@@ -99,7 +130,8 @@
 <script>
 	import {
 		getListDetailst,
-		getRanking
+		getRanking,
+		getMoreList
 	} from "@/api/rankingList"
 	export default {
 		data() {
@@ -119,8 +151,9 @@
 					{
 						name: '心宜榜',
 					},
-				]
-
+				], //榜单分类
+				scrollTop: 0, //回顶距离
+				moreList: [], //更多榜单列表数据
 
 			}
 		},
@@ -141,7 +174,7 @@
 					this.getRankingFun()
 				} catch (err) {
 					uni.showModal({
-						title: `失败222`,
+						title: err,
 					})
 				}
 			},
@@ -163,13 +196,23 @@
 					this.rankList = res.msg.products
 					this.loading = false
 					// console.log(this.subTitle, this.rankingTypeDesc);
-					console.log(this.rankList);
-
-
+					// console.log(this.rankList);
+				} catch (err) {
+					uni.showModal({
+						title: err,
+					})
+				}
+			},
+			// 获取更多列表数据
+			async getMoreListFun() {
+				try {
+					let res = await getMoreList()
+					this.moreList = res.contents
+					console.log(res.contents);
 
 				} catch (err) {
 					uni.showModal({
-						title: `失败222`,
+						title: err,
 					})
 				}
 			},
@@ -179,10 +222,16 @@
 				this.loading = true
 				this.getRankingFun()
 
+			},
+			goUndifinedPage(){
+				uni.navigateTo({
+				    url:`/pages/undifindPage/undifindPage` 
+				});
 			}
 		},
 		onLoad() {
 			this.getListDetailstFun()
+			this.getMoreListFun()
 			// 延时2秒钟
 			// uni.$u.sleep(2000).then(() => {
 			// 	this.loading = false
@@ -191,6 +240,9 @@
 		mounted() {
 
 
+		},
+		onPageScroll(e) {
+			this.scrollTop = e.scrollTop;
 		}
 	}
 </script>
@@ -218,7 +270,7 @@
 
 	.header {
 		width: 100%;
-		height: 25vh;
+		height: 225px;
 		color: #fff;
 		display: flex;
 		flex-direction: column;
@@ -243,20 +295,20 @@
 
 		.title-list {
 			box-sizing: border-box;
-			padding: 0 20px;
+			padding: 0 20rpx;
 			min-width: 100vw;
 			display: flex;
 			justify-content: flex-start;
 			overflow: auto;
 			position: absolute;
 			left: 0;
-			bottom: 20px;
+			bottom: 40rpx;
 
 		}
 
 		.title-item {
 			flex-shrink: 0;
-			padding: 12px 16px;
+			padding: 20rpx 30rpx;
 			font-size: 12px;
 			background-color: #0000002a;
 			border-radius: 999px;
@@ -267,7 +319,7 @@
 		.title-item.active {
 			background-color: #fff;
 			color: #111;
-
+			padding: 20rpx 30rpx;
 		}
 	}
 
@@ -318,6 +370,7 @@
 			}
 
 			.img {
+				display: block;
 				width: 80px;
 				height: 80px;
 
@@ -388,12 +441,124 @@
 			background-color: #fff;
 			margin: 10px;
 			padding: 10px;
+			position: relative;
+			display: flex;
+
+		}
+
+		.icon {
+			position: absolute;
+			z-index: 9;
+			top: 10px;
+			left: 20px;
+
+			.iconfont {
+				font-size: 32px;
+				position: relative;
+			}
+
+			.num {
+				width: 32px;
+				height: 32px;
+				position: absolute;
+				top: 0;
+				left: 0;
+				background-color: transparent;
+				color: #fff;
+				font-size: 16px;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+			}
+		}
+
+		.des {
+			width: 50%;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			justify-content: center;
+
+			.img {
+				display: block;
+				width: 90px;
+				height: 90px;
+			}
+
+			.info {
+				box-sizing: border-box;
+				width: 100%;
+				padding: 0 20px;
+				font-size: 12px;
+
+				.hot-selling {
+					display: inline;
+					color: #fff;
+					font-size: 12px;
+					padding: 3px;
+					background-color: #e00851;
+					font-weight: bold;
+				}
+
+				.name {
+					margin-top: 5px;
+					font-weight: bold;
+				}
+
+				.goods-des {
+					margin-top: 5px;
+					opacity: .7;
+				}
+
+				.price {
+					font-weight: bold;
+					display: flex;
+					margin-top: 10px;
+				}
+
+				.price-num::first-letter {
+					font-size: 18px;
+
+				}
+
+
+			}
 		}
 
 		.swiper {
-			width: 180px;
+			width: 50%;
 
 		}
 
+	}
+
+	.more-list {
+		display: flex;
+		flex-wrap: wrap;
+
+		.list-item {
+			width: 50vw;
+			box-sizing: border-box;
+			padding: 10px;
+		}
+
+		.img {
+			display: block;
+			width: 100%;
+		}
+
+		.title {
+			width: 100vw;
+			font-weight: bold;
+			padding: 10px;
+
+		}
+	}
+
+	.undefined-data {
+		width: 100%;
+		text-align: center;
+		padding: 10px 0;
+		margin-bottom: 30px;
 	}
 </style>

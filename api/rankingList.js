@@ -11,7 +11,7 @@ export function getListDetailst(data) {
 	});
 }
 
-// test
+// 过去排行版列表
 export function getRanking(data) {
 	return request({
 		url: '/ranking/productsInformation',
@@ -19,3 +19,13 @@ export function getRanking(data) {
 		data,
 	});
 }
+
+// 更多榜单列表
+export function getMoreList(data) {
+	return request({
+		url: '/moreList',
+		method: 'GET',
+		data,
+	});
+}
+

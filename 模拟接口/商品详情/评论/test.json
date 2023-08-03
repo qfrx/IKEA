@@ -1,0 +1,1635 @@
+[
+    {
+        "id": "963965b5-0fcb-4aa7-aab8-088075a6d38d",
+        "productId": "50290361",
+        "reviewerId": "B80B3D9A-AE0A-11e9-A242-0050569352F9",
+        "content": {
+            "comment": "全家只要有收纳柜的地方都用的是这个特别方便和整洁，万能",
+            "images": [
+                {
+                    "order": 0,
+                    "url": "https://file.app.ikea.cn/u/B80B3D9A-AE0A-11e9-A242-0050569352F9/20210514/707cea341c4841f281a1bb59e80e9db0.jpeg?x-oss-process=style/medium",
+                    "width": 1280,
+                    "height": 1705,
+                    "points": []
+                },
+                {
+                    "order": 1,
+                    "url": "https://file.app.ikea.cn/u/B80B3D9A-AE0A-11e9-A242-0050569352F9/20210514/f4a809ef9e134e50ae599ddd6f2901a4.jpeg?x-oss-process=style/medium",
+                    "width": 1280,
+                    "height": 1706,
+                    "points": []
+                },
+                {
+                    "order": 2,
+                    "url": "https://file.app.ikea.cn/u/B80B3D9A-AE0A-11e9-A242-0050569352F9/20210514/6c00df5a2fd34941a264a28cfeb5d803.jpeg?x-oss-process=style/medium",
+                    "width": 1280,
+                    "height": 1706,
+                    "points": []
+                },
+                {
+                    "order": 3,
+                    "url": "https://file.app.ikea.cn/u/B80B3D9A-AE0A-11e9-A242-0050569352F9/20210514/d7162f8a4a9e4b4282030faee5ecf387.jpeg?x-oss-process=style/medium",
+                    "width": 1280,
+                    "height": 1706,
+                    "points": []
+                },
+                {
+                    "order": 4,
+                    "url": "https://file.app.ikea.cn/u/B80B3D9A-AE0A-11e9-A242-0050569352F9/20210514/d7252083457c4fab99cc0686ba02a4dd.jpeg?x-oss-process=style/medium",
+                    "width": 1280,
+                    "height": 960,
+                    "points": []
+                },
+                {
+                    "order": 5,
+                    "url": "https://file.app.ikea.cn/u/B80B3D9A-AE0A-11e9-A242-0050569352F9/20210514/6cf9a0340ead401e847a55676a5ebfda.jpeg?x-oss-process=style/medium",
+                    "width": 1279,
+                    "height": 1707,
+                    "points": []
+                }
+            ],
+            "items": []
+        },
+        "status": "APPROVED",
+        "accessScope": "PUBLIC",
+        "createdAt": "2021-05-13T16:46:42.958Z",
+        "submittedAt": "2021-05-13T16:46:42.966Z",
+        "approvedAt": "2021-05-15T03:46:48.735Z",
+        "reviewer": {
+            "avatarUrl": "https://mpp-ciam-oss-prod.oss-cn-shanghai.aliyuncs.com/avatar/3.png",
+            "name": "沫"
+        },
+        "featured": true,
+        "appendable": false,
+        "officialReplies": [
+            {
+                "id": "dbecb5bb-ce02-4bdc-9c17-4b9c34daf0ea",
+                "reviewId": "963965b5-0fcb-4aa7-aab8-088075a6d38d",
+                "comment": "非常感谢您与我们分享您的购物心得哦，您能如此喜欢我们的宝贝，我们真的是非常开心呢。未来我们也会继续努力为您提供更加优质的商品和服务哦，真诚期待您的下次光临~",
+                "voteCount": 1,
+                "voted": false,
+                "reviewer": {
+                    "avatarUrl": "https://res.app.ikea.cn/static/public/app_assets/official-reply-avatar.png",
+                    "name": "小宜回复"
+                },
+                "timeText": "",
+                "type": 0,
+                "status": "APPROVED"
+            }
+        ],
+        "voters": [],
+        "interactions": {
+            "targetType": "REVIEW",
+            "targetId": "963965b5-0fcb-4aa7-aab8-088075a6d38d",
+            "items": [
+                {
+                    "type": "UPVOTE",
+                    "count": 27
+                },
+                {
+                    "type": "LIKE",
+                    "count": 4
+                },
+                {
+                    "type": "FOLLOW",
+                    "count": 0
+                }
+            ]
+        },
+        "comments": {
+            "targetType": "REVIEW",
+            "targetId": "963965b5-0fcb-4aa7-aab8-088075a6d38d",
+            "count": 3
+        },
+        "anonymous": false,
+        "voteCount": 27,
+        "voted": false
+    },
+    {
+        "id": "8a55222a-a776-47aa-9ef7-39f9e02f151b",
+        "productId": "50290361",
+        "reviewerId": "B80B3D9A-AE0A-11e9-A242-0050569352F9",
+        "content": {
+            "comment": "全家任何地方都用这个收纳盒，好用而且美观，透气不会让衣物有发霉的味道",
+            "images": [
+                {
+                    "order": 0,
+                    "url": "https://file.app.ikea.cn/u/B80B3D9A-AE0A-11e9-A242-0050569352F9/20210516/b5021befb8ba4424acbc84ebf0addb21.jpeg?x-oss-process=style/medium",
+                    "width": 1279,
+                    "height": 1706,
+                    "points": []
+                },
+                {
+                    "order": 1,
+                    "url": "https://file.app.ikea.cn/u/B80B3D9A-AE0A-11e9-A242-0050569352F9/20210516/795fbc34018f4eb7b5d52cb8a910ec4f.jpeg?x-oss-process=style/medium",
+                    "width": 1279,
+                    "height": 1706,
+                    "points": []
+                },
+                {
+                    "order": 2,
+                    "url": "https://file.app.ikea.cn/u/B80B3D9A-AE0A-11e9-A242-0050569352F9/20210516/5faf722f15354899ad6bf0337db3a9e6.jpeg?x-oss-process=style/medium",
+                    "width": 1279,
+                    "height": 1706,
+                    "points": []
+                }
+            ],
+            "items": []
+        },
+        "status": "APPROVED",
+        "accessScope": "PUBLIC",
+        "createdAt": "2021-05-15T18:22:22.649Z",
+        "submittedAt": "2021-05-15T18:22:22.655Z",
+        "approvedAt": "2021-05-18T01:22:05.199Z",
+        "reviewer": {
+            "avatarUrl": "https://mpp-ciam-oss-prod.oss-cn-shanghai.aliyuncs.com/avatar/3.png",
+            "name": "沫"
+        },
+        "featured": true,
+        "appendable": false,
+        "officialReplies": [
+            {
+                "id": "6a91c667-61e5-479b-b80f-f4ec9939602c",
+                "reviewId": "8a55222a-a776-47aa-9ef7-39f9e02f151b",
+                "comment": "非常感谢您与我们分享您的购物心得哦，您能如此喜欢我们的宝贝，我们真的是非常开心呢。未来我们也会继续努力为您提供更加优质的商品和服务哦，真诚期待您的下次光临~",
+                "voteCount": 1,
+                "voted": false,
+                "reviewer": {
+                    "avatarUrl": "https://res.app.ikea.cn/static/public/app_assets/official-reply-avatar.png",
+                    "name": "小宜回复"
+                },
+                "timeText": "",
+                "type": 0,
+                "status": "APPROVED"
+            }
+        ],
+        "voters": [],
+        "interactions": {
+            "targetType": "REVIEW",
+            "targetId": "8a55222a-a776-47aa-9ef7-39f9e02f151b",
+            "items": [
+                {
+                    "type": "UPVOTE",
+                    "count": 16
+                },
+                {
+                    "type": "LIKE",
+                    "count": 1
+                },
+                {
+                    "type": "FOLLOW",
+                    "count": 0
+                }
+            ]
+        },
+        "comments": {
+            "targetType": "REVIEW",
+            "targetId": "8a55222a-a776-47aa-9ef7-39f9e02f151b",
+            "count": 1
+        },
+        "anonymous": false,
+        "voteCount": 16,
+        "voted": false
+    },
+    {
+        "id": "d84fb896-951a-4871-9a64-bc66e99ee6d4",
+        "productId": "50290361",
+        "reviewerId": "ODBCN627-5980-3337-4793-2425Z0000000",
+        "content": {
+            "comment": "买了四个，确实好用，春夏秋冬的衣服收纳干干净净，又方便拿取。",
+            "images": [
+                {
+                    "order": 0,
+                    "url": "https://file.app.ikea.cn/u/ODBCN627-5980-3337-4793-2425Z0000000/20211014/d66dcd2747894e97bd5347810629ebe7.jpeg?x-oss-process=style/medium",
+                    "width": 898,
+                    "height": 1200,
+                    "points": []
+                }
+            ],
+            "items": []
+        },
+        "status": "APPROVED",
+        "accessScope": "PUBLIC",
+        "createdAt": "2021-10-14T13:40:07.567Z",
+        "submittedAt": "2021-10-14T13:40:07.571Z",
+        "approvedAt": "2021-11-08T01:33:13.667Z",
+        "reviewer": {
+            "avatarUrl": "https://mpp-ciam-oss-prod.oss-cn-shanghai.aliyuncs.com/avatar/1.png",
+            "name": "杨航 Kelly Yang"
+        },
+        "featured": true,
+        "appendable": false,
+        "officialReplies": [
+            {
+                "id": "f8c3d760-2701-4a2f-8601-00b80a845191",
+                "reviewId": "d84fb896-951a-4871-9a64-bc66e99ee6d4",
+                "comment": "感谢您对宜家家居的信任与支持，很高兴您能够在本店购买到喜欢的产品呢~您的满意就是我们的奋斗目标！期待您的再次光临~",
+                "voteCount": 1,
+                "voted": false,
+                "reviewer": {
+                    "avatarUrl": "https://res.app.ikea.cn/static/public/app_assets/official-reply-avatar.png",
+                    "name": "小宜回复"
+                },
+                "timeText": "",
+                "type": 0,
+                "status": "APPROVED"
+            }
+        ],
+        "voters": [],
+        "interactions": {
+            "targetType": "REVIEW",
+            "targetId": "d84fb896-951a-4871-9a64-bc66e99ee6d4",
+            "items": [
+                {
+                    "type": "UPVOTE",
+                    "count": 14
+                },
+                {
+                    "type": "LIKE",
+                    "count": 0
+                },
+                {
+                    "type": "FOLLOW",
+                    "count": 0
+                }
+            ]
+        },
+        "comments": {
+            "targetType": "REVIEW",
+            "targetId": "d84fb896-951a-4871-9a64-bc66e99ee6d4",
+            "count": 1
+        },
+        "anonymous": false,
+        "voteCount": 14,
+        "voted": false
+    },
+    {
+        "id": "b1444999-7e66-4aa6-9cf2-c8078e03fbf5",
+        "productId": "50290361",
+        "reviewerId": "CIAM7eec-2fe4-46ac-ab6f-ed36641a5985",
+        "content": {
+            "comment": "撑开以后很大，能装下一整个夏天的衣服，设计地很方便使用，不错！",
+            "images": [
+                {
+                    "order": 0,
+                    "url": "https://file.app.ikea.cn/u/CIAM7eec-2fe4-46ac-ab6f-ed36641a5985/20210923/3454618eb87e475eac2d4d994b6871e8.jpeg?x-oss-process=style/medium",
+                    "width": 1068,
+                    "height": 1395,
+                    "points": []
+                }
+            ],
+            "items": [
+                {
+                    "type": "ASSEMBLY",
+                    "value": "简洁大方",
+                    "desc": "外观设计"
+                },
+                {
+                    "type": "CAUTION",
+                    "value": "质量够用，外形好看",
+                    "desc": "整体感受"
+                },
+                {
+                    "type": "COLLOCATION",
+                    "value": "有四个板撑起整个框，不易变形",
+                    "desc": "商品品质"
+                }
+            ]
+        },
+        "status": "APPROVED",
+        "accessScope": "PUBLIC",
+        "createdAt": "2021-09-23T02:31:27.231Z",
+        "submittedAt": "2021-09-23T02:31:27.238Z",
+        "approvedAt": "2021-10-03T04:50:33.408Z",
+        "reviewer": {
+            "avatarUrl": "https://mpp-ciam-oss-prod.oss-cn-shanghai.aliyuncs.com/avatar/2.png",
+            "name": "Zivi"
+        },
+        "featured": true,
+        "appendable": false,
+        "officialReplies": [
+            {
+                "id": "de145e4c-041c-4d06-8b51-701242e51f66",
+                "reviewId": "b1444999-7e66-4aa6-9cf2-c8078e03fbf5",
+                "comment": "非常感谢您与我们分享您的购物心得哦，您能如此喜欢我们的宝贝，我们真的是非常开心呢。未来我们也会继续努力为您提供更加优质的商品和服务哦，真诚期待您的下次光临~",
+                "voteCount": 0,
+                "voted": false,
+                "reviewer": {
+                    "avatarUrl": "https://res.app.ikea.cn/static/public/app_assets/official-reply-avatar.png",
+                    "name": "小宜回复"
+                },
+                "timeText": "",
+                "type": 0,
+                "status": "APPROVED"
+            }
+        ],
+        "voters": [],
+        "interactions": {
+            "targetType": "REVIEW",
+            "targetId": "b1444999-7e66-4aa6-9cf2-c8078e03fbf5",
+            "items": [
+                {
+                    "type": "UPVOTE",
+                    "count": 5
+                },
+                {
+                    "type": "LIKE",
+                    "count": 0
+                },
+                {
+                    "type": "FOLLOW",
+                    "count": 0
+                }
+            ]
+        },
+        "comments": {
+            "targetType": "REVIEW",
+            "targetId": "b1444999-7e66-4aa6-9cf2-c8078e03fbf5",
+            "count": 1
+        },
+        "anonymous": false,
+        "voteCount": 5,
+        "voted": false
+    },
+    {
+        "id": "0ff99ea6-0c23-4be6-8629-2b7e27944016",
+        "productId": "50290361",
+        "reviewerId": "CIAMd163-21fd-4116-8a0d-4336f5206b3d",
+        "content": {
+            "comment": "哇。真的很适合我。哈哈哈和我的房间也很搭配。很好看哦。我很喜欢。买了好几个。也分享给朋友了。",
+            "images": [
+                {
+                    "order": 0,
+                    "url": "https://file.app.ikea.cn/u/CIAMd163-21fd-4116-8a0d-4336f5206b3d/20220322/1d08c27f4d124dbbb76ad2f918a9b5bf.jpg?x-oss-process=style/medium",
+                    "points": []
+                }
+            ],
+            "items": [
+                {
+                    "type": "ASSEMBLY",
+                    "value": "大方好看",
+                    "desc": "外观设计"
+                },
+                {
+                    "type": "CAUTION",
+                    "value": "非常奶思",
+                    "desc": "整体感受"
+                },
+                {
+                    "type": "COLLOCATION",
+                    "value": "没毛病",
+                    "desc": "商品品质"
+                }
+            ]
+        },
+        "status": "APPROVED",
+        "accessScope": "PUBLIC",
+        "createdAt": "2022-03-22T14:47:14.793Z",
+        "submittedAt": "2022-03-22T14:47:14.801Z",
+        "approvedAt": "2022-03-23T01:37:48.091Z",
+        "reviewer": {
+            "avatarUrl": "https://mpp-ciam-oss-prod.oss-cn-shanghai.aliyuncs.com/avatar/1.png",
+            "name": "晚风"
+        },
+        "featured": true,
+        "appendable": false,
+        "officialReplies": [
+            {
+                "id": "4b2d5748-5052-49f3-bc62-9677c2efdee1",
+                "reviewId": "0ff99ea6-0c23-4be6-8629-2b7e27944016",
+                "comment": "比宝贝更好的是您的眼光哦，很荣幸我们的宝贝能够参与您的生活呢!",
+                "voteCount": 0,
+                "voted": false,
+                "reviewer": {
+                    "avatarUrl": "https://res.app.ikea.cn/static/public/app_assets/official-reply-avatar.png",
+                    "name": "小宜回复"
+                },
+                "timeText": "",
+                "type": 0,
+                "status": "APPROVED"
+            }
+        ],
+        "voters": [],
+        "interactions": {
+            "targetType": "REVIEW",
+            "targetId": "0ff99ea6-0c23-4be6-8629-2b7e27944016",
+            "items": [
+                {
+                    "type": "UPVOTE",
+                    "count": 10
+                },
+                {
+                    "type": "LIKE",
+                    "count": 1
+                },
+                {
+                    "type": "FOLLOW",
+                    "count": 0
+                }
+            ]
+        },
+        "comments": {
+            "targetType": "REVIEW",
+            "targetId": "0ff99ea6-0c23-4be6-8629-2b7e27944016",
+            "count": 0
+        },
+        "anonymous": false,
+        "voteCount": 10,
+        "voted": false
+    },
+    {
+        "id": "de0aa843-4d6d-4c70-9ae6-f5615fdf00e4",
+        "productId": "50290361",
+        "reviewerId": "CIAM12e9-3eed-55dd-83bf-a5c0d820ed9e",
+        "content": {
+            "comment": "家里的被子都是用这个储物袋装的，储，取方便，不挤压被子，放柜子里也干净利落。",
+            "images": [
+                {
+                    "order": 0,
+                    "url": "https://file.app.ikea.cn/u/CIAM12e9-3eed-55dd-83bf-a5c0d820ed9e/20211226/f9e66d67dce04f8f9034190e80f69158.jpeg?x-oss-process=style/medium",
+                    "width": 1280,
+                    "height": 1706,
+                    "points": []
+                }
+            ],
+            "items": []
+        },
+        "status": "APPROVED",
+        "accessScope": "PUBLIC",
+        "createdAt": "2021-12-26T05:11:55.563Z",
+        "submittedAt": "2021-12-26T05:11:55.567Z",
+        "approvedAt": "2021-12-27T02:41:29.078Z",
+        "reviewer": {
+            "avatarUrl": "https://mpp-ciam-oss-prod.oss-cn-shanghai.aliyuncs.com/avatar/2.png",
+            "name": "吴爱芳"
+        },
+        "featured": true,
+        "appendable": false,
+        "officialReplies": [
+            {
+                "id": "557dceb0-8157-4339-970f-a3976773e2f9",
+                "reviewId": "de0aa843-4d6d-4c70-9ae6-f5615fdf00e4",
+                "comment": "感谢您对宜家家居的信任与支持，很高兴您能够在本店购买到喜欢的产品呢~您的满意就是我们的奋斗目标！期待您的再次光临~",
+                "voteCount": 0,
+                "voted": false,
+                "reviewer": {
+                    "avatarUrl": "https://res.app.ikea.cn/static/public/app_assets/official-reply-avatar.png",
+                    "name": "小宜回复"
+                },
+                "timeText": "",
+                "type": 0,
+                "status": "APPROVED"
+            }
+        ],
+        "voters": [],
+        "interactions": {
+            "targetType": "REVIEW",
+            "targetId": "de0aa843-4d6d-4c70-9ae6-f5615fdf00e4",
+            "items": [
+                {
+                    "type": "UPVOTE",
+                    "count": 4
+                },
+                {
+                    "type": "LIKE",
+                    "count": 0
+                },
+                {
+                    "type": "FOLLOW",
+                    "count": 0
+                }
+            ]
+        },
+        "comments": {
+            "targetType": "REVIEW",
+            "targetId": "de0aa843-4d6d-4c70-9ae6-f5615fdf00e4",
+            "count": 0
+        },
+        "anonymous": false,
+        "voteCount": 4,
+        "voted": false
+    },
+    {
+        "id": "f4463c1d-5dd4-46a6-b00f-52768e2a45be",
+        "productId": "50290361",
+        "reviewerId": "E71AA3DC-65B1-11e9-A076-005056930470",
+        "content": {
+            "comment": "看图，感觉凌乱的衣柜一下整洁干净",
+            "images": [
+                {
+                    "order": 0,
+                    "url": "https://file.app.ikea.cn/u/E71AA3DC-65B1-11e9-A076-005056930470/20220320/76b21360bcb44f8286664e2c7809beed.jpeg?x-oss-process=style/medium",
+                    "width": 1280,
+                    "height": 959,
+                    "points": []
+                }
+            ],
+            "items": []
+        },
+        "status": "APPROVED",
+        "accessScope": "PUBLIC",
+        "createdAt": "2022-03-20T09:11:08.778Z",
+        "submittedAt": "2022-03-20T09:11:08.783Z",
+        "approvedAt": "2022-03-21T02:08:14.483Z",
+        "reviewer": {
+            "avatarUrl": "https://mpp-ciam-oss-prod.oss-cn-shanghai.aliyuncs.com/avatar/1.png",
+            "name": "总总"
+        },
+        "featured": true,
+        "appendable": false,
+        "officialReplies": [
+            {
+                "id": "0770abd6-406a-4f91-8f70-22688d8f32ad",
+                "reviewId": "f4463c1d-5dd4-46a6-b00f-52768e2a45be",
+                "comment": "终于等到你，期待您的好眼光和宜家的好产品相遇会创造更美好的日常生活呢!",
+                "voteCount": 0,
+                "voted": false,
+                "reviewer": {
+                    "avatarUrl": "https://res.app.ikea.cn/static/public/app_assets/official-reply-avatar.png",
+                    "name": "小宜回复"
+                },
+                "timeText": "",
+                "type": 0,
+                "status": "APPROVED"
+            }
+        ],
+        "voters": [],
+        "interactions": {
+            "targetType": "REVIEW",
+            "targetId": "f4463c1d-5dd4-46a6-b00f-52768e2a45be",
+            "items": [
+                {
+                    "type": "UPVOTE",
+                    "count": 2
+                },
+                {
+                    "type": "LIKE",
+                    "count": 1
+                },
+                {
+                    "type": "FOLLOW",
+                    "count": 0
+                }
+            ]
+        },
+        "comments": {
+            "targetType": "REVIEW",
+            "targetId": "f4463c1d-5dd4-46a6-b00f-52768e2a45be",
+            "count": 0
+        },
+        "anonymous": false,
+        "voteCount": 2,
+        "voted": false
+    },
+    {
+        "id": "61fa88eb-b031-4169-a469-ce1427aab41b",
+        "productId": "50290361",
+        "reviewerId": "FD1506C3-54B8-11ea-8C08-005056930470",
+        "content": {
+            "comment": "装一床被子，一个被套，刚刚好。",
+            "images": [
+                {
+                    "order": 0,
+                    "url": "https://file.app.ikea.cn/u/FD1506C3-54B8-11ea-8C08-005056930470/20220315/aa1af6acbc764040a47387ff44bc7317.jpeg?x-oss-process=style/medium",
+                    "width": 1280,
+                    "height": 1706,
+                    "points": []
+                }
+            ],
+            "items": [
+                {
+                    "type": "ASSEMBLY",
+                    "value": "白色，干净",
+                    "desc": "外观设计"
+                },
+                {
+                    "type": "CAUTION",
+                    "value": "nice",
+                    "desc": "整体感受"
+                },
+                {
+                    "type": "COLLOCATION",
+                    "value": "nice",
+                    "desc": "商品品质"
+                }
+            ]
+        },
+        "status": "APPROVED",
+        "accessScope": "PUBLIC",
+        "createdAt": "2022-03-15T08:46:10.26Z",
+        "submittedAt": "2022-03-15T08:46:10.265Z",
+        "approvedAt": "2022-03-16T05:55:10.923Z",
+        "reviewer": {
+            "avatarUrl": "https://mpp-ciam-oss-prod.oss-cn-shanghai.aliyuncs.com/avatar/4.png",
+            "name": "飞奔的陈晨"
+        },
+        "featured": true,
+        "appendable": false,
+        "officialReplies": [
+            {
+                "id": "764f110e-4426-44b8-a1f1-cf8bc7a5e310",
+                "reviewId": "61fa88eb-b031-4169-a469-ce1427aab41b",
+                "comment": "感谢您对宜家家居的信任与支持，很高兴您能够在本店购买到喜欢的产品呢~您的满意就是我们的奋斗目标！期待您的再次光临~",
+                "voteCount": 0,
+                "voted": false,
+                "reviewer": {
+                    "avatarUrl": "https://res.app.ikea.cn/static/public/app_assets/official-reply-avatar.png",
+                    "name": "小宜回复"
+                },
+                "timeText": "",
+                "type": 0,
+                "status": "APPROVED"
+            }
+        ],
+        "voters": [],
+        "interactions": {
+            "targetType": "REVIEW",
+            "targetId": "61fa88eb-b031-4169-a469-ce1427aab41b",
+            "items": [
+                {
+                    "type": "UPVOTE",
+                    "count": 1
+                },
+                {
+                    "type": "LIKE",
+                    "count": 0
+                },
+                {
+                    "type": "FOLLOW",
+                    "count": 0
+                }
+            ]
+        },
+        "comments": {
+            "targetType": "REVIEW",
+            "targetId": "61fa88eb-b031-4169-a469-ce1427aab41b",
+            "count": 0
+        },
+        "anonymous": false,
+        "voteCount": 1,
+        "voted": false
+    },
+    {
+        "id": "845a9eee-867b-450d-8a01-320e7e41be0e",
+        "productId": "50290361",
+        "reviewerId": "ODBCN627-5980-3330-6778-6674Z0000000",
+        "content": {
+            "comment": "以前买过四个，用了好多年了，这次又买了两个，收纳方便。",
+            "images": [
+                {
+                    "order": 0,
+                    "url": "https://file.app.ikea.cn/u/ODBCN627-5980-3330-6778-6674Z0000000/20220224/884ecc69cbe04567a68e5d4fce18bbee.jpeg?x-oss-process=style/medium",
+                    "width": 1280,
+                    "height": 1706,
+                    "points": []
+                }
+            ],
+            "items": []
+        },
+        "status": "APPROVED",
+        "accessScope": "PUBLIC",
+        "createdAt": "2022-02-24T08:55:03.198Z",
+        "submittedAt": "2022-02-24T08:55:03.203Z",
+        "approvedAt": "2022-02-25T04:24:00.454Z",
+        "reviewer": {
+            "avatarUrl": "https://mpp-ciam-oss-prod.oss-cn-shanghai.aliyuncs.com/avatar/1.png",
+            "name": "王咏"
+        },
+        "featured": true,
+        "appendable": false,
+        "officialReplies": [
+            {
+                "id": "201b4927-92be-4415-8ee1-3db1d265e3b9",
+                "reviewId": "845a9eee-867b-450d-8a01-320e7e41be0e",
+                "comment": "好眼光才会有好发现，您的满意让我们感到非常荣幸呢~谢谢您的光临呦~",
+                "voteCount": 0,
+                "voted": false,
+                "reviewer": {
+                    "avatarUrl": "https://res.app.ikea.cn/static/public/app_assets/official-reply-avatar.png",
+                    "name": "小宜回复"
+                },
+                "timeText": "",
+                "type": 0,
+                "status": "APPROVED"
+            }
+        ],
+        "voters": [],
+        "interactions": {
+            "targetType": "REVIEW",
+            "targetId": "845a9eee-867b-450d-8a01-320e7e41be0e",
+            "items": [
+                {
+                    "type": "UPVOTE",
+                    "count": 1
+                },
+                {
+                    "type": "LIKE",
+                    "count": 0
+                },
+                {
+                    "type": "FOLLOW",
+                    "count": 0
+                }
+            ]
+        },
+        "comments": {
+            "targetType": "REVIEW",
+            "targetId": "845a9eee-867b-450d-8a01-320e7e41be0e",
+            "count": 0
+        },
+        "anonymous": false,
+        "voteCount": 1,
+        "voted": false
+    },
+    {
+        "id": "6226dc1d-b843-40af-8b45-9c030c5819f4",
+        "productId": "50290361",
+        "reviewerId": "CIAM0b19-3e4a-4a0e-b4f3-046d70afd7c3",
+        "content": {
+            "comment": "",
+            "images": [
+                {
+                    "order": 0,
+                    "url": "https://file.app.ikea.cn/u/CIAM0b19-3e4a-4a0e-b4f3-046d70afd7c3/20220223/e78ce58a9f444018936ceecf52b6bbb5.jpg?x-oss-process=style/medium",
+                    "points": []
+                }
+            ],
+            "items": [
+                {
+                    "type": "ASSEMBLY",
+                    "value": "简单大方时尚",
+                    "desc": "外观设计"
+                },
+                {
+                    "type": "CAUTION",
+                    "value": "空间收纳节省，整齐美观",
+                    "desc": "整体感受"
+                },
+                {
+                    "type": "COLLOCATION",
+                    "value": "面料结实，走线工整",
+                    "desc": "商品品质"
+                }
+            ]
+        },
+        "status": "APPROVED",
+        "accessScope": "PUBLIC",
+        "createdAt": "2022-02-23T11:34:53.566Z",
+        "submittedAt": "2022-02-23T11:34:53.572Z",
+        "approvedAt": "2022-02-24T02:11:51.629Z",
+        "reviewer": {
+            "avatarUrl": "https://mpp-ciam-oss-prod.oss-cn-shanghai.aliyuncs.com/avatar/2.png",
+            "name": "美"
+        },
+        "featured": true,
+        "appendable": false,
+        "officialReplies": [
+            {
+                "id": "ab502888-c8b8-4e25-9458-b1776973cc7d",
+                "reviewId": "6226dc1d-b843-40af-8b45-9c030c5819f4",
+                "comment": "感谢您对宜家家居的信任与支持，很高兴您能够在本店购买到喜欢的产品呢~您的满意就是我们的奋斗目标！期待您的再次光临~",
+                "voteCount": 0,
+                "voted": false,
+                "reviewer": {
+                    "avatarUrl": "https://res.app.ikea.cn/static/public/app_assets/official-reply-avatar.png",
+                    "name": "小宜回复"
+                },
+                "timeText": "",
+                "type": 0,
+                "status": "APPROVED"
+            }
+        ],
+        "voters": [],
+        "interactions": {
+            "targetType": "REVIEW",
+            "targetId": "6226dc1d-b843-40af-8b45-9c030c5819f4",
+            "items": [
+                {
+                    "type": "UPVOTE",
+                    "count": 1
+                },
+                {
+                    "type": "LIKE",
+                    "count": 0
+                },
+                {
+                    "type": "FOLLOW",
+                    "count": 0
+                }
+            ]
+        },
+        "comments": {
+            "targetType": "REVIEW",
+            "targetId": "6226dc1d-b843-40af-8b45-9c030c5819f4",
+            "count": 0
+        },
+        "anonymous": false,
+        "voteCount": 1,
+        "voted": false
+    },
+    {
+        "id": "8cf6046e-bb2f-405b-afe6-8731b1624270",
+        "productId": "50290361",
+        "reviewerId": "2D25718B-D798-11e9-86E8-0050569352F9",
+        "content": {
+            "comment": "",
+            "images": [
+                {
+                    "order": 0,
+                    "url": "https://file.app.ikea.cn/u/2D25718B-D798-11e9-86E8-0050569352F9/20220219/5e5fadb870ff47a2acc2b6b3612f245a.jpeg?x-oss-process=style/medium",
+                    "width": 1280,
+                    "height": 1706,
+                    "points": []
+                }
+            ],
+            "items": [
+                {
+                    "type": "ASSEMBLY",
+                    "value": "很好",
+                    "desc": "外观设计"
+                },
+                {
+                    "type": "CAUTION",
+                    "value": "放床下收纳过季衣物不错\n\n",
+                    "desc": "整体感受"
+                },
+                {
+                    "type": "COLLOCATION",
+                    "value": "很好",
+                    "desc": "商品品质"
+                }
+            ]
+        },
+        "status": "APPROVED",
+        "accessScope": "PUBLIC",
+        "createdAt": "2022-02-19T04:10:17.325Z",
+        "submittedAt": "2022-02-19T04:10:17.332Z",
+        "approvedAt": "2022-02-20T03:10:39.322Z",
+        "reviewer": {
+            "avatarUrl": "https://mpp-ciam-oss-prod.oss-cn-shanghai.aliyuncs.com/avatar/4.png",
+            "name": "LYY"
+        },
+        "featured": true,
+        "appendable": false,
+        "officialReplies": [
+            {
+                "id": "dc77aa86-16cc-470b-b895-4380533a8c23",
+                "reviewId": "8cf6046e-bb2f-405b-afe6-8731b1624270",
+                "comment": "终于等到你，期待您的好眼光和宜家的好产品相遇会创造更美好的日常生活呢!",
+                "voteCount": 0,
+                "voted": false,
+                "reviewer": {
+                    "avatarUrl": "https://res.app.ikea.cn/static/public/app_assets/official-reply-avatar.png",
+                    "name": "小宜回复"
+                },
+                "timeText": "",
+                "type": 0,
+                "status": "APPROVED"
+            }
+        ],
+        "voters": [],
+        "interactions": {
+            "targetType": "REVIEW",
+            "targetId": "8cf6046e-bb2f-405b-afe6-8731b1624270",
+            "items": [
+                {
+                    "type": "UPVOTE",
+                    "count": 1
+                },
+                {
+                    "type": "LIKE",
+                    "count": 0
+                },
+                {
+                    "type": "FOLLOW",
+                    "count": 0
+                }
+            ]
+        },
+        "comments": {
+            "targetType": "REVIEW",
+            "targetId": "8cf6046e-bb2f-405b-afe6-8731b1624270",
+            "count": 0
+        },
+        "anonymous": false,
+        "voteCount": 1,
+        "voted": false
+    },
+    {
+        "id": "8f685d7d-3422-442e-bd82-785688a0b83f",
+        "productId": "50290361",
+        "reviewerId": "E2C508CA-B10F-11e9-8FFA-005056931D59",
+        "content": {
+            "comment": "跟其他收纳袋比起来好用的不是一点两点，整洁太多了，价格也很合适",
+            "images": [
+                {
+                    "order": 0,
+                    "url": "https://file.app.ikea.cn/u/E2C508CA-B10F-11e9-8FFA-005056931D59/20211221/82b0e984876b45cd84c833266d0c4113.jpeg?x-oss-process=style/medium",
+                    "width": 1280,
+                    "height": 960,
+                    "points": []
+                }
+            ],
+            "items": []
+        },
+        "status": "APPROVED",
+        "accessScope": "PUBLIC",
+        "createdAt": "2021-12-21T14:58:14.319Z",
+        "submittedAt": "2021-12-21T14:58:14.323Z",
+        "approvedAt": "2021-12-22T01:23:53.809Z",
+        "reviewer": {
+            "avatarUrl": "https://mpp-ciam-oss-prod.oss-cn-shanghai.aliyuncs.com/avatar/1.png",
+            "name": "闪电"
+        },
+        "featured": true,
+        "appendable": false,
+        "officialReplies": [
+            {
+                "id": "e3bb774b-c963-422f-a7a6-1b2c7a6d85bd",
+                "reviewId": "8f685d7d-3422-442e-bd82-785688a0b83f",
+                "comment": "感谢您对宜家家居的信任与支持，很高兴您能够在本店购买到喜欢的产品呢~您的满意就是我们的奋斗目标！期待您的再次光临~",
+                "voteCount": 0,
+                "voted": false,
+                "reviewer": {
+                    "avatarUrl": "https://res.app.ikea.cn/static/public/app_assets/official-reply-avatar.png",
+                    "name": "小宜回复"
+                },
+                "timeText": "",
+                "type": 0,
+                "status": "APPROVED"
+            }
+        ],
+        "voters": [],
+        "interactions": {
+            "targetType": "REVIEW",
+            "targetId": "8f685d7d-3422-442e-bd82-785688a0b83f",
+            "items": [
+                {
+                    "type": "UPVOTE",
+                    "count": 1
+                },
+                {
+                    "type": "LIKE",
+                    "count": 0
+                },
+                {
+                    "type": "FOLLOW",
+                    "count": 0
+                }
+            ]
+        },
+        "comments": {
+            "targetType": "REVIEW",
+            "targetId": "8f685d7d-3422-442e-bd82-785688a0b83f",
+            "count": 0
+        },
+        "anonymous": false,
+        "voteCount": 1,
+        "voted": false
+    },
+    {
+        "id": "8c206acd-8bd6-4bda-8de6-72af5d37a49a",
+        "productId": "50290361",
+        "reviewerId": "275D9708-BE74-11ea-9F44-005056931D59",
+        "content": {
+            "comment": "很不错的设计\uD83D\uDC4C大小合适，做工也很好\uD83D\uDC4D买来放羊绒衫针织衫～",
+            "images": [
+                {
+                    "order": 0,
+                    "url": "https://file.app.ikea.cn/u/275D9708-BE74-11ea-9F44-005056931D59/20211006/12040a498ecc47a2bbbdb5aaa0295a1b.jpeg?x-oss-process=style/medium",
+                    "width": 1280,
+                    "height": 1706,
+                    "points": []
+                },
+                {
+                    "order": 1,
+                    "url": "https://file.app.ikea.cn/u/275D9708-BE74-11ea-9F44-005056931D59/20211006/14d5811ca56e451ba9a1f9707e78513a.jpeg?x-oss-process=style/medium",
+                    "width": 1280,
+                    "height": 1706,
+                    "points": []
+                },
+                {
+                    "order": 2,
+                    "url": "https://file.app.ikea.cn/u/275D9708-BE74-11ea-9F44-005056931D59/20211006/fd90396298d14be0b10aa97f9f01a0ab.jpeg?x-oss-process=style/medium",
+                    "width": 1280,
+                    "height": 1706,
+                    "points": []
+                },
+                {
+                    "order": 3,
+                    "url": "https://file.app.ikea.cn/u/275D9708-BE74-11ea-9F44-005056931D59/20211006/a4920b3b7b8f434cab286aba2dfef873.jpeg?x-oss-process=style/medium",
+                    "width": 1280,
+                    "height": 1706,
+                    "points": []
+                }
+            ],
+            "items": []
+        },
+        "status": "APPROVED",
+        "accessScope": "PUBLIC",
+        "createdAt": "2021-10-06T04:19:02.286Z",
+        "submittedAt": "2021-10-06T04:19:02.295Z",
+        "approvedAt": "2021-10-27T03:18:54.654Z",
+        "reviewer": {
+            "avatarUrl": "https://mpp-ciam-oss-prod.oss-cn-shanghai.aliyuncs.com/Mjc1RDk3MDhCRTc0MTFlYTlGNDQwMDUwNTY5MzFENTk=.jpeg?time=1674136930822",
+            "name": "理惠子"
+        },
+        "featured": true,
+        "appendable": false,
+        "officialReplies": [
+            {
+                "id": "ded181c7-463d-49a4-89d8-863de11abf6a",
+                "reviewId": "8c206acd-8bd6-4bda-8de6-72af5d37a49a",
+                "comment": "每天最期待的就是看到您点亮所有星星，给予我们在未来道路上勇往直前的动力，请您继续关注我们哟~~",
+                "voteCount": 0,
+                "voted": false,
+                "reviewer": {
+                    "avatarUrl": "https://res.app.ikea.cn/static/public/app_assets/official-reply-avatar.png",
+                    "name": "小宜回复"
+                },
+                "timeText": "",
+                "type": 0,
+                "status": "APPROVED"
+            }
+        ],
+        "voters": [],
+        "interactions": {
+            "targetType": "REVIEW",
+            "targetId": "8c206acd-8bd6-4bda-8de6-72af5d37a49a",
+            "items": [
+                {
+                    "type": "UPVOTE",
+                    "count": 2
+                },
+                {
+                    "type": "LIKE",
+                    "count": 0
+                },
+                {
+                    "type": "FOLLOW",
+                    "count": 0
+                }
+            ]
+        },
+        "comments": {
+            "targetType": "REVIEW",
+            "targetId": "8c206acd-8bd6-4bda-8de6-72af5d37a49a",
+            "count": 0
+        },
+        "anonymous": false,
+        "voteCount": 2,
+        "voted": false
+    },
+    {
+        "id": "e4782434-585a-48c1-b66f-7a7f074fbd3d",
+        "productId": "50290361",
+        "reviewerId": "3DAC11FC-FB16-11ea-A2C8-005056931D59",
+        "content": {
+            "comment": "量好尺寸选了这一款叠放。又便宜又实用细节又好，幸亏自己看了说明书，不然浪费两块底板。",
+            "images": [
+                {
+                    "order": 0,
+                    "url": "https://file.app.ikea.cn/u/3DAC11FC-FB16-11ea-A2C8-005056931D59/20210418/c453d9e37e9f443280217f558f696c2e.jpeg?x-oss-process=style/medium",
+                    "width": 1280,
+                    "height": 1706,
+                    "points": []
+                }
+            ],
+            "items": []
+        },
+        "status": "APPROVED",
+        "accessScope": "PUBLIC",
+        "createdAt": "2021-04-18T07:51:48.185Z",
+        "submittedAt": "2021-04-18T07:51:48.19Z",
+        "approvedAt": "2021-04-18T09:24:27.66Z",
+        "reviewer": {
+            "avatarUrl": "https://mpp-ciam-oss-prod.oss-cn-shanghai.aliyuncs.com/avatar/3.png",
+            "name": "林鸽"
+        },
+        "featured": true,
+        "appendable": false,
+        "officialReplies": [
+            {
+                "id": "6223a688-aca0-4045-a4b5-483a64fe27b0",
+                "reviewId": "e4782434-585a-48c1-b66f-7a7f074fbd3d",
+                "comment": "感谢您对宜家家居APP的信任与支持，很高兴您能够在本店购买到喜欢的产品呢~您的满意就是我们的奋斗目标！期待您的再次光临~",
+                "voteCount": 0,
+                "voted": false,
+                "reviewer": {
+                    "avatarUrl": "https://res.app.ikea.cn/static/public/app_assets/official-reply-avatar.png",
+                    "name": "小宜回复"
+                },
+                "timeText": "",
+                "type": 0,
+                "status": "APPROVED"
+            }
+        ],
+        "voters": [],
+        "interactions": {
+            "targetType": "REVIEW",
+            "targetId": "e4782434-585a-48c1-b66f-7a7f074fbd3d",
+            "items": [
+                {
+                    "type": "UPVOTE",
+                    "count": 1
+                },
+                {
+                    "type": "LIKE",
+                    "count": 1
+                },
+                {
+                    "type": "FOLLOW",
+                    "count": 0
+                }
+            ]
+        },
+        "comments": {
+            "targetType": "REVIEW",
+            "targetId": "e4782434-585a-48c1-b66f-7a7f074fbd3d",
+            "count": 0
+        },
+        "anonymous": false,
+        "voteCount": 1,
+        "voted": false
+    },
+    {
+        "id": "1426d8b9-1271-4038-99d3-e2ca712573e6",
+        "productId": "50290361",
+        "reviewerId": "ODBCN627-5980-3300-1588-7422Z0000000",
+        "content": {
+            "comment": "已多次购买，现在改进了增加了二片底板，从前没有！",
+            "images": [],
+            "items": [
+                {
+                    "type": "ASSEMBLY",
+                    "value": "适合我家㕑柜尺寸",
+                    "desc": "外观设计"
+                },
+                {
+                    "type": "CAUTION",
+                    "value": "非常人性化，简单且严谨！",
+                    "desc": "整体感受"
+                },
+                {
+                    "type": "COLLOCATION",
+                    "value": "折叠式运输，打开也方便，多了两底板！",
+                    "desc": "商品品质"
+                }
+            ]
+        },
+        "status": "APPROVED",
+        "accessScope": "PUBLIC",
+        "createdAt": "2022-10-18T04:44:07.173Z",
+        "submittedAt": "2022-10-18T04:44:07.213Z",
+        "approvedAt": "2022-11-04T09:22:58.486Z",
+        "reviewer": {
+            "avatarUrl": "https://mpp-ciam-oss-prod.oss-cn-shanghai.aliyuncs.com/avatar/2.png",
+            "name": "谢书勤"
+        },
+        "featured": true,
+        "appendable": false,
+        "officialReplies": [
+            {
+                "id": "77bbbeac-ac80-4e43-8c10-ca19558f64be",
+                "reviewId": "1426d8b9-1271-4038-99d3-e2ca712573e6",
+                "comment": "茫茫人海相遇即是缘分，承蒙您对宜家产品的厚爱，愿它与您创造更加美好的日常生活哟~",
+                "voteCount": 0,
+                "voted": false,
+                "reviewer": {
+                    "avatarUrl": "https://res.app.ikea.cn/static/public/app_assets/official-reply-avatar.png",
+                    "name": "小宜回复"
+                },
+                "timeText": "",
+                "type": 0,
+                "status": "APPROVED"
+            }
+        ],
+        "voters": [],
+        "interactions": {
+            "targetType": "REVIEW",
+            "targetId": "1426d8b9-1271-4038-99d3-e2ca712573e6",
+            "items": [
+                {
+                    "type": "UPVOTE",
+                    "count": 0
+                }
+            ]
+        },
+        "comments": {
+            "targetType": "REVIEW",
+            "targetId": "1426d8b9-1271-4038-99d3-e2ca712573e6",
+            "count": 0
+        },
+        "anonymous": false,
+        "voteCount": 0,
+        "voted": false
+    },
+    {
+        "id": "51fdc4db-eaca-46a8-9547-25020c35be1e",
+        "productId": "50290361",
+        "reviewerId": "ODBCN627-5980-3362-4120-5925Z0000000",
+        "content": {
+            "comment": "第二次买了，很实用，没有味道，质量不错",
+            "images": [
+                {
+                    "order": 0,
+                    "url": "https://file.app.ikea.cn/u/ODBCN627-5980-3362-4120-5925Z0000000/20220816/56244e03a3034102a9a085784c45d220.jpeg?x-oss-process=style/medium",
+                    "width": 1280,
+                    "height": 960,
+                    "points": []
+                }
+            ],
+            "items": [
+                {
+                    "type": "ASSEMBLY",
+                    "value": "实用",
+                    "desc": "外观设计"
+                },
+                {
+                    "type": "CAUTION",
+                    "value": "不错",
+                    "desc": "整体感受"
+                },
+                {
+                    "type": "COLLOCATION",
+                    "value": "好",
+                    "desc": "商品品质"
+                }
+            ]
+        },
+        "status": "APPROVED",
+        "accessScope": "PUBLIC",
+        "createdAt": "2022-08-16T13:05:47.245Z",
+        "submittedAt": "2022-08-16T13:05:47.282Z",
+        "approvedAt": "2022-08-27T02:51:05.785Z",
+        "reviewer": {
+            "avatarUrl": "https://mpp-ciam-oss-prod.oss-cn-shanghai.aliyuncs.com/avatar/2.png",
+            "name": "Wendy"
+        },
+        "featured": true,
+        "appendable": false,
+        "officialReplies": [
+            {
+                "id": "9fd67a9f-7483-4d77-a51c-6b4a83e8330c",
+                "reviewId": "51fdc4db-eaca-46a8-9547-25020c35be1e",
+                "comment": "好眼光才会有好发现，您的满意让我们感到非常荣幸呢~谢谢您的光临呦~",
+                "voteCount": 0,
+                "voted": false,
+                "reviewer": {
+                    "avatarUrl": "https://res.app.ikea.cn/static/public/app_assets/official-reply-avatar.png",
+                    "name": "小宜回复"
+                },
+                "timeText": "",
+                "type": 0,
+                "status": "APPROVED"
+            }
+        ],
+        "voters": [],
+        "interactions": {
+            "targetType": "REVIEW",
+            "targetId": "51fdc4db-eaca-46a8-9547-25020c35be1e",
+            "items": [
+                {
+                    "type": "UPVOTE",
+                    "count": 0
+                },
+                {
+                    "type": "LIKE",
+                    "count": 0
+                },
+                {
+                    "type": "FOLLOW",
+                    "count": 0
+                }
+            ]
+        },
+        "comments": {
+            "targetType": "REVIEW",
+            "targetId": "51fdc4db-eaca-46a8-9547-25020c35be1e",
+            "count": 0
+        },
+        "anonymous": false,
+        "voteCount": 0,
+        "voted": false
+    },
+    {
+        "id": "e7954c57-2813-43c4-84ea-368ec1150633",
+        "productId": "50290361",
+        "reviewerId": "72DDAE78-31F5-11e9-BC32-0050569352F9",
+        "content": {
+            "comment": "看起来不大，用起来才知道真能装！衣柜顶部的空间有这个收纳盒就可以完全利用了，方便拿取，还不落灰。原来幸福就这么简单！",
+            "images": [
+                {
+                    "order": 0,
+                    "url": "https://file.app.ikea.cn/u/72DDAE78-31F5-11e9-BC32-0050569352F9/20220731/60447939695e4ea080597bae1eb061b8.jpg?x-oss-process=style/medium",
+                    "points": []
+                },
+                {
+                    "order": 1,
+                    "url": "https://file.app.ikea.cn/u/72DDAE78-31F5-11e9-BC32-0050569352F9/20220731/f35ef714255f4e779c7808021c38def3.jpg?x-oss-process=style/medium",
+                    "points": []
+                }
+            ],
+            "items": [
+                {
+                    "type": "ASSEMBLY",
+                    "value": "好",
+                    "desc": "外观设计"
+                },
+                {
+                    "type": "CAUTION",
+                    "value": "好",
+                    "desc": "整体感受"
+                },
+                {
+                    "type": "COLLOCATION",
+                    "value": "好",
+                    "desc": "商品品质"
+                }
+            ]
+        },
+        "status": "APPROVED",
+        "accessScope": "PUBLIC",
+        "createdAt": "2022-07-31T07:46:30.589Z",
+        "submittedAt": "2022-07-31T07:46:30.625Z",
+        "approvedAt": "2022-08-10T07:42:41.468Z",
+        "reviewer": {
+            "avatarUrl": "https://mpp-ciam-oss-prod.oss-cn-shanghai.aliyuncs.com/avatar/4.png",
+            "name": "Shirley Yang"
+        },
+        "featured": true,
+        "appendable": false,
+        "officialReplies": [
+            {
+                "id": "c027bd92-234b-4058-867d-bebf6121af51",
+                "reviewId": "e7954c57-2813-43c4-84ea-368ec1150633",
+                "comment": "非常感谢您与我们分享您的购物心得哦，您能如此喜欢我们的宝贝，我们真的是非常开心呢。未来我们也会继续努力为您提供更加优质的商品和服务哦，真诚期待您的下次光临~",
+                "voteCount": 0,
+                "voted": false,
+                "reviewer": {
+                    "avatarUrl": "https://res.app.ikea.cn/static/public/app_assets/official-reply-avatar.png",
+                    "name": "小宜回复"
+                },
+                "timeText": "",
+                "type": 0,
+                "status": "APPROVED"
+            }
+        ],
+        "voters": [],
+        "interactions": {
+            "targetType": "REVIEW",
+            "targetId": "e7954c57-2813-43c4-84ea-368ec1150633",
+            "items": [
+                {
+                    "type": "UPVOTE",
+                    "count": 0
+                },
+                {
+                    "type": "LIKE",
+                    "count": 0
+                },
+                {
+                    "type": "FOLLOW",
+                    "count": 0
+                }
+            ]
+        },
+        "comments": {
+            "targetType": "REVIEW",
+            "targetId": "e7954c57-2813-43c4-84ea-368ec1150633",
+            "count": 0
+        },
+        "anonymous": false,
+        "voteCount": 0,
+        "voted": false
+    },
+    {
+        "id": "aa298b83-0032-4d1b-bff6-1fee18661bda",
+        "productId": "50290361",
+        "reviewerId": "ODBCN627-5980-3350-0425-9749Z0000000",
+        "content": {
+            "comment": "柜内收纳换季被褥、毯子和床单，优点是可以竖着放，自重也比塑料箱子轻，便于上层取放",
+            "images": [
+                {
+                    "order": 0,
+                    "url": "https://file.app.ikea.cn/u/ODBCN627-5980-3350-0425-9749Z0000000/20220621/1f4cf8333fcf46d6bd96d34b3ed172e5.jpg?x-oss-process=style/medium",
+                    "points": []
+                }
+            ],
+            "items": []
+        },
+        "status": "APPROVED",
+        "accessScope": "PUBLIC",
+        "createdAt": "2022-06-21T13:17:43.769Z",
+        "submittedAt": "2022-06-21T13:17:43.776Z",
+        "approvedAt": "2022-06-27T07:54:17.399Z",
+        "reviewer": {
+            "avatarUrl": "https://mpp-ciam-oss-prod.oss-cn-shanghai.aliyuncs.com/avatar/1.png",
+            "name": "朱思佳"
+        },
+        "featured": true,
+        "appendable": false,
+        "officialReplies": [
+            {
+                "id": "14b379dc-d06d-49a8-be9d-b6d13dd52e7e",
+                "reviewId": "aa298b83-0032-4d1b-bff6-1fee18661bda",
+                "comment": "比宝贝更好的是您的眼光哦，很荣幸我们的宝贝能够参与您的生活呢!",
+                "voteCount": 0,
+                "voted": false,
+                "reviewer": {
+                    "avatarUrl": "https://res.app.ikea.cn/static/public/app_assets/official-reply-avatar.png",
+                    "name": "小宜回复"
+                },
+                "timeText": "",
+                "type": 0,
+                "status": "APPROVED"
+            }
+        ],
+        "voters": [],
+        "interactions": {
+            "targetType": "REVIEW",
+            "targetId": "aa298b83-0032-4d1b-bff6-1fee18661bda",
+            "items": [
+                {
+                    "type": "UPVOTE",
+                    "count": 1
+                },
+                {
+                    "type": "LIKE",
+                    "count": 0
+                },
+                {
+                    "type": "FOLLOW",
+                    "count": 0
+                }
+            ]
+        },
+        "comments": {
+            "targetType": "REVIEW",
+            "targetId": "aa298b83-0032-4d1b-bff6-1fee18661bda",
+            "count": 0
+        },
+        "anonymous": false,
+        "voteCount": 1,
+        "voted": false
+    },
+    {
+        "id": "af57e9f9-8782-403a-aa89-303304ca1786",
+        "productId": "50290361",
+        "reviewerId": "CIAM9757-d47a-4147-b390-b39debec20aa",
+        "content": {
+            "comment": "太完美了，宜家的东西就是好，还会回购的",
+            "images": [
+                {
+                    "order": 0,
+                    "url": "https://file.app.ikea.cn/u/CIAM9757-d47a-4147-b390-b39debec20aa/20211117/69c549a1a6ea479588d3789d66ade65f.jpg?x-oss-process=style/medium",
+                    "points": []
+                }
+            ],
+            "items": []
+        },
+        "status": "APPROVED",
+        "accessScope": "PUBLIC",
+        "createdAt": "2021-11-17T15:16:40.429Z",
+        "submittedAt": "2021-11-17T15:16:40.433Z",
+        "approvedAt": "2022-02-03T02:52:28.643Z",
+        "reviewer": {
+            "avatarUrl": "https://mpp-ciam-oss-prod.oss-cn-shanghai.aliyuncs.com/avatar/2.png",
+            "name": "邹悦"
+        },
+        "featured": true,
+        "appendable": false,
+        "officialReplies": [
+            {
+                "id": "b4eed73b-9f97-42d8-a8c5-6b4dbc6d1eb5",
+                "reviewId": "af57e9f9-8782-403a-aa89-303304ca1786",
+                "comment": "非常感谢您与我们分享您的购物心得哦，您能如此喜欢我们的宝贝，我们真的是非常开心呢。未来我们也会继续努力为您提供更加优质的商品和服务哦，真诚期待您的下次光临~",
+                "voteCount": 0,
+                "voted": false,
+                "reviewer": {
+                    "avatarUrl": "https://res.app.ikea.cn/static/public/app_assets/official-reply-avatar.png",
+                    "name": "小宜回复"
+                },
+                "timeText": "",
+                "type": 0,
+                "status": "APPROVED"
+            }
+        ],
+        "voters": [],
+        "interactions": {
+            "targetType": "REVIEW",
+            "targetId": "af57e9f9-8782-403a-aa89-303304ca1786",
+            "items": [
+                {
+                    "type": "UPVOTE",
+                    "count": 0
+                },
+                {
+                    "type": "LIKE",
+                    "count": 0
+                },
+                {
+                    "type": "FOLLOW",
+                    "count": 0
+                }
+            ]
+        },
+        "comments": {
+            "targetType": "REVIEW",
+            "targetId": "af57e9f9-8782-403a-aa89-303304ca1786",
+            "count": 0
+        },
+        "anonymous": false,
+        "voteCount": 0,
+        "voted": false
+    },
+    {
+        "id": "10f2a435-8c8b-4817-a26d-7dd045cafeec",
+        "productId": "50290361",
+        "reviewerId": "31021D9F-EC8F-11e8-A0D0-005056930470",
+        "content": {
+            "comment": "",
+            "images": [
+                {
+                    "order": 0,
+                    "url": "https://file.app.ikea.cn/u/31021D9F-EC8F-11e8-A0D0-005056930470/20211204/5914cc87e9b94690b238b01829f93924.jpeg?x-oss-process=style/medium",
+                    "width": 1280,
+                    "height": 1706,
+                    "points": []
+                }
+            ],
+            "items": [
+                {
+                    "type": "ASSEMBLY",
+                    "value": "ins风",
+                    "desc": "外观设计"
+                },
+                {
+                    "type": "CAUTION",
+                    "value": "很简约，整理衣物首选",
+                    "desc": "整体感受"
+                },
+                {
+                    "type": "COLLOCATION",
+                    "value": "挺好，质量不错，耐用",
+                    "desc": "商品品质"
+                }
+            ]
+        },
+        "status": "APPROVED",
+        "accessScope": "PUBLIC",
+        "createdAt": "2021-12-04T06:28:46.573Z",
+        "submittedAt": "2021-12-04T06:28:46.577Z",
+        "approvedAt": "2021-12-05T03:42:45.973Z",
+        "reviewer": {
+            "avatarUrl": "https://mpp-ciam-oss-prod.oss-cn-shanghai.aliyuncs.com/avatar/1.png",
+            "name": "陈骏"
+        },
+        "featured": true,
+        "appendable": false,
+        "officialReplies": [
+            {
+                "id": "72934d50-218a-4168-9f1c-87b829dcefd7",
+                "reviewId": "10f2a435-8c8b-4817-a26d-7dd045cafeec",
+                "comment": "感谢您对宜家家居的信任与支持，很高兴您能够在本店购买到喜欢的产品呢~您的满意就是我们的奋斗目标！期待您的再次光临~",
+                "voteCount": 0,
+                "voted": false,
+                "reviewer": {
+                    "avatarUrl": "https://res.app.ikea.cn/static/public/app_assets/official-reply-avatar.png",
+                    "name": "小宜回复"
+                },
+                "timeText": "",
+                "type": 0,
+                "status": "APPROVED"
+            }
+        ],
+        "voters": [],
+        "interactions": {
+            "targetType": "REVIEW",
+            "targetId": "10f2a435-8c8b-4817-a26d-7dd045cafeec",
+            "items": [
+                {
+                    "type": "UPVOTE",
+                    "count": 0
+                },
+                {
+                    "type": "LIKE",
+                    "count": 0
+                },
+                {
+                    "type": "FOLLOW",
+                    "count": 0
+                }
+            ]
+        },
+        "comments": {
+            "targetType": "REVIEW",
+            "targetId": "10f2a435-8c8b-4817-a26d-7dd045cafeec",
+            "count": 0
+        },
+        "anonymous": false,
+        "voteCount": 0,
+        "voted": false
+    }
+]

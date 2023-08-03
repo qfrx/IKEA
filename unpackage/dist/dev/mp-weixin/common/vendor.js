@@ -19426,7 +19426,34 @@ exports.default = _default;
 /* 173 */,
 /* 174 */,
 /* 175 */,
-/* 176 */,
+/* 176 */
+/*!*************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/api/classPages.js ***!
+  \*************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var _interopRequireDefault = __webpack_require__(/*! @babel/runtime/helpers/interopRequireDefault */ 4);
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.getIndexBottomPages = getIndexBottomPages;
+var _request = _interopRequireDefault(__webpack_require__(/*! @/utils/request */ 166));
+// 引用网络请求中间件
+
+// 首页底部导航栏发现页数据
+function getIndexBottomPages(data) {
+  return (0, _request.default)({
+    url: '/classPages',
+    method: 'GET',
+    data: data
+  });
+}
+
+/***/ }),
 /* 177 */,
 /* 178 */,
 /* 179 */,
@@ -19450,7 +19477,8 @@ exports.default = _default;
 /* 197 */,
 /* 198 */,
 /* 199 */,
-/* 200 */
+/* 200 */,
+/* 201 */
 /*!**************************************************************!*\
   !*** C:/Users/SHIHAO/Desktop/u-shop/shop/api/rankingList.js ***!
   \**************************************************************/
@@ -19465,6 +19493,8 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.getListDetailst = getListDetailst;
+exports.getMoreList = getMoreList;
+exports.getRanking = getRanking;
 var _request = _interopRequireDefault(__webpack_require__(/*! @/utils/request */ 166));
 // 引用网络请求中间件
 
@@ -19477,8 +19507,25 @@ function getListDetailst(data) {
   });
 }
 
+// 过去排行版列表
+function getRanking(data) {
+  return (0, _request.default)({
+    url: '/ranking/productsInformation',
+    method: 'GET',
+    data: data
+  });
+}
+
+// 更多榜单列表
+function getMoreList(data) {
+  return (0, _request.default)({
+    url: '/moreList',
+    method: 'GET',
+    data: data
+  });
+}
+
 /***/ }),
-/* 201 */,
 /* 202 */,
 /* 203 */,
 /* 204 */,
@@ -19493,7 +19540,16 @@ function getListDetailst(data) {
 /* 213 */,
 /* 214 */,
 /* 215 */,
-/* 216 */
+/* 216 */,
+/* 217 */,
+/* 218 */,
+/* 219 */,
+/* 220 */,
+/* 221 */,
+/* 222 */,
+/* 223 */,
+/* 224 */,
+/* 225 */
 /*!*********************************************************************************************!*\
   !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/components/u-swiper/props.js ***!
   \*********************************************************************************************/
@@ -19636,14 +19692,14 @@ exports.default = _default;
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 2)["default"]))
 
 /***/ }),
-/* 217 */,
-/* 218 */,
-/* 219 */,
-/* 220 */,
-/* 221 */,
-/* 222 */,
-/* 223 */,
-/* 224 */
+/* 226 */,
+/* 227 */,
+/* 228 */,
+/* 229 */,
+/* 230 */,
+/* 231 */,
+/* 232 */,
+/* 233 */
 /*!**************************************************************************************************!*\
   !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/components/u-scroll-list/props.js ***!
   \**************************************************************************************************/
@@ -19695,16 +19751,16 @@ exports.default = _default;
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 2)["default"]))
 
 /***/ }),
-/* 225 */,
-/* 226 */,
-/* 227 */,
-/* 228 */,
-/* 229 */,
-/* 230 */,
-/* 231 */,
-/* 232 */,
-/* 233 */,
-/* 234 */
+/* 234 */,
+/* 235 */,
+/* 236 */,
+/* 237 */,
+/* 238 */,
+/* 239 */,
+/* 240 */,
+/* 241 */,
+/* 242 */,
+/* 243 */
 /*!*******************************************************************************************!*\
   !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/components/u-tabs/props.js ***!
   \*******************************************************************************************/
@@ -19786,14 +19842,14 @@ exports.default = _default;
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 2)["default"]))
 
 /***/ }),
-/* 235 */,
-/* 236 */,
-/* 237 */,
-/* 238 */,
-/* 239 */,
-/* 240 */,
-/* 241 */,
-/* 242 */
+/* 244 */,
+/* 245 */,
+/* 246 */,
+/* 247 */,
+/* 248 */,
+/* 249 */,
+/* 250 */,
+/* 251 */
 /*!***********************************************************************************************!*\
   !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/components/u-back-top/props.js ***!
   \***********************************************************************************************/
@@ -19865,21 +19921,164 @@ exports.default = _default;
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 2)["default"]))
 
 /***/ }),
-/* 243 */,
-/* 244 */,
-/* 245 */,
-/* 246 */,
-/* 247 */,
-/* 248 */,
-/* 249 */,
-/* 250 */,
-/* 251 */,
 /* 252 */,
 /* 253 */,
 /* 254 */,
 /* 255 */,
 /* 256 */,
-/* 257 */
+/* 257 */,
+/* 258 */,
+/* 259 */,
+/* 260 */,
+/* 261 */,
+/* 262 */,
+/* 263 */,
+/* 264 */,
+/* 265 */,
+/* 266 */
+/*!*********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/components/u-sticky/props.js ***!
+  \*********************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+/* WEBPACK VAR INJECTION */(function(uni) {
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+var _default = {
+  props: {
+    // 吸顶容器到顶部某个距离的时候，进行吸顶，在H5平台，NavigationBar为44px
+    offsetTop: {
+      type: [String, Number],
+      default: uni.$u.props.sticky.offsetTop
+    },
+    // 自定义导航栏的高度
+    customNavHeight: {
+      type: [String, Number],
+      default: uni.$u.props.sticky.customNavHeight
+    },
+    // 是否开启吸顶功能
+    disabled: {
+      type: Boolean,
+      default: uni.$u.props.sticky.disabled
+    },
+    // 吸顶区域的背景颜色
+    bgColor: {
+      type: String,
+      default: uni.$u.props.sticky.bgColor
+    },
+    // z-index值
+    zIndex: {
+      type: [String, Number],
+      default: uni.$u.props.sticky.zIndex
+    },
+    // 列表中的索引值
+    index: {
+      type: [String, Number],
+      default: uni.$u.props.sticky.index
+    }
+  }
+};
+exports.default = _default;
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 2)["default"]))
+
+/***/ }),
+/* 267 */,
+/* 268 */,
+/* 269 */,
+/* 270 */,
+/* 271 */,
+/* 272 */,
+/* 273 */,
+/* 274 */
+/*!***********************************************************************************************!*\
+  !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/components/u-skeleton/props.js ***!
+  \***********************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+/* WEBPACK VAR INJECTION */(function(uni) {
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+var _default = {
+  props: {
+    // 是否展示骨架组件
+    loading: {
+      type: Boolean,
+      default: uni.$u.props.skeleton.loading
+    },
+    // 是否开启动画效果
+    animate: {
+      type: Boolean,
+      default: uni.$u.props.skeleton.animate
+    },
+    // 段落占位图行数
+    rows: {
+      type: [String, Number],
+      default: uni.$u.props.skeleton.rows
+    },
+    // 段落占位图的宽度
+    rowsWidth: {
+      type: [String, Number, Array],
+      default: uni.$u.props.skeleton.rowsWidth
+    },
+    // 段落占位图的高度
+    rowsHeight: {
+      type: [String, Number, Array],
+      default: uni.$u.props.skeleton.rowsHeight
+    },
+    // 是否展示标题占位图
+    title: {
+      type: Boolean,
+      default: uni.$u.props.skeleton.title
+    },
+    // 段落标题的宽度
+    titleWidth: {
+      type: [String, Number],
+      default: uni.$u.props.skeleton.titleWidth
+    },
+    // 段落标题的高度
+    titleHeight: {
+      type: [String, Number],
+      default: uni.$u.props.skeleton.titleHeight
+    },
+    // 是否展示头像占位图
+    avatar: {
+      type: Boolean,
+      default: uni.$u.props.skeleton.avatar
+    },
+    // 头像占位图大小
+    avatarSize: {
+      type: [String, Number],
+      default: uni.$u.props.skeleton.avatarSize
+    },
+    // 头像占位图的形状，circle-圆形，square-方形
+    avatarShape: {
+      type: String,
+      default: uni.$u.props.skeleton.avatarShape
+    }
+  }
+};
+exports.default = _default;
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 2)["default"]))
+
+/***/ }),
+/* 275 */,
+/* 276 */,
+/* 277 */,
+/* 278 */,
+/* 279 */,
+/* 280 */,
+/* 281 */,
+/* 282 */
 /*!***************************************************************************************************!*\
   !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/components/u-loading-icon/props.js ***!
   \***************************************************************************************************/
@@ -19956,14 +20155,14 @@ exports.default = _default;
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 2)["default"]))
 
 /***/ }),
-/* 258 */,
-/* 259 */,
-/* 260 */,
-/* 261 */,
-/* 262 */,
-/* 263 */,
-/* 264 */,
-/* 265 */
+/* 283 */,
+/* 284 */,
+/* 285 */,
+/* 286 */,
+/* 287 */,
+/* 288 */,
+/* 289 */,
+/* 290 */
 /*!*******************************************************************************************************!*\
   !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/components/u-swiper-indicator/props.js ***!
   \*******************************************************************************************************/
@@ -20010,14 +20209,14 @@ exports.default = _default;
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 2)["default"]))
 
 /***/ }),
-/* 266 */,
-/* 267 */,
-/* 268 */,
-/* 269 */,
-/* 270 */,
-/* 271 */,
-/* 272 */,
-/* 273 */
+/* 291 */,
+/* 292 */,
+/* 293 */,
+/* 294 */,
+/* 295 */,
+/* 296 */,
+/* 297 */,
+/* 298 */
 /*!********************************************************************************************!*\
   !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/components/u-badge/props.js ***!
   \********************************************************************************************/
@@ -20107,14 +20306,14 @@ exports.default = _default;
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 2)["default"]))
 
 /***/ }),
-/* 274 */,
-/* 275 */,
-/* 276 */,
-/* 277 */,
-/* 278 */,
-/* 279 */,
-/* 280 */,
-/* 281 */
+/* 299 */,
+/* 300 */,
+/* 301 */,
+/* 302 */,
+/* 303 */,
+/* 304 */,
+/* 305 */,
+/* 306 */
 /*!*************************************************************************************************!*\
   !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/components/u-transition/props.js ***!
   \*************************************************************************************************/
@@ -20156,7 +20355,7 @@ exports.default = _default;
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 2)["default"]))
 
 /***/ }),
-/* 282 */
+/* 307 */
 /*!******************************************************************************************************!*\
   !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/components/u-transition/transition.js ***!
   \******************************************************************************************************/
@@ -20173,7 +20372,7 @@ Object.defineProperty(exports, "__esModule", {
 exports.default = void 0;
 var _regenerator = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/regenerator */ 55));
 var _asyncToGenerator2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/asyncToGenerator */ 57));
-var _nvueAniMap = _interopRequireDefault(__webpack_require__(/*! ./nvue.ani-map.js */ 283));
+var _nvueAniMap = _interopRequireDefault(__webpack_require__(/*! ./nvue.ani-map.js */ 308));
 // 定义一个一定时间后自动成功的promise，让调用nextTick方法处，进入下一个then方法
 var nextTick = function nextTick() {
   return new Promise(function (resolve) {
@@ -20265,7 +20464,7 @@ var _default = {
 exports.default = _default;
 
 /***/ }),
-/* 283 */
+/* 308 */
 /*!********************************************************************************************************!*\
   !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/components/u-transition/nvue.ani-map.js ***!
   \********************************************************************************************************/
@@ -20458,14 +20657,14 @@ var _default = {
 exports.default = _default;
 
 /***/ }),
-/* 284 */,
-/* 285 */,
-/* 286 */,
-/* 287 */,
-/* 288 */,
-/* 289 */,
-/* 290 */,
-/* 291 */
+/* 309 */,
+/* 310 */,
+/* 311 */,
+/* 312 */,
+/* 313 */,
+/* 314 */,
+/* 315 */,
+/* 316 */
 /*!*******************************************************************************************!*\
   !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/components/u-icon/icons.js ***!
   \*******************************************************************************************/
@@ -20696,7 +20895,7 @@ var _default = {
 exports.default = _default;
 
 /***/ }),
-/* 292 */
+/* 317 */
 /*!*******************************************************************************************!*\
   !*** C:/Users/SHIHAO/Desktop/u-shop/shop/uni_modules/uview-ui/components/u-icon/props.js ***!
   \*******************************************************************************************/

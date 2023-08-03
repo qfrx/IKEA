@@ -331,7 +331,8 @@
 						type: this.discoverType,
 						pageNum: this.discoverPageNum
 					})
-					res.msg.data.list.forEach((item, index) => {
+					console.log(res);
+					res.data.list.forEach((item, index) => {
 						if (index % 2 == 0) {
 							this.discoverLeftList.push(item)
 						} else {

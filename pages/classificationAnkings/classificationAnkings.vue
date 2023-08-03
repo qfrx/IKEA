@@ -25,7 +25,7 @@
 			</view>
 		</view>
 		<!-- 榜单选项 -->
-		<u-sticky bgColor="#fff" offset-top="-10">
+		<u-sticky bgColor="#fff" offset-top="0">
 			<u-tabs :list="tabList1" @change="choseListType"></u-tabs>
 		</u-sticky>
 		<!-- 骨架屏-热销榜 -->
@@ -154,6 +154,7 @@
 				], //榜单分类
 				scrollTop: 0, //回顶距离
 				moreList: [], //更多榜单列表数据
+				ListtypeParmas: '', // 首页点击排行榜选择呢分类，参数
 
 			}
 		},
@@ -162,15 +163,19 @@
 			backHome() {
 				uni.navigateBack(1)
 			},
-			// 获取排行榜那个分类别表数据
+			// 获取排行榜分类别表数据
 			async getListDetailstFun() {
 				try {
 					let res = await getListDetailst({
-						title: this.$route.query.title,
+						title: this.ListtypeParmas
 					})
-					this.titleList = res.data.list
-					this.subTitle = res.data.list[0].name
+					this.titleList = res.list
+					this.subTitle = res.list[0].name
 					this.headerBgColor = this.titleList[0].color
+					uni.setNavigationBarColor({
+						frontColor: '#ffffff', // 导航栏标题颜色，只能是'black'或'white'
+						backgroundColor: this.headerBgColor // 导航栏背景颜色
+					});
 					this.getRankingFun()
 				} catch (err) {
 					uni.showModal({
@@ -193,13 +198,13 @@
 						subTitle: this.subTitle,
 						rankingTypeDesc: this.rankingTypeDesc
 					})
-					this.rankList = res.msg.products
+					this.rankList = res.products
 					this.loading = false
 					// console.log(this.subTitle, this.rankingTypeDesc);
 					// console.log(this.rankList);
 				} catch (err) {
 					uni.showModal({
-						title: err,
+						title: "获取排行榜内分类列表数据失败",
 					})
 				}
 			},
@@ -208,11 +213,9 @@
 				try {
 					let res = await getMoreList()
 					this.moreList = res.contents
-					console.log(res.contents);
-
 				} catch (err) {
 					uni.showModal({
-						title: err,
+						title: '获取更多列表数据失败',
 					})
 				}
 			},
@@ -223,19 +226,32 @@
 				this.getRankingFun()
 
 			},
-			goUndifinedPage(){
+			goUndifinedPage() {
 				uni.navigateTo({
-				    url:`/pages/undifindPage/undifindPage` 
+					url: `/pages/undifindPage/undifindPage`
 				});
 			}
 		},
-		onLoad() {
+
+		watch: {
+			"headerBgColor": function() {
+				uni.$u.sleep(500).then(() => {
+					uni.setNavigationBarColor({
+						frontColor: '#ffffff', // 导航栏标题颜色，只能是'black'或'white'
+						backgroundColor: this.headerBgColor // 导航栏背景颜色
+					});
+				})
+
+			}
+
+		},
+
+
+		onLoad(e) {
+			this.ListtypeParmas = e.title
 			this.getListDetailstFun()
 			this.getMoreListFun()
-			// 延时2秒钟
-			// uni.$u.sleep(2000).then(() => {
-			// 	this.loading = false
-			// })
+
 		},
 		mounted() {
 
@@ -252,10 +268,12 @@
 		position: relative;
 	}
 
+
 	.header-back {
+		display: none;
 		width: 100%;
 		position: fixed;
-		top: 0;
+		top: 40px;
 		left: 0;
 		padding: 10px 0 10px 10px;
 		z-index: 999;
@@ -281,6 +299,7 @@
 
 		.title {
 			font-size: 28px;
+			display: flex;
 
 			.iconfont {
 				font-size: 28px;

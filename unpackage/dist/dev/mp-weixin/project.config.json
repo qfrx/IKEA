@@ -23,11 +23,35 @@
   "appid": "touristappid",
   "projectname": "shop",
   "condition": {
+    "search": {
+      "current": -1,
+      "list": []
+    },
+    "conversation": {
+      "current": -1,
+      "list": []
+    },
+    "game": {
+      "current": -1,
+      "list": []
+    },
     "miniprogram": {
+      "current": 1,
       "list": [
         {
           "name": "",
+<<<<<<< HEAD
           "pathName": "pages/homeRecent/homeRecent",
+=======
+          "query": "",
+          "id": 0,
+          "pathName": "pages/indexFind/indexFind"
+        },
+        {
+          "id": 1,
+          "name": "pages/classificationAnkings/classificationAnkings",
+          "pathName": "pages/classificationAnkings/classificationAnkings",
+>>>>>>> e462067bea1867c2e7234a748472a1cc9394a37c
           "query": ""
         }
       ]

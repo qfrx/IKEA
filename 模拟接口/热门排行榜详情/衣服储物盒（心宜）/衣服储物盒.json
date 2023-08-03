@@ -1,0 +1,330 @@
+{
+    "products": [{
+        "product": {
+          "id": "10395384",
+          "globalId": "50395382",
+          "name": "PÄRKLA 派克拉",
+          "productType": "储物袋",
+          "designText": "",
+          "measureText": "55x49x19 厘米",
+          "breathTaking": true,
+          "regularPrice": 9.99,
+          "image": "https://www.ikea.cn/cn/zh/images/products/paerkla-pai-ke-la-chu-wu-dai__0716331_pe730816_s4.jpg",
+          "labels": [{
+            "text": "热卖"
+          }],
+          "sources": [{
+              "sourceId": "be1768ca-c205-446d-91dd-e5652d593854",
+              "sourceImages": "https://file.app.ikea.cn/u/ECE8AE8E-A05B-11e8-A30A-005056931D59/20220812/61d371617ce6451ca7380e0ecbaee689.jpeg"
+            },
+            {
+              "sourceId": "c42672e2-1377-4bd2-9c9c-d6cc31c0846c",
+              "sourceImages": "https://file.app.ikea.cn/u/ODBCN627-5980-3335-8967-0778Z0000000/20220814/af7573a8f6a84cbda726c7e5bce68223.jpg"
+            },
+            {
+              "sourceId": "0E975C9F-56CB-436F-B66D14F01D7FF14A",
+              "sourceImages": "https://res.app.ikea.cn/inspiration/0E975C9F-56CB-436F-B66D14F01D7FF14A.jpg?v=1"
+            },
+            {
+              "sourceId": "5376f8a3-d37f-4888-b626-f25856495eb6",
+              "sourceImages": "https://file.app.ikea.cn/u/CIAM7349-4668-47b3-ae54-ca9f7a1ee4fd/20230527/f3dcf4957b72441ab9dea2772fa73471.jpeg"
+            }
+          ]
+        }
+      },
+      {
+        "product": {
+          "id": "50290361",
+          "globalId": "30290362",
+          "name": "SKUBB 思库布",
+          "productType": "储物袋",
+          "designText": "白色",
+          "measureText": "44x55x19 厘米",
+          "regularPrice": 29.99,
+          "breathTaking": false,
+          "image": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-dai-bai-se__0711176_pe728045_s4.jpg",
+          "labels": [{
+            "text": "热卖"
+          }],
+          "sources": [{
+              "sourceId": "00bfc425-d50f-4860-9f19-40fd39bfdf53",
+              "sourceImages": "https://res.app.ikea.cn/content/u/20230119/ff957a285f1045aab3bed05f96e8c7c9.jpg"
+            },
+            {
+              "sourceId": "020bdb33-a1a8-48b3-b7f0-9accb7899007",
+              "sourceImages": "https://file.app.ikea.cn/u/CIAM051d-83c7-4c25-bc6b-c4ccfb3ec520/20220920/109c1380e6b445eeaeafd3500f9814ad.jpeg"
+            },
+            {
+              "sourceId": "142d79f7-b744-4dff-b377-a1a44bf6ddba",
+              "sourceImages": "https://res.app.ikea.cn/content/u/20220221/b03bd17b3d2041ff8af8cd8cabf1a1a6.jpg"
+            },
+            {
+              "sourceId": "48FBCCA2-49A5-42CF-AFAC2A602E87193B",
+              "sourceImages": "https://res.app.ikea.cn/content/u/20221122/5850cd6bdd7145a7ae160f63b353b95b.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "product": {
+          "id": "20428553",
+          "globalId": "00428549",
+          "name": "SKUBB 思库布",
+          "productType": "储物盒，6件套",
+          "designText": "白色",
+          "regularPrice": 39.99,
+          "breathTaking": false,
+          "image": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-he-6-jian-tao-bai-se__1190772_pe900309_s4.jpg",
+          "labels": [{
+            "text": "热卖"
+          }],
+          "sources": [{
+              "sourceId": "30e817d4-b811-49f3-99a3-dfe5641c76ff",
+              "sourceImages": "https://file.app.ikea.cn/u/C0CA10A2-117A-11e9-953A-005056931D59/20220124/3eb9e893896b43c2854823bb59cb2bbb.jpeg"
+            },
+            {
+              "sourceId": "3672c91f-4ed6-44b4-b064-a5cc3eba8776",
+              "sourceImages": "https://file.app.ikea.cn/imported/20210802/3c7fa743e7362316c042c3b61dc23f02c5578845.jpg"
+            },
+            {
+              "sourceId": "47f018db-b8d7-4e23-93ce-666c97003fac",
+              "sourceImages": "https://file.app.ikea.cn/u/C0CA10A2-117A-11e9-953A-005056931D59/20220417/ea5dd6d5449645faab6369003660eb97.jpeg"
+            },
+            {
+              "sourceId": "499339c1-d5df-4c55-8d2f-96f3a0edd0f7",
+              "sourceImages": "https://res.app.ikea.cn/content/u/20230119/f55c982a3788419bba797cc59a73d718.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "product": {
+          "id": "90185594",
+          "globalId": "10185593",
+          "name": "SKUBB 思库布",
+          "productType": "储物盒带格",
+          "designText": "白色",
+          "measureText": "44x34x11 厘米",
+          "regularPrice": 29.99,
+          "breathTaking": false,
+          "image": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-he-dai-ge-bai-se__0711138_pe728006_s4.jpg",
+          "labels": [{
+            "text": "热卖"
+          }],
+          "sources": [{
+              "sourceId": "0cf7eb80-40b4-44ee-846e-90c26aa046f9",
+              "sourceImages": "https://file.app.ikea.cn/u/CIAM89e7-e5ac-4cf0-a3cb-0d9be614f064/20230504/f7a933533dcd4aa5b034f1fde7a6748d.jpeg"
+            },
+            {
+              "sourceId": "16623dc7-1b0b-4c90-a951-c06a1d77b17f",
+              "sourceImages": "https://file.app.ikea.cn/u/ODBCN627-5980-3366-3122-6572Z0000000/20230307/bee68fcbfe2c432390c77a7452fc48d1.jpeg"
+            },
+            {
+              "sourceId": "47f018db-b8d7-4e23-93ce-666c97003fac",
+              "sourceImages": "https://file.app.ikea.cn/u/C0CA10A2-117A-11e9-953A-005056931D59/20220417/ea6ba982a2654621acd5ca32b3de322f.jpeg"
+            },
+            {
+              "sourceId": "C9ECA8DB-799E-4F12-9A67DEDC1071A8D7",
+              "sourceImages": "https://res.app.ikea.cn/content/u/20230619/2e93da1a36734facb8e93861302c2a76.png"
+            }
+          ]
+        }
+      },
+      {
+        "product": {
+          "id": "50472969",
+          "globalId": "50400005",
+          "name": "SKUBB 思库布",
+          "productType": "储物盒带格",
+          "designText": "深灰色",
+          "measureText": "44x34x11 厘米",
+          "regularPrice": 29.99,
+          "breathTaking": false,
+          "image": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-he-dai-ge-shen-hui-se__0573438_pe667776_s4.jpg",
+          "labels": [],
+          "sources": [{
+              "sourceId": "681f203c-9a9e-4c61-b110-7ee880c67966",
+              "sourceImages": "https://file.app.ikea.cn/u/CIAM9ab5-dd10-4e96-9ad1-a103848fc312/20210829/98d50a675026490b8ce7cc8a5a586bcb.jpeg"
+            },
+            {
+              "sourceId": "06653077-2a47-40ba-beba-764c3f719ef1",
+              "sourceImages": "https://file.app.ikea.cn/u/CIAMc2ce-456b-4107-ac2d-ff81fe220e0e/20220409/2d8229eecf32420da427c3f36edec12c.jpeg"
+            },
+            {
+              "sourceId": "39f1b14e-a741-4339-bf9c-0087c76f0d16",
+              "sourceImages": "https://file.app.ikea.cn/u/CIAMf9ef-7c96-46e4-bc86-b9de87e86706/20220409/668f90a149d9470b8a1e29d57811fbbd.jpeg"
+            },
+            {
+              "sourceId": "5c98e7b4-ffe3-47b3-97e4-dfa717c1b761",
+              "sourceImages": "https://file.app.ikea.cn/u/CIAMb602-d32e-40d1-848f-5fe15be2aa31/20220415/d163c16792aa4cf383b4c5d6bd84a590.jpeg"
+            }
+          ]
+        }
+      },
+      {
+        "product": {
+          "id": "20309687",
+          "globalId": "40309686",
+          "name": "STUK 斯图克",
+          "itemType": "ART",
+          "productType": "储物袋",
+          "designText": "白色/灰色",
+          "measureText": "34x51x28 厘米",
+          "regularPrice": 59.99,
+          "breathTaking": false,
+          "image": "https://www.ikea.cn/cn/zh/images/products/stuk-si-tu-ke-chu-wu-dai-bai-se-hui-se__0711302_pe728140_s4.jpg",
+          "labels": [],
+          "sources": [{
+              "sourceId": "89b8ab3f-3b25-4a96-9ea6-7199add9e2fb",
+              "sourceImages": "https://file.app.ikea.cn/u/ODBCN627-5980-3315-8782-9248Z0000000/20220903/071b494e26154144a559cc7df28f8464.jpeg"
+            },
+            {
+              "sourceId": "bb428f79-82ea-482d-a5a5-644488b4b8b1",
+              "sourceImages": "https://file.app.ikea.cn/u/CIAM9812-13a7-4ba2-9237-c508615f0675/20230708/b33cde33cc1441ae9c78b34da6ab5bbe.jpeg"
+            },
+            {
+              "sourceId": "e827074c-c3d9-4355-abff-0359e5f585fa",
+              "sourceImages": "https://file.app.ikea.cn/u/CIAM9812-13a7-4ba2-9237-c508615f0675/20230708/faed9f15418d4136aa2feae7c8365eae.jpeg"
+            },
+            {
+              "sourceId": "eea5e0c5-540f-4427-87a0-e8cbe8c9846e",
+              "sourceImages": "https://res.app.ikea.cn/content/u/20230119/f83dc0cee0da4ffbbb4c2f2148a4f295.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "product": {
+          "id": "10186390",
+          "globalId": "00186395",
+          "name": "SKUBB 思库布",
+          "productType": "盒",
+          "designText": "白色",
+          "measureText": "31x34x33 厘米",
+          "type": "REG",
+          "regularPrice": 79.99,
+          "breathTaking": false,
+          "image": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-he-bai-se__0711326_pe728153_s4.jpg",
+          "labels": [{
+            "text": "热卖"
+          }],
+          "sources": [{
+              "sourceId": "1f9ed90a-5fe3-4c9c-86aa-d584f73aa2d7",
+              "sourceImages": "https://file.app.ikea.cn/u/ODBCN627-5980-3335-9160-3346Z0000000/20220909/24462dbff9ab41d788a0081b3a3989aa.jpeg"
+            },
+            {
+              "sourceId": "3485df51-eee5-4271-afc6-c043bd10fafc",
+              "sourceImages": "https://res.app.ikea.cn/content/u/20220609/4fbd6866b755412d95a772ca9815311e.jpg"
+            },
+            {
+              "sourceId": "5c98e7b4-ffe3-47b3-97e4-dfa717c1b761",
+              "sourceImages": "https://file.app.ikea.cn/u/CIAMb602-d32e-40d1-848f-5fe15be2aa31/20220415/6853207963ed4713b7e0812d7ebd1d83.jpeg"
+            },
+            {
+              "sourceId": "796DDC2F-BB76-4679-848EEDB300F6A825",
+              "sourceImages": "https://res.app.ikea.cn/content/u/20230223/4b2d9b42879240d687f470a386e35ea8.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "product": {
+          "id": "40472984",
+          "globalId": "20399999",
+          "name": "SKUBB 思库布",
+          "productType": "储物袋",
+          "designText": "深灰色",
+          "measureText": "44x55x19 厘米",
+          "regularPrice": 29.99,
+          "breathTaking": false,
+          "image": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-chu-wu-dai-shen-hui-se__0573442_pe667780_s4.jpg",
+          "labels": [{
+            "text": "热卖",
+            "borderColor": "#E00751",
+            "backgroundColor": "#E00751",
+            "textColor": "#FFFFFF"
+          }],
+          "sources": [{
+              "sourceId": "48AE88E8-4E26-4C67-949FA63B9BD715D8",
+              "sourceImages": "https://res.app.ikea.cn/content/u/20220707/2e1615e674d74aef9047139690f4f711.png"
+            },
+            {
+              "sourceId": "4c481f7c-b216-407d-a562-0db48dbbaead",
+              "sourceImages": "https://res.app.ikea.cn/content/u/20220412/ca8ac7e8bb324842b4142e3de5ab5753.jpg"
+            },
+            {
+              "sourceId": "b1fe2da2-562f-48e2-a96f-9845c3a2c3eb",
+              "sourceImages": "https://file.app.ikea.cn/u/D18B3008-3D1C-11ea-BC28-005056930470/20230427/7db1d0f82a5643f78cf9fd24b698d337.jpeg"
+            },
+            {
+              "sourceId": "e5bc4ece-3b82-4cbd-b968-67774d138286",
+              "sourceImages": "https://res.app.ikea.cn/content/u/20221114/fc101adbc5634e8aa29555abc3a2566d.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "product": {
+          "id": "80186396",
+          "globalId": "90186391",
+          "name": "SKUBB 思库布",
+          "productType": "鞋盒",
+          "designText": "白色",
+          "measureText": "22x34x16 厘米",
+          "regularPrice": 59.99,
+          "breathTaking": false,
+          "image": "https://www.ikea.cn/cn/zh/images/products/skubb-si-ku-bu-xie-he-bai-se__0711341_pe728167_s4.jpg",
+          "labels": [],
+          "sources": [{
+              "sourceId": "0699d39d-a6b2-4718-af0d-f3f2a537af6b",
+              "sourceImages": "https://res.app.ikea.cn/content/u/20221201/9a400ae2677849ffa79b129c48f99fdb.jpg"
+            },
+            {
+              "sourceId": "525F5B8E-EFCB-45C0-9490C1C5E6A3568E",
+              "sourceImages": "https://res.app.ikea.cn/content/u/20230619/606e5db1f14446c1a248a3225b9333ca.png"
+            },
+            {
+              "sourceId": "5D25BC55-274C-403C-B7B78C814148E45D",
+              "sourceImages": "https://res.app.ikea.cn/content/u/20230619/99ba07267c1a45c29f2d6fa5a0e8c08e.png"
+            },
+            {
+              "sourceId": "bd66fa4f-799c-4c89-a233-336eeccfa522",
+              "sourceImages": "https://res.app.ikea.cn/content/u/20230119/f2ec1cb9174542caadb11ea51f5589e8.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "product": {
+          "id": "20395425",
+          "globalId": "60395428",
+          "name": "TJENA 希纳",
+          "itemType": "ART",
+          "productType": "附盖储物盒",
+          "designText": "白色",
+          "measureText": "25x35x20 厘米",
+          "regularPrice": 29.99,
+          "breathTaking": false,
+          "image": "https://www.ikea.cn/cn/zh/images/products/tjena-xi-na-fu-gai-chu-wu-he-bai-se__0713112_pe729261_s4.jpg",
+          "labels": [],
+          "sources": [{
+              "sourceId": "396F3256-98BE-4E1F-8FDD5C413FBC85B5",
+              "sourceImages": "https://res.app.ikea.cn/content/u/20220628/889d94a2a1414591b206dbeeadccaa92.png"
+            },
+            {
+              "sourceId": "4571aa05-af47-4de0-bc83-6e8c08cf6eef",
+              "sourceImages": "https://res.app.ikea.cn/content/u/20221207/3c806416dbd840a88e7bfe3fb4972afc.jpg"
+            },
+            {
+              "sourceId": "7a28edc8-fbdf-406c-826b-7080e4e53171",
+              "sourceImages": "https://res.app.ikea.cn/content/u/20221121/ebe1d47a226b49cfa2b57c68bdad83db.jpg"
+            },
+            {
+              "sourceId": "eefc6d5e-4606-4fff-9d2c-53a44a5b6508",
+              "sourceImages": "https://res.app.ikea.cn/content/u/20221114/e056eddcabcb4347ba07ff82a46bc231.jpg"
+            }
+          ]
+        }
+      }
+    ]
+  }

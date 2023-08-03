@@ -194,6 +194,9 @@
 					<view class="homeRecent-content-findmore-title1">按场景选购</view>
 					<view class="homeRecent-content-findmore-title2">浏览我们的新品图库, 你可以点击场景选购！</view>
 					<view class="discovering-inspiration">
+						<view class="title">
+							发现更多家居灵感
+						</view>
 						<u-tabs :list="InspirationTypes" :current="num" lineWidth="0" lineColor="#f56c6c" :activeStyle="{
 					                  color: '#f00',
 					                  fontWeight: 'bold',
@@ -342,7 +345,8 @@
 						type: this.discoverType,
 						pageNum: this.discoverPageNum
 					})
-					res.msg.data.list.forEach((item, index) => {
+					console.log(res);
+					res.data.list.forEach((item, index) => {
 						if (index % 2 == 0) {
 							this.discoverLeftList.push(item)
 						} else {

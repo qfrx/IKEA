@@ -51,19 +51,16 @@
 			//排行榜
 			"path": "pages/classificationAnkings/classificationAnkings",
 			"style": {
-				"navigationBarTitleText": "",
-				"enablePullDownRefresh": false,
-				"navigationStyle": "custom"
-			},
-			"app-plus": {
-				"titleView": false
+				"navigationBarTitleText": ""
 			}
+	
 		},
 		{
 			"path": "pages/homeRecent/homeRecent",
 			"style": {
 				"navigationBarTitleText": "uni-app",
 				"navigationStyle": "custom" //清除头部标题
+			
 			},
 			"app-plus": {
 				"titleView": false //清除头部标题
@@ -83,7 +80,16 @@
 			}
 
 		}
-	],
+	    ,{
+            "path" : "pages/commodityDetails/commodityDetails",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
 		"navigationBarTitleText": "uni-app",

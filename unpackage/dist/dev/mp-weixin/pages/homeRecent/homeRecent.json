@@ -2,7 +2,10 @@
   "navigationBarTitleText": "uni-app",
   "navigationStyle": "custom",
   "usingComponents": {
+<<<<<<< HEAD
     "u-tabs": "/uni_modules/uview-ui/components/u-tabs/u-tabs",
+=======
+>>>>>>> e462067bea1867c2e7234a748472a1cc9394a37c
     "find-top-logo": "/components/findTopLogo"
   }
 }

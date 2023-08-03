@@ -1,11 +1,19 @@
 {
   "navigationBarTitleText": "",
+<<<<<<< HEAD
   "enablePullDownRefresh": false,
   "navigationStyle": "custom",
+=======
+>>>>>>> e462067bea1867c2e7234a748472a1cc9394a37c
   "usingComponents": {
     "u-sticky": "/uni_modules/uview-ui/components/u-sticky/u-sticky",
     "u-tabs": "/uni_modules/uview-ui/components/u-tabs/u-tabs",
     "u-skeleton": "/uni_modules/uview-ui/components/u-skeleton/u-skeleton",
+<<<<<<< HEAD
     "u-swiper": "/uni_modules/uview-ui/components/u-swiper/u-swiper"
+=======
+    "u-swiper": "/uni_modules/uview-ui/components/u-swiper/u-swiper",
+    "u-back-top": "/uni_modules/uview-ui/components/u-back-top/u-back-top"
+>>>>>>> e462067bea1867c2e7234a748472a1cc9394a37c
   }
 }

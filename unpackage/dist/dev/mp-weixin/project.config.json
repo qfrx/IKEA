@@ -27,12 +27,7 @@
       "list": [
         {
           "name": "",
-          "pathName": "pages/indexFind/indexFind",
-          "query": ""
-        },
-        {
-          "name": "pages/undifindPage/undifindPage",
-          "pathName": "pages/undifindPage/undifindPage",
+          "pathName": "pages/homeRecent/homeRecent",
           "query": ""
         }
       ]

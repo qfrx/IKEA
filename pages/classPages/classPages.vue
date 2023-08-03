@@ -13,7 +13,7 @@
 		<view class="classPages-box">
 			<!-- 分类页的区域滚动左侧列表 -->
 			<view class="classPages-box-left">
-				<scroll-view class="scroll-box" scroll-y="true">
+				<scroll-view v-if="classPagesSedeContent" class="scroll-box" scroll-y="true">
 					<view @click="change(item.id)" v-for="item in classPagesSedeContent" :key="item.id" :class="['scroll-list',{'active':classPagesSideID==item.id}]">
 						<view>{{item.name}}</view>
 					</view>
@@ -21,7 +21,7 @@
 			</view>
 			<!-- 分类页的区域滚动右侧展示区域 -->
 			<view class="classPages-box-right">
-				<scroll-view class="scrollY-box" scroll-y="true">
+				<scroll-view v-if="classPagesSedeContent" class="scrollY-box" scroll-y="true">
 					<view v-for="item in classPagesSedeContent" :key="item.id">
 						<view class="scrollY-box-title">{{item.name}}</view>
 						<view class="scrollY-box-ul">

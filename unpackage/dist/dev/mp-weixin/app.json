@@ -5,6 +5,7 @@
     "pages/indexFind/indexFind",
     "pages/shopCar/shopCar",
     "pages/classificationAnkings/classificationAnkings",
+    "pages/homeRecent/homeRecent",
     "pages/undifindPage/undifindPage"
   ],
   "subPackages": [],

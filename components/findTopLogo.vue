@@ -22,6 +22,7 @@
 		width: 100%;
 		height: 100rpx;
 		padding: 0 40rpx;
+		background-color: #fff;
 		.findTopLogo-left {
 			width: 126rpx;
 			height: 50rpx;
